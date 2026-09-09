@@ -6,3 +6,14 @@ const d=JSON.parse(fs.readFileSync('public/catalog.json'));const rows=[...new Ma
 
 for(const selected of ["Men's","Women's"]){assert.equal(matchesClothingFit('Unisex',selected),true);assert.equal(matchesClothingFit('Unspecified',selected),true);assert.equal(matchesClothingFit('',selected),false);assert.equal(matchesClothingFit(selected,selected),true);}
 assert.equal(matchesClothingFit("Women's","Men's"),false);assert.equal(matchesClothingFit("Men's","Women's"),false);
+for(const name of ['100% RIDECAMP Youth','Junior Jersey','Kids Gloves','Boys Trail Shorts','Girls Jersey','Child Jacket']){
+ assert.equal(a(name,"Men's / Unisex").audience,'Youth');
+}
+assert.equal(a('Trail Jersey','Youth Clothing').audience,'Youth');
+assert.equal(a('Kidney warmer').audience,'Unspecified');
+assert.equal(matchesClothingFit('Youth',"Men's"),false);
+assert.equal(matchesClothingFit('Youth',"Women's"),false);
+assert.equal(matchesClothingFit('Youth','Youth'),true);
+assert.equal(matchesClothingFit('Unspecified','Youth'),false);
+assert.equal(matchesClothingFit('Unisex','Youth'),false);
+assert.equal(matchesClothingFit('Youth','all'),true);

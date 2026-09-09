@@ -12,3 +12,5 @@ These rules apply to every update, including new products. Use deterministic sha
 When adding a cleanup rule, change the shared module rather than patching individual snapshot rows. Add a representative regression case to the relevant test, update this document if behavior changes, regenerate the CSV, and run checks plus the build before pushing. Keep unsupported or ambiguous details intact until evidence supports a rule. No fresh feed fetch is needed to test formatting rules.
 
 Inventory runs daily at midnight America/Los_Angeles; market offers run Sunday at midnight in the same time zone. This follows PST/PDT. Cleanup runs with the inventory update, with no additional schedule or paid service.
+
+Explicit youth, junior, kids, children, boys and girls clothing belongs to Youth, taking precedence over gender labels. Youth has its own filter and is excluded from Men's and Women's results; All fits still includes it. Unknown clothing is not assumed to be youth.

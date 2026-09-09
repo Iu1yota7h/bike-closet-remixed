@@ -69,7 +69,8 @@ export function apparel(item:{name:string;category:string;group:string}){
   if(women&&men)return 'Unspecified';
   return women?"Women's":men?"Men's":null;
  };
- const audience=gender(n)||gender(c)||'Unspecified';
+ const youth=/\b(youth|junior|jr|kids?|children(?:'s)?|child|boys?|girls?)\b/.test(n+' / '+c);
+ const audience=youth?'Youth':gender(n)||gender(c)||'Unspecified';
  // "Gravel Grey" is a color, not evidence of riding discipline.
  const styleText=(n+' / '+c).replace(/\bgravel\s+gr[ae]y\b/g,'');
  const ridingStyles=[] as string[];
