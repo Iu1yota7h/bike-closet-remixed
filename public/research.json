@@ -21,6 +21,74 @@
       }
     ]
   },
+  "1684319": {
+    "summary": "A women’s trail short with stretch-woven fabric, a standard fit and a longer riding inseam, according to the listing. No independent test of this exact model was found, so comfort and durability remain unverified.",
+    "tier": "Trail outer shorts; performance not independently rated",
+    "rating": "Specifications checked · no independent test found",
+    "evidenceType": "specifications",
+    "checkedAt": "2026-09-09T23:55:07.218Z",
+    "sources": [
+      {
+        "label": "Bike Closet · product specifications",
+        "url": "https://bikecloset.com/product/enve-trail-short-womens/"
+      },
+      {
+        "label": "Sports Basement · same model specifications",
+        "url": "https://www.sportsbasement.com/products/w-trail-short-1"
+      }
+    ],
+    "marketNote": "Checked September 9, 2026: Forest/XS is $5 and in stock at Bike Closet. Sports Basement displays $75 against a $150 reference for Black, with S/M/L choices; this corroborates a retailer reference, not manufacturer MSRP or an exact Forest/XS offer. No market-savings rank assigned.",
+    "marketSources": [
+      {
+        "label": "Sports Basement · different color/size",
+        "url": "https://www.sportsbasement.com/products/w-trail-short-1"
+      }
+    ]
+  },
+  "1684330": {
+    "summary": "A relaxed, lightweight everyday short with an elastic drawstring waist and zippered storage, according to Bike Closet’s specifications. Treat it as casual activewear; a chamois, exact-model independent review and long-term durability have not been verified.",
+    "tier": "Casual activewear; retailer specifications only",
+    "rating": "Specifications checked · no independent test found",
+    "evidenceType": "specifications",
+    "checkedAt": "2026-09-09T23:55:07.218Z",
+    "sources": [
+      {
+        "label": "Bike Closet · OTD specifications",
+        "url": "https://bikecloset.com/product/enve-otd-light-stretch-short-womens/"
+      }
+    ],
+    "marketNote": "Checked September 9, 2026: Black/XS is $5 and in stock. The $110 reference remains unverified; no current exact women’s Black/XS competitor offer was established. Men’s OTD shorts and unrelated merino apparel were excluded.",
+    "marketSources": [
+      {
+        "label": "Bike Closet · source of the $110 reference",
+        "url": "https://bikecloset.com/product/enve-otd-light-stretch-short-womens/"
+      }
+    ]
+  },
+  "1712564": {
+    "summary": "ENVE’s Foundation ID360 hubs use 24 holes and Center Lock: the front is 12×100, while the rear is 12×142. Bike Closet sells individual OEM bulk-packaged hubs under one shared title, so the Front option must not be read as a 12×142 rear hub or a complete hubset; confirm the selected axle/freehub option before a wheel build.",
+    "tier": "Foundation hub family; verify exact generation and selected option",
+    "rating": "Specifications checked · no independent test found",
+    "evidenceType": "specifications",
+    "checkedAt": "2026-09-09T23:55:07.218Z",
+    "sources": [
+      {
+        "label": "ENVE · Foundation ID360 dimensions",
+        "url": "https://support.enve.com/hc/en-us/articles/28639671014299-Foundation-ID360-HUB-Dimensions"
+      },
+      {
+        "label": "Bike Closet · front/rear options and OEM packaging",
+        "url": "https://bikecloset.com/product/enve-alloy-foundation-hubset-12x142-disc-centerlock/"
+      }
+    ],
+    "marketNote": "Checked September 9, 2026: the Front option is $39.99 and in stock. The $150 reference is unverified for this individual OEM front hub. The Bikeinn alloy hub has different stated flange dimensions, and complete hubsets/newer Innerdrive wheels are not equivalent comparisons; no verified market savings or transferred wheelset review score is assigned.",
+    "marketSources": [
+      {
+        "label": "Bikeinn · excluded, different hub specification",
+        "url": "https://www.tradeinn.com/bikeinn/en/enve-disc-12x100-24h-alliage-front-hub/138501020/p"
+      }
+    ]
+  },
   "1718674": {
     "summary": "Race-focused bib shorts that earned 9/10 from road.cc for their supportive fit, pad and long-ride comfort. The shorter pad favors an aggressive position, so more upright riders may prefer a different cut; the test used a different color.",
     "tier": "Core racing range; simpler construction than EQUIPE RS",
@@ -36,6 +104,54 @@
       {
         "label": "Competitive Cyclist · different selected color",
         "url": "https://www.competitivecyclist.com/assos-equipe-r-bib-shorts-s11-mens"
+      }
+    ]
+  },
+  "1725016": {
+    "summary": "This listing is a navy XS casual Matrix T-shirt, not the similarly named Matrix cycling jersey. Fabric composition and an independent review were not established, so do not assume technical jersey features or premium performance from the brand name.",
+    "tier": "Casual T-shirt; material and performance unverified",
+    "rating": "Specifications checked · no independent test found",
+    "evidenceType": "specifications",
+    "checkedAt": "2026-09-09T23:55:07.218Z",
+    "sources": [
+      {
+        "label": "Bike Closet · exact shirt listing",
+        "url": "https://bikecloset.com/product/enve-matrix-t-shirt-ss-navy-xs/"
+      },
+      {
+        "label": "Mohawk’s · Matrix T-shirt, XS reference",
+        "url": "https://mohawks.eu/enve/13106-enve-matrix-t-shirt.html"
+      }
+    ],
+    "marketNote": "Checked September 9, 2026: Bike Closet’s navy XS is $5 and in stock. Its $100 reference was not independently verified; Mohawk’s displays a Matrix T-shirt at €29.17 including tax, with XS awaiting restock. Currency, availability and unverified color prevent an exact US comparison; no discount against verified MSRP is claimed.",
+    "marketSources": [
+      {
+        "label": "Mohawk’s · non-US, XS awaiting restock",
+        "url": "https://mohawks.eu/enve/13106-enve-matrix-t-shirt.html"
+      }
+    ]
+  },
+  "1756087": {
+    "summary": "A fitted women’s short-sleeve trail jersey with stretch and a longer rear hem; retailer specifications describe a natural/synthetic blend containing silver fibers. Breathability and odor-resistance are product claims, and no independent test of this exact model was found.",
+    "tier": "Technical trail jersey; retailer specifications, not a tested rating",
+    "rating": "Specifications checked · no independent test found",
+    "evidenceType": "specifications",
+    "checkedAt": "2026-09-09T23:55:07.218Z",
+    "sources": [
+      {
+        "label": "Jenson USA · fit and construction",
+        "url": "https://www.jensonusa.com/enve-womens-composite-short-sleeve-jersey"
+      },
+      {
+        "label": "Bike Closet · listed model",
+        "url": "https://bikecloset.com/product/enve-composite-ss-jersey-womens/"
+      }
+    ],
+    "marketNote": "Checked September 9, 2026: Sage Lemonade/L is $5 and in stock. Sports Basement displays Brick at $21 with an $85 reference, whereas Bike Closet lists $100; manufacturer MSRP was not established. The different color and unverified exact stock prevent a matching-offer savings claim.",
+    "marketSources": [
+      {
+        "label": "Sports Basement · Brick, $85 reference",
+        "url": "https://www.sportsbasement.com/products/w-composite-ss-jersey"
       }
     ]
   },
