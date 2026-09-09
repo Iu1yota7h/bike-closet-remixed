@@ -4,6 +4,11 @@ export function classify(item:GroupedItem):{group:string;type:string}{
  const has=(x:string)=>cats.includes(x);
  const result=(group:string,type:string)=>({group,type});
  // Specific product names take precedence over the retailer's promotional tags.
+ // Manufacturer references for these model-specific rules are in CATALOG-CLEANUP.md.
+ if(/^silca eolo iv\b/.test(n))return result('Accessories & tools','CO2 inflators');
+ if(/^garmin edge\b/.test(n))return result('Accessories & tools','Cycling computers');
+ if(/\bsaddle bag\b/.test(n))return result('Accessories & tools','Bags & packs');
+ if(/\bjacket\b|race cape/.test(n))return result('Clothing','Jackets & rain shells');
  if(/\bpant\b/.test(n))return result('Clothing','Casual clothing');
  // SILCA identifies Cuscino as bar tape: https://silca.cc/collections/indoor-collection/products/nastro-cuscino-bar-tape
  if(/silca cuscino|bar tape/.test(n))return result('Components','Bar tape & grips');
@@ -63,7 +68,7 @@ export function apparel(item:{name:string;category:string;group:string}){
  const clean=(s:string)=>s.toLowerCase().replace(/&#(?:0*39|0*8217);|&apos;|&rsquo;|[’‘]/g,"'");
  const n=clean(item.name),c=clean(item.category);
  const gender=(s:string)=>{
-  const women=/\b(women(?:'s|s)?|ladies|female)\b|\bw's\b/.test(s);
+  const women=/\b(women(?:'s|s)?|wmns|womens|ladies|female)\b|\bw's\b/.test(s);
   const men=/\b(men(?:'s|s)?|male)\b|\bm's\b/.test(s);
   if(/\bunisex\b/.test(s))return 'Unisex';
   if(women&&men)return 'Unspecified';

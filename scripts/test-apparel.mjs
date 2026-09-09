@@ -17,3 +17,8 @@ assert.equal(matchesClothingFit('Youth','Youth'),true);
 assert.equal(matchesClothingFit('Unspecified','Youth'),false);
 assert.equal(matchesClothingFit('Unisex','Youth'),false);
 assert.equal(matchesClothingFit('Youth','all'),true);
+assert.equal(a('Gibraltar Vest WMNS Black SM').audience,"Women's");
+assert.equal(classify({name:'Assos MILLE GT 3/3 Jacket EVO',category:'Jerseys'}).type,'Jackets & rain shells');
+assert.equal(classify({name:'POC Ultra Saddle Bag 7L',category:'Saddles'}).type,'Bags & packs');
+assert.equal(classify({name:'Silca EOLO IV REGULATOR BLACK/RED',category:'Bags/Packs'}).type,'CO2 inflators');
+assert.equal(classify({name:'Garmin Edge 850',category:''}).type,'Cycling computers');

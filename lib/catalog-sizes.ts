@@ -5,22 +5,34 @@ function decodeSize(value:string){
  return value.replace(/&amp;/gi,'&').replace(/&(?:times|#215|#x0*d7);/gi,'×').replace(/&(?:nbsp|#160|#x0*a0);/gi,' ');
 }
 export function sizing(r:SizingItem){
- const exact=decodeSize(r.variant?.match(/(?:^|,\s*)Size:\s*([^,]+)/i)?.[1]?.trim()||r.size?.replaceAll('-',' ')||(r.type==='Tires'?r.variant?.match(/(?:^|,\s*)Color\/Size:\s*([^,]+)/i)?.[1]?.trim():'')||'');
+ const combined=r.variant?.match(/(?:^|,\s*)Color\/Size:\s*([^,]+)/i)?.[1]?.trim()||'';
+ const titleSize=r.type==='Tires'?r.name.match(/\b(?:700[cCbB]?|650[cCbB]?|29|27\.5|26)\s*[x×]\s*\d+(?:\.\d+)?(?:mm|[cC])?\b/)?.[0]:
+  r.type==='Helmets'?r.name.match(/\b(?:XXS|XS|S\/M|M\/L|L\/XL|XL|Small|Medium|Large)\b(?:\s+\d{2}[-–]\d{2}\s*cm)?/i)?.[0]:
+  r.group==='Clothing'?r.name.match(/\b(?:XXS|XS|SM|MD|LG|XL|2XL|3XL|Small|Medium|Large)\s*$/i)?.[0]:
+  r.type==='Cycling shoes'?r.name.match(/\b(?:3\d|4\d|50)(?:\.5)?\s*(?:\(Final Sale\))?$/i)?.[0]?.replace(/\s*\(Final Sale\)$/i,''):'';
+ const exact=decodeSize(r.variant?.match(/(?:^|,\s*)Size:\s*([^,]+)/i)?.[1]?.trim()||r.size?.replaceAll('-',' ')||(['Tires','Gloves'].includes(r.type)?combined:'')||titleSize||'');
  const domain=r.type==='Cycling shoes'?'Shoes':r.type==='Helmets'?'Helmets':r.type==='Tires'?'Tires':r.type==='Socks'?'Socks':r.group==='Clothing'?'Clothing':r.type;
  let token=exact.trim(), note='';
- if(!token)return {officialSize:'',sizeToken:'',sizeKey:'',sizeLabel:'',sizeRank:999,domain};
+ if(r.type==='Gloves'&&combined&&exact===decodeSize(combined)){
+  token=exact.match(/(?:^|\s)(Y-)?(XXS|XS|SM|S|MD|M|LG|L|XL|XXL|2XL|3XL)\s*$/i)?.[0]?.trim()||'';
+  if(/^Y-/i.test(token))token='Youth '+(aliases[token.slice(2).toLowerCase()]||token.slice(2));
+ }
+ if(r.type==='Helmets')token=token.replace(/\s+\d{2}[-–]\d{2}\s*cm$/i,'');
+ if(!token)return {officialSize:exact,sizeToken:'',sizeKey:'',sizeLabel:'',sizeRank:999,domain};
  if(r.type==='Lights')return {officialSize:exact,sizeToken:'',sizeKey:'',sizeLabel:'',sizeRank:999,domain}; // Retailer misuses Size for color.
  if(domain==='Shoes'&&/^\d+(?:[. -][05])?$/.test(token)){token=String(Number(token.replace(/[ -]/,'.')))}
  else if(domain==='Tires'){
    const dimensions=token.match(/^(700|650)([cb]?)\s*[x×]\s*(\d+(?:\.\d+)?)/i);
+   const inches=token.match(/^(29|27\.5|26)\s*[x×]\s*(\d+(?:\.\d+)?)/i);
    const width=token.match(/^(\d+(?:\.\d+)?)\s*(?:mm)?$/i);
    if(dimensions)token=`${dimensions[1]}${dimensions[1]==='700'&&dimensions[2].toLowerCase()!=='b'?'':dimensions[2].toUpperCase()} × ${Number(dimensions[3])} mm`;
+   else if(inches)token=`${inches[1]} × ${Number(inches[2])} in`;
    else if(width)token=/700c|700\s*[x×]/i.test(r.name)?`700 × ${Number(width[1])} mm`:`${Number(width[1])} mm`;
  }else{
    const lower=token.toLowerCase().replace(/–/g,'-').trim();
    const combo=lower.split(/\s*[\/-]\s*/);
    if(combo.length===2&&aliases[combo[0]]&&aliases[combo[1]])token=aliases[combo[0]]+'/'+aliases[combo[1]];
-   else if(lower==='xlg'&&/^poc\b/i.test(r.name))token='XL';
+   else if(lower==='xlg'&&/^(poc|rapha)\b/i.test(r.name))token='XL';
    else if(aliases[lower])token=aliases[lower];
    else if(/^(?:one size|os|o\/s|osfa|uni)$/i.test(token))token='One size';
    else if(/^xlg\b/i.test(token)&&/^assos\b/i.test(r.name))token='ASSOS XLG';
