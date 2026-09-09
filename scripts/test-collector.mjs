@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import {normalize,validatePages} from '../collect.mjs';
+const v={id:10,parent:0,name:'Test',type:'simple',is_in_stock:true,permalink:'https://bikecloset.com/product/test/',prices:{currency_code:'USD',price:'1000',regular_price:'2000',currency_minor_unit:2}};
+const old={checkedAt:'2026-09-07T00:00:00Z',rows:[{id:10,price:12,stock:false}]};
+const {rows,events}=normalize([v],[],old,'2026-09-09T00:00:00Z');
+assert.equal(rows[0].newestRank,0);assert.equal(rows[0].change,'price-drop');assert.equal(events[0].previousPrice,12);
+assert.throws(()=>normalize([{...v,prices:{...v.prices,price:'NaN'}}],[],old,'now'));
+assert.throws(()=>validatePages([{headers:new Headers({'x-wp-total':'2','x-wp-totalpages':'1'}),body:[v]}]));
+assert.throws(()=>validatePages([{headers:new Headers({'x-wp-total':'2','x-wp-totalpages':'1'}),body:[v,v]}]));
+const missing=normalize([{...v,id:11}],[],old,'2026-09-09T00:00:00Z');assert.equal(missing.events.some(e=>e.id===10),false);
+console.log('Collector validation passed: changed prices, rank, invalid data, incomplete/duplicate pages, missing IDs are not false stock-outs.');

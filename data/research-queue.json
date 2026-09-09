@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-09-09T21:37:26.501Z",
+  "maxNewModels": 5,
+  "maxMarketRechecks": 10,
+  "shortlist": [
+    {
+      "id": 1684325,
+      "productId": 1684319,
+      "name": "Enve Trail Short Womens",
+      "price": 5,
+      "reference": 150,
+      "url": "https://bikecloset.com/product/enve-trail-short-womens/?attribute_pa_color=forest&attribute_pa_size=xs"
+    },
+    {
+      "id": 1684331,
+      "productId": 1684330,
+      "name": "Enve OTD Light Stretch Short Womens",
+      "price": 5,
+      "reference": 110,
+      "url": "https://bikecloset.com/product/enve-otd-light-stretch-short-womens/?attribute_pa_color=black&attribute_pa_size=xs"
+    },
+    {
+      "id": 1725016,
+      "productId": 1725016,
+      "name": "ENVE Matrix T-shirt SS Navy XS",
+      "price": 5,
+      "reference": 100,
+      "url": "https://bikecloset.com/product/enve-matrix-t-shirt-ss-navy-xs/"
+    },
+    {
+      "id": 1756098,
+      "productId": 1756087,
+      "name": "Enve Composite SS Trail Jersey Womens",
+      "price": 5,
+      "reference": 100,
+      "url": "https://bikecloset.com/product/enve-composite-ss-jersey-womens/?attribute_pa_color=sage-lemonade&attribute_pa_size=l"
+    },
+    {
+      "id": 1713147,
+      "productId": 1712564,
+      "name": "Enve Alloy Foundation Hub 24H 12&#215;142 Disc Centerlock",
+      "price": 39.99,
+      "reference": 150,
+      "url": "https://bikecloset.com/product/enve-alloy-foundation-hubset-12x142-disc-centerlock/?attribute_pa_freehub=front"
+    }
+  ]
+}

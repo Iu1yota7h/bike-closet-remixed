@@ -1,0 +1,64 @@
+{
+  "1544862": {
+    "summary": "A premium all-round road helmet praised for comfort, ventilation and low weight in BikeRadar’s 2024 test. Its main irritation was the retention cradle needing its height reset before each use; the review does not establish a comparative safety ranking.",
+    "tier": "Premium all-rounder; below Elemento in the reviewed range",
+    "rating": "BikeRadar · 4.5/5",
+    "sources": [
+      {
+        "label": "BikeRadar · March 2024",
+        "url": "https://www.bikeradar.com/reviews/helmets/road-cycling-helmets/kask-protone-icon-helmet-review"
+      }
+    ],
+    "marketNote": "The red/small option is matched by model, color, size and new-in-box condition. The competitor supplies no barcode. Other sizes and colors do not inherit this comparison; the current checked offer appears above.",
+    "marketSources": [
+      {
+        "label": "Outdoor Bros · red / small",
+        "url": "https://www.outdoorbros.com/products/kask-protone-icon-helmet?variant=62655696175263"
+      },
+      {
+        "label": "Craniologie · excluded, sold out",
+        "url": "https://www.craniologie.com/products/kask-protone-icon-red-s"
+      }
+    ]
+  },
+  "1718674": {
+    "summary": "Race-focused bib shorts that earned 9/10 from road.cc for their supportive fit, pad and long-ride comfort. The shorter pad favors an aggressive position, so more upright riders may prefer a different cut; the test used a different color.",
+    "tier": "Core racing range; simpler construction than EQUIPE RS",
+    "rating": "road.cc · 9/10",
+    "sources": [
+      {
+        "label": "road.cc · April 2025",
+        "url": "https://road.cc/content/review/assos-equipe-r-bib-shorts-s11-313323"
+      }
+    ],
+    "marketNote": "Bike Closet’s black S and XL options were $210. Competitive Cyclist displayed $230 for the default Edge Green selection; price and stock for matching black sizes were not verified, so no savings claim or deal score is assigned.",
+    "marketSources": [
+      {
+        "label": "Competitive Cyclist · different selected color",
+        "url": "https://www.competitivecyclist.com/assos-equipe-r-bib-shorts-s11-mens"
+      }
+    ]
+  },
+  "1773097": {
+    "summary": "An affordable road pedal with adjustable release tension and stainless-steel contact plates, positioned near the entry end of LOOK’s range. Cyclingnews and road.cc reported bearing play in their 2021 test samples despite positive comments about riding performance.",
+    "tier": "Entry-level road",
+    "rating": "road.cc · 7/10",
+    "sources": [
+      {
+        "label": "Cyclingnews · 2021",
+        "url": "https://www.cyclingnews.com/reviews/look-keo-classic-3-plus-pedals-review/"
+      },
+      {
+        "label": "road.cc · November 2021",
+        "url": "https://road.cc/content/review/look-keo-classic-3-plus-287507"
+      }
+    ],
+    "marketNote": "Bike Closet’s $59.99 listing is OEM bulk packaging. LOOK’s US model page displayed a $95 reference, but included accessories are unconfirmed for the OEM offer; this is not an equivalent verified market comparison and receives no deal score.",
+    "marketSources": [
+      {
+        "label": "LOOK · manufacturer reference $95",
+        "url": "https://www.lookcycle.com/us-en/products/pedals/road/comfort/keo-classic-3-plus"
+      }
+    ]
+  }
+}

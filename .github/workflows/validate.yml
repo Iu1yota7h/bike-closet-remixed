@@ -1,0 +1,26 @@
+name: Validate site
+on:
+  push:
+    paths-ignore:
+      - 'data/**'
+      - 'public/catalog.json'
+      - 'public/in-stock.csv'
+      - 'public/market.json'
+      - 'public/status.json'
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npx tsc --noEmit
+      - run: node scripts/test-collector.mjs
+      - run: npm run build

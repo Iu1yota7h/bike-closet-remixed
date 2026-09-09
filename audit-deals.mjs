@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import ts from 'typescript';
+const code=ts.transpileModule(fs.readFileSync('lib/deals.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText;
+const {dealScore}=await import('data:text/javascript;base64,'+Buffer.from(code).toString('base64'));
+const now=Date.parse('2026-09-09T00:00:00Z');
+const evidence={1:{price:179.99,checkedAt:new Date(now).toISOString(),url:'https://example.test',exactMatch:true,inStock:true,quality:.9,tier:.8,qualitySource:'review',tierSource:'review',listingPrice:139,listingCheckedAt:new Date(now).toISOString()}};
+assert.equal(dealScore({id:1,price:139},now,evidence),62);
+assert.equal(dealScore({id:1,price:140},now,evidence),null);
+assert.equal(dealScore({id:2,price:139},now,evidence),null);
+assert.equal(dealScore({id:1,price:139},now+8*86400000,evidence),null);
+evidence[1].inStock=false;assert.equal(dealScore({id:1,price:139},now,evidence),null);
+evidence[1].inStock=true;evidence[1].lastCheckError='Timeout';assert.equal(dealScore({id:1,price:139},now,evidence),null);
+console.log('Deal eligibility passed: exact option, price changes, missing/stale evidence, unavailable and failed comparisons.');
