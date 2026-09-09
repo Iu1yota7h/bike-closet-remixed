@@ -1,12 +1,12 @@
 {
   "inventory": {
-    "checkedAt": "2026-09-09T21:36:21.251Z",
+    "checkedAt": "2026-09-09T21:46:02.272Z",
     "status": "success",
     "schedule": "Daily · 12 AM Pacific"
   },
   "market": {
-    "attemptedAt": "2026-09-09T21:37:26.501Z",
-    "checkedAt": "2026-09-09T21:37:26.501Z",
+    "attemptedAt": "2026-09-09T21:46:02.989Z",
+    "checkedAt": "2026-09-09T21:46:02.989Z",
     "status": "success",
     "checked": 1,
     "errors": 0,
