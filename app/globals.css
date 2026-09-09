@@ -15,3 +15,5 @@
 .apparelfilters{display:flex;flex-wrap:wrap;align-items:end;gap:16px;margin:0 0 20px}.apparelfilters .field{min-width:180px}.apparelfilters p{font-size:14px;max-width:400px;margin:0 0 9px}
 
 .personalnote{font-size:16px;line-height:1.7;color:#334766;max-width:1100px;margin:24px 0 0;padding-left:16px;border-left:3px solid #264fc5}
+
+.dealcomparison{min-width:260px;white-space:normal!important}.reviewrating{color:#334766;font-weight:600;margin-top:7px}
