@@ -63,3 +63,5 @@ On September 9, 2026, the feed directly reported 585 products and 3,734 variants
 Clothing filters distinguish explicit men's, women's and unisex labels; missing labels stay Unspecified. Riding styles can overlap. Only explicit road/gravel/mountain/trail cues are used, and color names such as Gravel Grey are excluded. Clothing fit and riding style are also exported in the CSV.
 
 The Clothing fit picker offers All fits, Men's and Women's. Both gender selections include Unisex and Unspecified clothing without changing the original classification in rows or CSV. This is a browsing rule, not a claim about fit compatibility.
+
+Combined alphabetic sizes (for example S/M, M/L and XL/2XL) appear under both individual size filters. Exact retailer sizes remain unchanged in rows and CSV. Numeric ranges and brand-specific sizing are not split. Older combined-size filter links normalize to the first individual size.

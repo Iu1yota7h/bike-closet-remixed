@@ -24,5 +24,6 @@ jobs:
       - run: npx tsc --noEmit
       - run: node scripts/test-collector.mjs
       - run: node scripts/test-apparel.mjs
+      - run: node scripts/test-size-options.mjs
       - run: node audit-deals.mjs
       - run: npm run build

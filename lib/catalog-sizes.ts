@@ -31,3 +31,11 @@ export function sizing(r:SizingItem){
  }
  const canonical=token.toLowerCase();return {officialSize:exact,sizeToken:canonical,sizeKey:`${domain.toLowerCase()}:${canonical}`,sizeLabel:token,sizeRank:rank.includes(token)?rank.indexOf(token):100,domain,note};
 }
+
+// Combined alphabetic sizes belong to both filters; numeric ranges stay intact.
+export function sizeOptions(r:ReturnType<typeof sizing>){
+ if(!r.sizeKey)return [];
+ const parts=r.sizeLabel.split('/');
+ const labels=parts.length===2&&parts.every(p=>/^(XXS|XS|S|M|L|XL|2XL|3XL)$/.test(p))?parts:[r.sizeLabel];
+ return labels.map(label=>({key:r.domain.toLowerCase()+':'+label.toLowerCase(),label,token:label.toLowerCase(),domain:r.domain,rank:rank.includes(label)?rank.indexOf(label):r.sizeRank}));
+}
