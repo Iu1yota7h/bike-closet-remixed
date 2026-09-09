@@ -1,17 +1,20 @@
 export type SizingItem={name:string;size:string|null;variant:string;group:string;type:string};
 const aliases:Record<string,string>={xxs:'XXS',xs:'XS',xsm:'XS','extra small':'XS',s:'S',sm:'S',sml:'S',small:'S',m:'M',md:'M',med:'M',medium:'M',l:'L',lg:'L',lrg:'L',large:'L',xl:'XL','extra large':'XL',xxl:'2XL','2xl':'2XL',xxxl:'3XL','3xl':'3XL'};
 const rank=['XXS','XS','S','S/M','M','M/L','L','L/XL','XL','XL/2XL','2XL','3XL','One size'];
+function decodeSize(value:string){
+ return value.replace(/&amp;/gi,'&').replace(/&(?:times|#215|#x0*d7);/gi,'×').replace(/&(?:nbsp|#160|#x0*a0);/gi,' ');
+}
 export function sizing(r:SizingItem){
- const exact=r.variant?.match(/(?:^|,\s*)Size:\s*([^,]+)/i)?.[1]?.trim()||r.size?.replaceAll('-',' ')||'';
+ const exact=decodeSize(r.variant?.match(/(?:^|,\s*)Size:\s*([^,]+)/i)?.[1]?.trim()||r.size?.replaceAll('-',' ')||(r.type==='Tires'?r.variant?.match(/(?:^|,\s*)Color\/Size:\s*([^,]+)/i)?.[1]?.trim():'')||'');
  const domain=r.type==='Cycling shoes'?'Shoes':r.type==='Helmets'?'Helmets':r.type==='Tires'?'Tires':r.type==='Socks'?'Socks':r.group==='Clothing'?'Clothing':r.type;
  let token=exact.trim(), note='';
  if(!token)return {officialSize:'',sizeToken:'',sizeKey:'',sizeLabel:'',sizeRank:999,domain};
  if(r.type==='Lights')return {officialSize:exact,sizeToken:'',sizeKey:'',sizeLabel:'',sizeRank:999,domain}; // Retailer misuses Size for color.
  if(domain==='Shoes'&&/^\d+(?:[. -][05])?$/.test(token)){token=String(Number(token.replace(/[ -]/,'.')))}
  else if(domain==='Tires'){
-   const dimensions=token.match(/^(700|650)[cCbB]?\s*[x×]\s*(\d+(?:\.\d+)?)/);
+   const dimensions=token.match(/^(700|650)([cb]?)\s*[x×]\s*(\d+(?:\.\d+)?)/i);
    const width=token.match(/^(\d+(?:\.\d+)?)\s*(?:mm)?$/i);
-   if(dimensions)token=`${dimensions[1]} × ${Number(dimensions[2])} mm`;
+   if(dimensions)token=`${dimensions[1]}${dimensions[1]==='700'&&dimensions[2].toLowerCase()!=='b'?'':dimensions[2].toUpperCase()} × ${Number(dimensions[3])} mm`;
    else if(width)token=/700c|700\s*[x×]/i.test(r.name)?`700 × ${Number(width[1])} mm`:`${Number(width[1])} mm`;
  }else{
    const lower=token.toLowerCase().replace(/–/g,'-').trim();
