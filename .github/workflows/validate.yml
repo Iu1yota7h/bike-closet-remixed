@@ -23,4 +23,5 @@ jobs:
       - run: npm ci
       - run: npx tsc --noEmit
       - run: node scripts/test-collector.mjs
+      - run: node scripts/test-apparel.mjs
       - run: npm run build

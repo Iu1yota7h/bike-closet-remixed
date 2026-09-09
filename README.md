@@ -59,3 +59,5 @@ npm run build
 ## Initial refresh audit
 
 On September 9, 2026, the feed directly reported 585 products and 3,734 variants, versus 584 and 5,183 in the September 7 snapshot. The shrink guard stopped the first collection. After independently verifying the new header totals, a one-time `--accept-reviewed-shrink` run was used. The unattended workflow never sets that option. No missing IDs were labeled sold out.
+
+Clothing filters distinguish explicit men's, women's and unisex labels; missing labels stay Unspecified. Riding styles can overlap. Only explicit road/gravel/mountain/trail cues are used, and color names such as Gravel Grey are excluded. Clothing fit and riding style are also exported in the CSV.

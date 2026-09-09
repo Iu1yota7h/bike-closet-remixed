@@ -56,3 +56,26 @@ export function classify(item:GroupedItem):{group:string;type:string}{
  return result('Other','Needs classification');
 }
 export const groupOrder=['Clothing','Footwear & protection','Wheels & tires','Components','Accessories & tools','Other'];
+
+// Only explicit listing cues: absence of a women's label does not mean men's.
+export function apparel(item:{name:string;category:string;group:string}){
+ if(item.group!=='Clothing')return {audience:'',ridingStyles:[] as string[]};
+ const clean=(s:string)=>s.toLowerCase().replace(/&#(?:0*39|0*8217);|&apos;|&rsquo;|[’‘]/g,"'");
+ const n=clean(item.name),c=clean(item.category);
+ const gender=(s:string)=>{
+  const women=/\b(women(?:'s|s)?|ladies|female)\b|\bw's\b/.test(s);
+  const men=/\b(men(?:'s|s)?|male)\b|\bm's\b/.test(s);
+  if(/\bunisex\b/.test(s))return 'Unisex';
+  if(women&&men)return 'Unspecified';
+  return women?"Women's":men?"Men's":null;
+ };
+ const audience=gender(n)||gender(c)||'Unspecified';
+ // "Gravel Grey" is a color, not evidence of riding discipline.
+ const styleText=(n+' / '+c).replace(/\bgravel\s+gr[ae]y\b/g,'');
+ const ridingStyles=[] as string[];
+ if(/\b(road|road\s?suit)\b/.test(styleText))ridingStyles.push('Road');
+ if(/\bgravel\b/.test(styleText))ridingStyles.push('Gravel');
+ if(/\b(mtb|mountain|trail|enduro|downhill|singletrack)\b/.test(styleText))ridingStyles.push('Mountain / trail');
+ if(!ridingStyles.length)ridingStyles.push('Unspecified');
+ return {audience,ridingStyles};
+}
