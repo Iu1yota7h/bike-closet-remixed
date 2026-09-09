@@ -1,5 +1,15 @@
 # Catalog cleanup process
 
+## Structured attributes and human-readable views
+
+- Use `lib/catalog-attributes.ts` for brand and listing facts in both the website and CSV. Recognize brands only from the maintained prefix dictionary, with explicit aliases such as i9 → Industry Nine; unknown brands remain blank and filterable as Unspecified brand. Never guess a brand from the first word.
+- Keep condition, packaging and sale terms separate. Extract Open box, OEM and Final sale only when explicitly stated in the title. Blank means unstated, not new, retail-packaged or returnable. These facts may coexist. Display explicit facts next to the product and allow filtering without changing the official title or market-match evidence.
+- Preserve one row per retailer variant ID and the parent product ID. Do not merge similarly named models, generations, colors or variants. Product counts use parent IDs; option counts use variant IDs.
+- CSV fields `brand`, `condition`, `packaging` and `saleTerms` are derived labels. `sizeFilterKeys` lists every applicable website size key, including both halves of combined sizes. Multi-value fields use ` | ` between values. Retain `officialSize`, `variant`, identifiers, prices and observation dates alongside the derived fields. Consumers should identify columns by header rather than position.
+- Search normalizes apostrophes, accents, dashes and dimension multiplication symbols for matching only. Display names retain their spelling and punctuation. Include brand and normalized size labels in searchable text.
+- Brand and listing filters persist in copied URLs and are cleared by Reset. Their selections also constrain the size choices. Existing clothing and stock rules still apply.
+- Add regression cases when extending these rules. `npm run check:catalog` verifies them before scheduled updates and code publication; routine parsing requires no AI calls.
+
 These rules apply to every update, including new products. Use deterministic shared code; routine cleanup does not need AI or paid APIs.
 
 1. Validate the complete feed before saving it. Preserve IDs, URLs, price/stock history and observation dates. Missing listings are not evidence of a stock-out.
