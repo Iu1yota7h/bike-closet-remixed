@@ -1,5 +1,15 @@
 # Catalog cleanup process
 
+## One-time product research
+
+Review research, product quality/tier context, size charts and fit guidance are researched once per parent product ID and reused across every size and color. Include sizing in the initial research pass; retain the source, date and any size-specific caveats. Do not commission separate research when a size/color is added, restocked, discounted or selected by a visitor. Ordinary feed size parsing continues on every inventory update.
+
+A documented search with no reliable review, sizing evidence or comparable offer counts as completed research. Preserve unknowns; missing evidence is not a reason to repeat the search weekly. Existing research records are grandfathered as completed, without claiming that previously unrecorded sizing was verified. Store completion in public/research.json and retain the completed-product ledger in data/research-queue.json. The queue excludes products recorded in either source.
+
+Revisit a completed product only on an explicit owner request or a documented material factual correction. A genuinely different model/generation may receive its own research; a suspected duplicate under a new retailer ID must be checked against existing records before researching. Do not merge distinct models by name alone.
+
+This rule does not stop the daily inventory refresh or weekly exact-variant market-price checks. Those update time-sensitive facts, not evergreen reviews or fit research.
+
 ## Structured attributes and human-readable views
 
 - Use `lib/catalog-attributes.ts` for brand and listing facts in both the website and CSV. Recognize brands only from the maintained prefix dictionary, with explicit aliases such as i9 → Industry Nine; unknown brands remain blank and filterable as Unspecified brand. Never guess a brand from the first word.

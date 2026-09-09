@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import {getJSON} from '../collect.mjs';
+import {researchShortlist} from './research-queue.mjs';
 const market=JSON.parse(fs.readFileSync('public/market.json'));const catalog=JSON.parse(fs.readFileSync('public/catalog.json'));const now=new Date().toISOString();let errors=0,checked=0;
 for(const [id,e] of Object.entries(market).slice(0,10)){
  try{
@@ -11,9 +12,10 @@ for(const [id,e] of Object.entries(market).slice(0,10)){
  }catch(error){e.lastCheckError=error.message;errors++;}
 }
 fs.writeFileSync('public/market.json',JSON.stringify(market,null,2)+'\n');
-const researched=JSON.parse(fs.readFileSync('public/research.json'));const candidates=catalog.rows.filter(r=>r.stock&&r.url&&!researched[r.productId]&&r.price>0&&r.reference>r.price).sort((a,b)=>(1-b.price/b.reference)-(1-a.price/a.reference));
-const shortlist=[...new Map(candidates.map(r=>[r.productId,r])).values()].slice(0,5).map(({id,productId,name,price,reference,url})=>({id,productId,name,price,reference,url}));
-fs.writeFileSync('data/research-queue.json',JSON.stringify({generatedAt:now,maxNewModels:5,maxMarketRechecks:10,shortlist},null,2)+'\n');
+const researched=JSON.parse(fs.readFileSync('public/research.json'));
+const priorQueue=fs.existsSync('data/research-queue.json')?JSON.parse(fs.readFileSync('data/research-queue.json')):{};
+const shortlist=researchShortlist(catalog.rows,researched,priorQueue.completed||[]);
+fs.writeFileSync('data/research-queue.json',JSON.stringify({...priorQueue,generatedAt:now,maxNewModels:5,maxMarketRechecks:10,shortlist},null,2)+'\n');
 const status=JSON.parse(fs.readFileSync('public/status.json','utf8'));status.market={attemptedAt:now,checkedAt:errors?status.market?.checkedAt||null:now,status:errors?'partial':'success',checked,errors,schedule:'Sunday · 12 AM Pacific'};fs.writeFileSync('public/status.json',JSON.stringify(status,null,2)+'\n');
 console.log(`Market check: ${checked} refreshed, ${errors} failed; ${shortlist.length} research candidates.`);
 if(errors)process.exitCode=1;
