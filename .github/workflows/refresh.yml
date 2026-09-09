@@ -26,6 +26,7 @@ jobs:
           node-version: '22'
           cache: npm
       - run: npm ci --ignore-scripts
+      - run: npm run check:catalog
       - run: node collect.mjs
       - run: node scripts/export-csv.mjs
       - name: Sunday market checks

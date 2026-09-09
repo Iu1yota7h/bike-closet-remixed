@@ -47,6 +47,8 @@ This repository does not create a Cloudflare account, install credentials, or de
 
 ## Contributing
 
+Follow [CATALOG-CLEANUP.md](CATALOG-CLEANUP.md) for the shared cleanup rules and update process. Daily refreshes and code validation run `npm run check:catalog`; new listings automatically receive the same text, grouping and sizing rules as existing listings.
+
 Submit focused pull requests with sources and observation dates. Keep sizes/colors, product generation, condition, packaging, currency and stock explicit. Do not infer compatibility from a similar model name. Add only derived facts and original summaries, not copied articles, screenshots, personal data or credentials. Tests use synthetic inputs and require no paid API calls.
 
 ```

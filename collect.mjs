@@ -1,5 +1,8 @@
 import fs from 'node:fs';
 import {pathToFileURL} from 'node:url';
+import ts from 'typescript';
+const textCode=ts.transpileModule(fs.readFileSync(new URL('./lib/catalog-text.ts',import.meta.url),'utf8'),{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText;
+const {cleanCatalogText}=await import('data:text/javascript;base64,'+Buffer.from(textCode).toString('base64'));
 const root='https://bikecloset.com/wp-json/wc/store/v1/products';
 const read=(p,f)=>fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')):f;
 export async function getJSON(url){
@@ -30,7 +33,7 @@ export function normalize(products,variants,previous,now,allowShrink=false){
   else if(before.price!==row.price&&before.price!==null&&row.price!==null)row.change=row.price<before.price?'price-drop':'price-rise';
   else if(!before.stock&&row.stock)row.change='restock';
   if(!before||before.price!==row.price||before.stock!==row.stock)events.push({at:now,id:row.id,previousPrice:before?.price??null,price:row.price,previousStock:before?.stock??null,stock:row.stock,event:row.change||'baseline'});
-  return row;
+  return cleanCatalogText(row);
  });
  if(new Set(rows.map(r=>r.id)).size!==rows.length)throw Error('Duplicate variant IDs');
  if(previous&&!allowShrink&&rows.length<previous.rows.length*.75)throw Error('Unexpected catalog shrink; manual review required');

@@ -6,6 +6,7 @@
     "node": ">=22.13.0"
   },
   "scripts": {
+    "check:catalog": "node scripts/test-collector.mjs && node scripts/test-catalog-text.mjs && node scripts/test-apparel.mjs && node scripts/test-size-options.mjs && node audit-deals.mjs",
     "dev": "vinext dev",
     "build": "vinext build",
     "start": "wrangler dev --config dist/server/wrangler.json",
