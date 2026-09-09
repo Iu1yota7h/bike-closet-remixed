@@ -79,3 +79,7 @@ export function apparel(item:{name:string;category:string;group:string}){
  if(!ridingStyles.length)ridingStyles.push('Unspecified');
  return {audience,ridingStyles};
 }
+
+export function matchesClothingFit(itemFit:string,selected:string){
+ return selected==='all'||itemFit===selected||(["Men's","Women's"].includes(selected)&&['Unisex','Unspecified'].includes(itemFit));
+}

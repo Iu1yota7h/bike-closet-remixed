@@ -61,3 +61,5 @@ npm run build
 On September 9, 2026, the feed directly reported 585 products and 3,734 variants, versus 584 and 5,183 in the September 7 snapshot. The shrink guard stopped the first collection. After independently verifying the new header totals, a one-time `--accept-reviewed-shrink` run was used. The unattended workflow never sets that option. No missing IDs were labeled sold out.
 
 Clothing filters distinguish explicit men's, women's and unisex labels; missing labels stay Unspecified. Riding styles can overlap. Only explicit road/gravel/mountain/trail cues are used, and color names such as Gravel Grey are excluded. Clothing fit and riding style are also exported in the CSV.
+
+The Clothing fit picker offers All fits, Men's and Women's. Both gender selections include Unisex and Unspecified clothing without changing the original classification in rows or CSV. This is a browsing rule, not a claim about fit compatibility.
