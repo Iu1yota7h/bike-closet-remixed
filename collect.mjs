@@ -7,7 +7,7 @@ const root='https://bikecloset.com/wp-json/wc/store/v1/products';
 const read=(p,f)=>fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')):f;
 export async function getJSON(url){
  for(let attempt=0;attempt<3;attempt++){
-  try{const r=await fetch(url,{signal:AbortSignal.timeout(60000),headers:{'User-Agent':'BikeClosetIndex/1.0 (+https://github.com/Iu1yota7h/bikecloset-index)'}});if(!r.ok)throw Error(`HTTP ${r.status}`);return {body:await r.json(),headers:r.headers};}
+  try{const r=await fetch(url,{signal:AbortSignal.timeout(60000),headers:{'User-Agent':'BikeClosetIndex/1.0 (+https://github.com/Iu1yota7h/bike-closet-remixed)'}});if(!r.ok)throw Error(`HTTP ${r.status}`);return {body:await r.json(),headers:r.headers};}
   catch(e){if(attempt===2)throw e;await new Promise(r=>setTimeout(r,1000*2**attempt));}
  }
 }

@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   refresh:
-    if: github.repository == 'Iu1yota7h/bikecloset-index'
+    if: github.repository == 'Iu1yota7h/bike-closet-remixed'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:

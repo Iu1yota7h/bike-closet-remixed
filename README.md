@@ -1,4 +1,4 @@
-# Bike Closet Index
+# Bike Closet Remixed
 
 An independent, image-free catalog of in-stock cycling products. Filter by category, normalized size and price; compare exact retailer details; expand sourced reviews. Not affiliated with Bike Closet.
 
