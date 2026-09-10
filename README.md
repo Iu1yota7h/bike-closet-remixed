@@ -41,9 +41,9 @@ npm run build
 
 Publish **dist/client** to Cloudflare Pages, with no Functions or Worker. It contains index.html and browser assets; never publish dist/server or environment files. Connect the GitHub repository using your own Cloudflare account. Set the build command to `npm run build`, output to `dist/client`, and use Node 22.
 
-Use build watch exclusions for `data/*`, `public/status.json` and Markdown-only changes to avoid rebuilding just for check timestamps. The deployed site fetches the small status file from this repository; catalog/CSV/reviews remain static assets served by Cloudflare. Content-changing pushes rebuild the catalog. A free pages.dev address works without buying a domain.
+All repository changes currently trigger Cloudflare builds. Build caching is enabled; build watch exclusions have not been applied. The deployed site fetches the small status file from this repository; catalog/CSV/reviews remain static assets served by Cloudflare. Content-changing pushes rebuild the catalog. A free pages.dev address works without buying a domain.
 
-This repository does not create a Cloudflare account, install credentials, or deploy automatically until that hosting connection is configured.
+Production is hosted at https://bcremixed.ispithotfire.com on Cloudflare Pages, project `bike-closet-remixed`, connected to this repository’s `main` branch. Build settings: `npm run build`, `dist/client`, Node 22, `SITE_URL=https://bcremixed.ispithotfire.com`. Cloudflare Web Analytics is enabled. WordPress manages DNS; the `bcremixed` CNAME points to `bike-closet-remixed.pages.dev`. The apex website and mail records remain managed separately.
 
 ### Speed and discovery process
 
