@@ -51,3 +51,5 @@ Specific jacket and saddle-bag names override conflicting category tags. Model-s
 ## External price-search links
 
 Owner decision, September 9, 2026: replace automated price searches and scoring with visitor-initiated Google Shopping links. Do not run scheduled competitor-price searches or add search APIs. Construct links locally using `lib/price-search.ts`, preserving model, exact retailer size and color. Only the visitor click initiates a search. Search results are not verified comparisons. Keep Bike Closet reference discounts clearly distinct from independently verified market savings. Retain saved product review/fit research without repeating it.
+
+Product title presentation: remove a trailing clothing, helmet or cycling-shoe size only when it normalizes to the exact size shown in the size column. Keep original names for source data, CSV and price-search queries. Preserve conflicting sizes, model numbers, component dimensions and sale annotations. Apply the shared displayProductName rule to both the filter UI and static catalog; never delete the original size detail.

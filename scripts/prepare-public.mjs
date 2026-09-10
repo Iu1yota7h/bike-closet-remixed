@@ -8,6 +8,7 @@ async function loadRules(file) {
 }
 const {cleanCatalogText} = await loadRules('lib/catalog-text.ts');
 const {classify} = await loadRules('lib/catalog-groups.ts');
+const {sizing,displayProductName} = await loadRules('lib/catalog-sizes.ts');
 const {priceSearchUrl} = await loadRules('lib/price-search.ts');
 const catalog = JSON.parse(fs.readFileSync('public/catalog.json', 'utf8'));
 const research = JSON.parse(fs.readFileSync('public/research.json', 'utf8'));
@@ -27,7 +28,9 @@ const nav = '<nav><a href="./">Filter catalog</a> · <a href="./catalog.html">Br
 const page = (path, title, description, body) => `<!doctype html><html lang="en"><head>${head(path,title,description)}</head><body><main>${nav}<h1>${escape(title)}</h1>${body}<footer>Independent project. Not affiliated with Bike Closet. Prices exclude tax and shipping. Confirm availability with the retailer.</footer></main></body></html>`;
 const products = new Map();
 for (const raw of rows) {
-  const row = cleanCatalogText(raw);
+  const cleaned = cleanCatalogText(raw);
+  const grouped = {...cleaned,...classify(cleaned)};
+  const row = {...grouped,...sizing(grouped)};
   if (!products.has(row.productId)) products.set(row.productId, []);
   products.get(row.productId).push(row);
 }
@@ -46,8 +49,8 @@ for (const [group, items] of groups) {
   items.sort((a,b)=>(a[0].newestRank??Infinity)-(b[0].newestRank??Infinity)||a[0].name.localeCompare(b[0].name));
   for (const variants of items) {
     const r=variants[0], note=research[r.productId];
-    body += `<article id="product-${r.productId}"><h3><a href="${safeUrl(r.url)}">${escape(r.name)}</a></h3><p>${escape(classify(r).type)} · <a href="./?q=${encodeURIComponent(r.name)}">Filter these options</a></p><ul>`;
-    body += variants.map(v=>`<li>${escape([v.size,v.color,v.variant].filter(Boolean).join(' · ') || 'See retailer for size details')} — ${v.price===null?'Price unavailable':escape(money.format(v.price))} · <a href="${escape(priceSearchUrl(v))}" target="_blank" rel="noopener noreferrer">Check prices on Google Shopping</a></li>`).join('');
+    body += `<article id="product-${r.productId}"><h3><a href="${safeUrl(r.url)}">${escape(displayProductName(r))}</a></h3><p>${escape(classify(r).type)} · <a href="./?q=${encodeURIComponent(r.name)}">Filter these options</a></p><ul>`;
+    body += variants.map(v=>`<li>${escape([v.officialSize,v.color,v.variant].filter(Boolean).join(' · ') || 'See retailer for size details')} — ${v.price===null?'Price unavailable':escape(money.format(v.price))} · <a href="${escape(priceSearchUrl(v))}" target="_blank" rel="noopener noreferrer">Check prices on Google Shopping</a></li>`).join('');
     body += '</ul>';
     if (note) body += `<p>${escape(note.summary)}</p>${note.reviewScope?`<p>${escape(note.reviewScope)}</p>`:''}${note.checkedAt?`<p>Research date: ${escape(note.checkedAt)}. ${escape(note.evidenceType==='specifications'?'Specifications only':note.evidenceType==='listing'?'Limited evidence':'Review summary')}.</p>`:''}<p>${sources(note.sources)}</p>${note.sizingNote?`<p>Fit &amp; compatibility: ${escape(note.sizingNote)}</p><p>${sources(note.sizingSources)}</p>`:''}`;
     body += '</article>';

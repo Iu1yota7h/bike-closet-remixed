@@ -1,5 +1,5 @@
 import fs from 'node:fs';import ts from 'typescript';import assert from 'node:assert/strict';
-const code=ts.transpileModule(fs.readFileSync('lib/catalog-sizes.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText;const {sizing,sizeOptions}=await import('data:text/javascript;base64,'+Buffer.from(code).toString('base64'));
+const code=ts.transpileModule(fs.readFileSync('lib/catalog-sizes.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText;const {sizing,sizeOptions,displayProductName}=await import('data:text/javascript;base64,'+Buffer.from(code).toString('base64'));
 for(const [size,expected] of [['M/L',['M','L']],['S/M',['S','M']],['XL/2XL',['XL','2XL']],['52-58',['52-58']]]){const s=sizing({name:'Helmet',size:null,variant:'Size: '+size,group:'Footwear & protection',type:'Helmets'});assert.equal(s.officialSize,size);assert.deepEqual(sizeOptions(s).map(o=>o.label),expected);}
 console.log('Combined alphabetic sizes match both filters; exact labels and numeric ranges preserved.');
 const tire=variant=>sizing({name:'Road tire 700c',size:null,variant,group:'Wheels & tires',type:'Tires'});
@@ -25,3 +25,12 @@ assert.equal(item('Carbon 2','Cycling shoes').sizeLabel,'');
 assert.equal(item('Gibraltar Vest WMNS Black SM','Vests').sizeLabel,'S');
 assert.equal(item('Rapha gloves','Gloves','Size: XLG').sizeLabel,'XL');
 assert.equal(item('Assos gloves','Gloves','Size: XLG').sizeLabel,'ASSOS XLG');
+
+const display=(name,type,size,group='Clothing')=>{const r={name,type,size,group,variant:''};return displayProductName({...r,...sizing(r)});};
+assert.equal(display('100% BRISKER Glove Black 2XL','Gloves',null),'100% BRISKER Glove Black');
+assert.equal(display('Glove Black XL','Gloves','Small'),'Glove Black XL');
+assert.equal(display('Helmet M/L','Helmets','M/L','Footwear & protection'),'Helmet');
+assert.equal(display('Sidi Genius 10','Cycling shoes','42','Footwear & protection'),'Sidi Genius 10');
+assert.equal(display('Sidi Shoe 42.5 (Final Sale)','Cycling shoes','42.5','Footwear & protection'),'Sidi Shoe (Final Sale)');
+assert.equal(display('Tire 700x28','Tires','700x28','Wheels & tires'),'Tire 700x28');
+console.log('Display titles remove matching wearable sizes only; exact sizes, model numbers and component dimensions remain.');

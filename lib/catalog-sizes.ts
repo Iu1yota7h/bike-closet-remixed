@@ -54,3 +54,16 @@ export function sizeOptions(r:ReturnType<typeof sizing>){
  const labels=parts.length===2&&parts.every(p=>/^(XXS|XS|S|M|L|XL|2XL|3XL)$/.test(p))?parts:[r.sizeLabel];
  return labels.map(label=>({key:r.domain.toLowerCase()+':'+label.toLowerCase(),label,token:label.toLowerCase(),domain:r.domain,rank:rank.includes(label)?rank.indexOf(label):r.sizeRank}));
 }
+
+// Presentation only: strip a trailing wearable size only when it matches the
+// exact size already available to the listing. Never strip component dimensions.
+export function displayProductName(r:SizingItem & ReturnType<typeof sizing>){
+ if(!r.officialSize||!r.sizeKey)return r.name;
+ const wearable=r.group==='Clothing'||r.type==='Helmets';
+ if(!wearable&&r.type!=='Cycling shoes')return r.name;
+ const suffix=wearable?/\s+\(?(XXS|XS|S|SM|SML|Small|M|MD|Medium|L|LG|Large|XL|XXL|2XL|XXXL|3XL|XLG|TIR|S\/M|M\/L|L\/XL|XL\/2XL)\)?(?=\s*(?:\(Final Sale\))?\s*$)/i:/\s+\(?(3\d|4\d|50)(?:\.5)?\)?(?=\s*(?:\(Final Sale\))?\s*$)/i;
+ const match=r.name.match(suffix);if(!match)return r.name;
+ const candidate=match[0].trim().replace(/^\(|\)$/g,'');
+ const parsed=sizing({...r,size:candidate,variant:''});
+ return parsed.sizeKey===r.sizeKey?r.name.replace(suffix,'').trim():r.name;
+}
