@@ -24,7 +24,7 @@ const html=bytes('index.html').toString();
 assert.equal((html.match(/<h1(?:\s|>)/g)||[]).length,1,'Homepage needs one H1');
 assert(html.includes('Skip to products')&&html.includes('<noscript>'),'Keyboard/no-JS fallback missing');
 assert(html.includes('name="description"')&&html.includes('property="og:title"'),'Metadata missing');
-const headers=bytes('_headers').toString();
+const headers=bytes('_headers').toString().replaceAll('\r\n','\n');
 assert(headers.includes('/_next/static/*\n  Cache-Control: public, max-age=31536000, immutable'),'Cache actual generated assets');
 assert(headers.includes("default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com"),'CSP must restrict scripts while allowing the static app and Cloudflare Web Analytics');
 assert(headers.includes("object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"),'CSP hardening directives missing');
