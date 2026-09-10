@@ -11,14 +11,13 @@ npm ci
 npm run dev -- --host 127.0.0.1
 ```
 
-Open the localhost URL printed by the server. The included catalog is a dated snapshot, not live inventory. No API key is needed to browse, collect stock or refresh supported market offers.
+Open the localhost URL printed by the server. The included catalog is a dated snapshot, not live inventory. No API key is needed to browse, collect stock.
 
 ## Update schedules
 
 - Inventory: daily at **12 AM America/Los_Angeles**.
-- Existing market offers: **Sunday at 12 AM America/Los_Angeles**, after that day's inventory collection.
 - This follows PST/PDT. GitHub may delay scheduled jobs; last successful checks are shown separately.
-- `Refresh catalog` can also be run manually, with an optional market refresh.
+- `Refresh catalog` can also be run manually, without a market-price job.
 - GitHub may disable schedules after 60 days of repository inactivity. Successful checks normally create a status commit; monitor failed runs.
 
 The collector reads the public WooCommerce Store API in batches of three requests, with timeouts and limited retries. It validates pagination totals, duplicates, currency, prices and unexpected catalog shrinkage before replacing data. A failed collection retains the previous catalog. Missing IDs are not inferred to be sold out. Product details and normalized CSV are published only when their content changes. Compact price/stock events live in `data/history.jsonl`; no copied descriptions or product images are archived.
@@ -27,9 +26,11 @@ Newest order follows the product feed's `orderby=date&order=desc`. The feed expo
 
 ## Research and cost controls
 
-`public/research.json` stores reusable model-level summaries and dated source links. `public/market.json` stores exact-variant price evidence. The weekly script rechecks at most ten configured offers and writes at most five new model candidates to `data/research-queue.json`. New retailer adapters and editorial review require research; the script does not invent matches or summaries. The initial supported adapter is Outdoor Bros' public Shopify product feed. It checks model, variant and advertised condition before accepting prices. Failures disable the affected deal until a successful check.
+`public/research.json` stores reusable model-level summaries and dated source links. Review and sizing research is performed once per model and shared across sizes and colors.
 
-Deals are sorted by percentage saved against an available checked offer, with dollar savings as the tiebreaker. Review ratings are displayed separately and do not add prestige points. Evidence older than seven days, failed checks, changed Bike Closet prices and nonmatching variants do not qualify. Prices are USD before tax/shipping; shipping varies and delivered totals are not estimated. No ZIP code is required. Only verified applicable shipping fees should be used in any future delivered-price comparison. Retailer reference prices remain separate from checked competitor offers. See RESEARCH.md for the original source audit; its experimental composite score is superseded by this savings comparison.
+Each listing includes a Google Shopping link built locally from the product name and exact size/color details. Searches run only when visitors click. No competitor price collection, market scoring, search API, or scheduled market research is used. Search results are external and may include different variants; visitors should verify specifications, availability, shipping and total price themselves.
+
+Retailer discount sorting compares the Bike Closet price with its own reference price, which is not independently verified MSRP or market pricing. Prices exclude tax and shipping. Historical price research in `data/market-history.json` and `RESEARCH.md` is retired evidence and does not power the site.
 
 Personal preferences, bike records and private reports do not belong in this repository. AI research is optional and separately scheduled; no visitor triggers AI calls or paid APIs.
 

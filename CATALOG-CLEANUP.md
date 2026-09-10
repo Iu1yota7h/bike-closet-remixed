@@ -10,11 +10,11 @@ Conflicting retailer metadata needs a visible note, not silent reconciliation: f
 
 Review research, product quality/tier context, size charts and fit guidance are researched once per parent product ID and reused across every size and color. Include sizing in the initial research pass; retain the source, date and any size-specific caveats. Do not commission separate research when a size/color is added, restocked, discounted or selected by a visitor. Ordinary feed size parsing continues on every inventory update.
 
-A documented search with no reliable review, sizing evidence or comparable offer counts as completed research. Preserve unknowns; missing evidence is not a reason to repeat the search weekly. Existing research records are grandfathered as completed, without claiming that previously unrecorded sizing was verified. Store completion in public/research.json and retain the completed-product ledger in data/research-queue.json. The queue excludes products recorded in either source.
+A documented review/fit search with no reliable evidence counts as completed review/fit research only. It does not establish completed market-price research. Preserve unknowns; missing evidence is not a reason to repeat the search weekly. Existing research records are grandfathered as completed, without claiming that previously unrecorded sizing was verified. Store completion in public/research.json and retain the completed-product ledger in data/research-queue.json. The queue excludes products recorded in either source.
 
 Revisit a completed product only on an explicit owner request or a documented material factual correction. A genuinely different model/generation may receive its own research; a suspected duplicate under a new retailer ID must be checked against existing records before researching. Do not merge distinct models by name alone.
 
-This rule does not stop the daily inventory refresh or weekly exact-variant market-price checks. Those update time-sensitive facts, not evergreen reviews or fit research.
+Daily inventory and Bike Closet price refreshes continue. Competitor-price research and scheduled market searches were retired by owner decision on September 9, 2026.
 
 ## Structured attributes and human-readable views
 
@@ -37,7 +37,7 @@ These rules apply to every update, including new products. Use deterministic sha
 
 When adding a cleanup rule, change the shared module rather than patching individual snapshot rows. Add a representative regression case to the relevant test, update this document if behavior changes, regenerate the CSV, and run checks plus the build before pushing. Keep unsupported or ambiguous details intact until evidence supports a rule. No fresh feed fetch is needed to test formatting rules.
 
-Inventory runs daily at midnight America/Los_Angeles; market offers run Sunday at midnight in the same time zone. This follows PST/PDT. Cleanup runs with the inventory update, with no additional schedule or paid service.
+Inventory runs daily at midnight America/Los_Angeles. This follows PST/PDT. Cleanup runs with the inventory update, with no additional schedule or paid service.
 
 Explicit youth, junior, kids, children, boys and girls clothing belongs to Youth, taking precedence over gender labels. Youth has its own filter and is excluded from Men's and Women's results; All fits still includes it. Unknown clothing is not assumed to be youth.
 
@@ -47,3 +47,7 @@ Specific jacket and saddle-bag names override conflicting category tags. Model-s
 - [SILCA EOLO IV](https://silca.cc/collections/frame-pumps-mini-pumps/products/eolo-iv-co2-regulator-only) is a CO2 inflator, not a bag.
 - [Garmin Edge 850](https://www.garmin.com/en-US/p/pn/010-03023-00/) is a cycling computer.
 - [Rapha clothing sizes](https://www.rapha.cc/us/en/shop/mens-road-riding) use XL and XXL; mapping the retailer's XLG spelling to XL is our normalization convention, not a change to the original label.
+
+## External price-search links
+
+Owner decision, September 9, 2026: replace automated price searches and scoring with visitor-initiated Google Shopping links. Do not run scheduled competitor-price searches or add search APIs. Construct links locally using `lib/price-search.ts`, preserving model, exact retailer size and color. Only the visitor click initiates a search. Search results are not verified comparisons. Keep Bike Closet reference discounts clearly distinct from independently verified market savings. Retain saved product review/fit research without repeating it.

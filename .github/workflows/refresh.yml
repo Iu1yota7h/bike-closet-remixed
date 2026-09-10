@@ -4,11 +4,6 @@ on:
     - cron: '0 0 * * *'
       timezone: America/Los_Angeles
   workflow_dispatch:
-    inputs:
-      market:
-        description: Also refresh market offers
-        type: boolean
-        default: false
 permissions:
   contents: write
 concurrency:
@@ -29,26 +24,13 @@ jobs:
       - run: npm run check:catalog
       - run: node collect.mjs
       - run: node scripts/export-csv.mjs
-      - name: Sunday market checks
-        id: market
-        continue-on-error: true
-        env:
-          FORCE_MARKET: ${{ inputs.market }}
-        run: |
-          if [ "$(TZ=America/Los_Angeles date +%u)" = "7" ] || [ "$FORCE_MARKET" = "true" ]; then
-            node scripts/market-check.mjs
-          fi
       - name: Save validated data
         if: ${{ !cancelled() && success() }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add public/catalog.json public/in-stock.csv public/status.json public/market.json data/
+          git add public/catalog.json public/in-stock.csv public/status.json data/
           if ! git diff --cached --quiet; then
-            git commit -m 'Refresh catalog and checked offers'
+            git commit -m 'Refresh catalog'
             git push
           fi
-
-      - name: Report market failure
-        if: steps.market.outcome == 'failure'
-        run: exit 1

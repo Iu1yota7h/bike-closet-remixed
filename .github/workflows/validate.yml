@@ -5,7 +5,6 @@ on:
       - 'data/**'
       - 'public/catalog.json'
       - 'public/in-stock.csv'
-      - 'public/market.json'
       - 'public/status.json'
   pull_request:
 permissions:
