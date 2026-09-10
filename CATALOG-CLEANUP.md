@@ -2,6 +2,12 @@
 
 ## One-time product research
 
+The September 9, 2026 full-catalog pass is recorded in `data/research-coverage.json` and `data/research-audit.json`: 500 in-stock parent products, including eight preserved prior records. A completed pass does not mean every product has an independent review. Distinguish `review`, `specifications`, and `listing` (limited evidence), retain fit/compatibility unknowns, and display model/variant caveats. The With reviews view includes only sourced reviews, not inconclusive searches.
+
+Record the query, candidate links, adopted sources and outcome without copying articles or retailer HTML. A source candidate is not an endorsement. Do not transfer reviews across tube/tubeless tires, saddle rails, helmet versions, shoe widths, men's/women's/youth cuts, pads or uncertain generations. Explicitly matched repeated model listings may reuse a record via `reusedFromProductId`; this is an editorial source reuse, not a merger of retailer IDs or inventory. Review opinions about historical value must not become current market-savings claims. Research dates must never be displayed as market-price check dates.
+
+Conflicting retailer metadata needs a visible note, not silent reconciliation: for example, product 1632843 has a DUB title but Shimano description, and 1722447 has a 60 mm valve title but a 42 mm weight example. Keep both unknowns out of compatibility or value guarantees.
+
 Review research, product quality/tier context, size charts and fit guidance are researched once per parent product ID and reused across every size and color. Include sizing in the initial research pass; retain the source, date and any size-specific caveats. Do not commission separate research when a size/color is added, restocked, discounted or selected by a visitor. Ordinary feed size parsing continues on every inventory update.
 
 A documented search with no reliable review, sizing evidence or comparable offer counts as completed research. Preserve unknowns; missing evidence is not a reason to repeat the search weekly. Existing research records are grandfathered as completed, without claiming that previously unrecorded sizing was verified. Store completion in public/research.json and retain the completed-product ledger in data/research-queue.json. The queue excludes products recorded in either source.

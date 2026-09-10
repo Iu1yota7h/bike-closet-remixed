@@ -3,7 +3,7 @@
   "maxNewModels": 5,
   "maxMarketRechecks": 10,
   "shortlist": [],
-  "completedAt": "2026-09-09T23:55:07.218Z",
+  "completedAt": "2026-09-10T00:22:47Z",
   "completed": [
     {
       "id": 1684325,
@@ -13,7 +13,7 @@
       "reference": 150,
       "url": "https://bikecloset.com/product/enve-trail-short-womens/?attribute_pa_color=forest&attribute_pa_size=xs",
       "status": "research-complete",
-      "outcome": "Sourced summary; no verified exact market comparison",
+      "outcome": "Specification notes; no verified independent verdict",
       "checkedAt": "2026-09-09T23:55:07.218Z"
     },
     {
@@ -24,7 +24,7 @@
       "reference": 110,
       "url": "https://bikecloset.com/product/enve-otd-light-stretch-short-womens/?attribute_pa_color=black&attribute_pa_size=xs",
       "status": "research-complete",
-      "outcome": "Sourced summary; no verified exact market comparison",
+      "outcome": "Specification notes; no verified independent verdict",
       "checkedAt": "2026-09-09T23:55:07.218Z"
     },
     {
@@ -35,7 +35,7 @@
       "reference": 100,
       "url": "https://bikecloset.com/product/enve-matrix-t-shirt-ss-navy-xs/",
       "status": "research-complete",
-      "outcome": "Sourced summary; no verified exact market comparison",
+      "outcome": "Specification notes; no verified independent verdict",
       "checkedAt": "2026-09-09T23:55:07.218Z"
     },
     {
@@ -46,7 +46,7 @@
       "reference": 100,
       "url": "https://bikecloset.com/product/enve-composite-ss-jersey-womens/?attribute_pa_color=sage-lemonade&attribute_pa_size=l",
       "status": "research-complete",
-      "outcome": "Sourced summary; no verified exact market comparison",
+      "outcome": "Specification notes; no verified independent verdict",
       "checkedAt": "2026-09-09T23:55:07.218Z"
     },
     {
@@ -57,8 +57,3968 @@
       "reference": 150,
       "url": "https://bikecloset.com/product/enve-alloy-foundation-hubset-12x142-disc-centerlock/?attribute_pa_freehub=front",
       "status": "research-complete",
-      "outcome": "Sourced summary; no verified exact market comparison",
+      "outcome": "Specification notes; no verified independent verdict",
       "checkedAt": "2026-09-09T23:55:07.218Z"
+    },
+    {
+      "productId": 1796934,
+      "name": "Prologo NAGO R4 3D PAS 137-HARD BLACK- NACK",
+      "url": "https://bikecloset.com/product/prologo-nago-r4-3d-pas-137-hard-black-nack/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773097,
+      "name": "Look KEO CLASSIC 3 PLUS (OEM)",
+      "url": "https://bikecloset.com/product/look-keo-classic-3-plus-packaging/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": null
+    },
+    {
+      "productId": 1773096,
+      "name": "Look CLASSIC 3 BLACK RED (OEM)",
+      "url": "https://bikecloset.com/product/look-classic-3-black-red-packaging/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773095,
+      "name": "Look CLASSIC 3 BLACK WHITE (OEM)",
+      "url": "https://bikecloset.com/product/look-classic-3-black-white-packaging/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773094,
+      "name": "Look CLASSIC 3 BLACK (OEM)",
+      "url": "https://bikecloset.com/product/look-classic-3-black-packaging/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783751,
+      "name": "Selle Italia SLR TRI GEL Ti Rail Team Edition PROF 3.0 (OEM)",
+      "url": "https://bikecloset.com/product/sella-slr-tri-gel-t-e-prof-3-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783750,
+      "name": "Selle Italia NOVUS SF 130 Carbon Rail Team Edition PROF 5.0 (OEM)",
+      "url": "https://bikecloset.com/product/sella-novus-sf-130-t-e-prof-5-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783749,
+      "name": "Selle Italia SLR TRI GEL Carbon Rail Team Edition PROF 5.0 (OEM)",
+      "url": "https://bikecloset.com/product/sella-slr-tri-gel-t-e-prof-5-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783748,
+      "name": "Selle Italia NOVUS Carbon Rail L Team Edition PROF 4.0 (OEM)",
+      "url": "https://bikecloset.com/product/sella-novus-l-t-e-prof-4-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783745,
+      "name": "Selle Italia NOVUS BOOST Carbon Rail L Team Edition PROF 6.0 (OEM)",
+      "url": "https://bikecloset.com/product/sella-novus-boost-l-t-e-prof-6-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783744,
+      "name": "Selle Italia NOVUS BOOST Carbon Rail S Team Edition PROF 6.0 (OEM)",
+      "url": "https://bikecloset.com/product/sella-novus-boost-s-t-e-prof-6-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1795843,
+      "name": "Silca EOLO IV REGULATOR BLACK/RED",
+      "url": "https://bikecloset.com/product/eolo-iv-regulator-black-red/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1795839,
+      "name": "Silca EOLO IV REGULATOR GREEN/GREY",
+      "url": "https://bikecloset.com/product/eolo-iv-regulator-green-grey/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794810,
+      "name": "Rapha Ratio Glasses",
+      "url": "https://bikecloset.com/product/ratio-glasses/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793545,
+      "name": "Pirelli Scorpion Trail M 29×2.40 Folding Tubeless Ready (OEM)",
+      "url": "https://bikecloset.com/product/pirelli-scorpion-trail-m-29x2-40-folding-tubeless-ready-oem/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793542,
+      "name": "Pirelli Scorpion Trail Rear 29×2.40 Tubeless Ready (OEM)",
+      "url": "https://bikecloset.com/product/pirelli-scorpion-trail-rear-29x2-40-tubeless-ready/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793538,
+      "name": "Pirelli Cinturato EVO TLR 700x30C Tubeless Ready Tanwall",
+      "url": "https://bikecloset.com/product/pirelli-cinturato-evo-tlr-700x30c-tubeless-ready-tanwall/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1792670,
+      "name": "POC Elicit  Fluorescent Orange Translucent + Extra Clear Lens",
+      "url": "https://bikecloset.com/product/elicit-elicit/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1792668,
+      "name": "Poc Devour Mid (Narrow)",
+      "url": "https://bikecloset.com/product/devour-mid-devour-mid/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1792666,
+      "name": "POC Devour Prismane Red + Extra Clear Lens",
+      "url": "https://bikecloset.com/product/devour-devour/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791473,
+      "name": "Q36.5 Unique Road Shoes Green Fluo 42",
+      "url": "https://bikecloset.com/product/unique-road-shoes-green-fluo-42/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1788848,
+      "name": "Shimano XTR 9250 SHIFT SWITCH DI2 ISPEC EV (OEM)",
+      "url": "https://bikecloset.com/product/shimano-xtr-9250-shift-switch-di2-ispec-ev/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1788844,
+      "name": "Shimano XTR ROTOR 180MM EBIKE W/ MAGNET (OEM)",
+      "url": "https://bikecloset.com/product/shimano-xtr-rotor-160-cl-w-lockring-oem-copy/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1788838,
+      "name": "Shimano XTR ROTOR 203 CL W/ LOCKRING (OEM)",
+      "url": "https://bikecloset.com/product/shimano-xtr-rotor-203-cl-w-lockring-oem/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1788725,
+      "name": "Shimano XTR 9250 RD SGS 12 SPD 51T DI2 (OEM)",
+      "url": "https://bikecloset.com/product/shimano-xtr-9250-rd-sgs-12-spd-51t-di2-oem/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1786058,
+      "name": "Shimano XTR 9200 Cassette 10-51 12 SPEED (OEM)",
+      "url": "https://bikecloset.com/product/shimano-xtr-9200-cassette-10-51-12-speed/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1785360,
+      "name": "Shimano XTR 9250 Upgrade Kit (OEM)",
+      "url": "https://bikecloset.com/product/shimano-xtr-9250-upgrade-kit-oem/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783747,
+      "name": "Selle Italia SLR TEKNO FLOW Carbon Rail PROF 5.0 131mm (OEM)",
+      "url": "https://bikecloset.com/product/sella-slr-tekno-flow-prof-5-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783746,
+      "name": "Selle Italia SLR TEKNO Carbon Rail PROF 5.0 131mm (OEM)",
+      "url": "https://bikecloset.com/product/sella-slr-tekno-prof-5-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783743,
+      "name": "Selle Italia FLITE Carbon Rail Team Edition PROF 6.0 145mm (OEM)",
+      "url": "https://bikecloset.com/product/sella-flite-t-e-prof-6-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783742,
+      "name": "Selle Italia FLITE FLOW Carbon Rail Team Edition PROF 6.0 145mm (OEM)",
+      "url": "https://bikecloset.com/product/sella-flite-flow-t-e-prof-6-0/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780799,
+      "name": "Pirelli Cinturato TLR 650bx50mm GRAVEL H Classic",
+      "url": "https://bikecloset.com/product/cinturato-gravel-h-classic/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780798,
+      "name": "Pirelli PZERO Race 700×28 TT Red Clincher",
+      "url": "https://bikecloset.com/product/p-zero-race-tt-red/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780797,
+      "name": "Pirelli PZERO Race 700×28 Colour Edition Orange Clincher",
+      "url": "https://bikecloset.com/product/p-zero-race-colour-edition-orange/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780795,
+      "name": "Pirelli PZERO Race 700×28 Colour Edition Lime Clincher",
+      "url": "https://bikecloset.com/product/p-zero-race-colour-edition-lime/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780794,
+      "name": "Pirelli PZERO Race 700×28 Colour Edition Fucsia Clincher",
+      "url": "https://bikecloset.com/product/p-zero-race-colour-edition-fucsia/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780788,
+      "name": "Prologo Dimension Space T4.0 Hard Black 153 mm",
+      "url": "https://bikecloset.com/product/prologo-dimension-space-t4-0-hard-black-153-mm/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780784,
+      "name": "Prologo Dimension T4.0 Hard Black 143 mm",
+      "url": "https://bikecloset.com/product/prologo-dimension-t4-0-hard-black-143-mm/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1776515,
+      "name": "Pirelli Cinturato GRAVEL RH Classic TLR 700x40mm (OEM)",
+      "url": "https://bikecloset.com/product/pirelli-cinturato-gravel-rh-classic-tlr-700x40mm-oem/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1776513,
+      "name": "Pirelli Cinturato GRAVEL RH Classic TLR 700x45mm (OEM)",
+      "url": "https://bikecloset.com/product/pirelli-cinturato-gravel-rh-classic-tlr-700x45mm-oem/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1776516,
+      "name": "Pirelli Pzero Race Celeste 700×28 Folding Clincher",
+      "url": "https://bikecloset.com/product/pirelli-pzero-race-700x28-celeste/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1776512,
+      "name": "Pirelli Cinturato GRAVEL H Classic TLR 700x50mm (OEM)",
+      "url": "https://bikecloset.com/product/pirelli-cinturato-gravel-h-classic-tlr-700x50mm-oem/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1776227,
+      "name": "Selle San Marco GND Steel Rail 145mm (OEM)",
+      "url": "https://bikecloset.com/product/selle-san-marco-gnd-steel-rail-145mm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1776173,
+      "name": "LOOK COMBO AERO STEM CARBON 90, -7 degree MAT GLOSSY AFM",
+      "url": "https://bikecloset.com/product/look-combo-aero-stem-carbon-100-7-degree-mat-glossy-afm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1776171,
+      "name": "LOOK COMBO AERO HANDLEBAR CARBON PROTEAM MAT GLOSSY 380 mm C to C AFM",
+      "url": "https://bikecloset.com/product/look-combo-aero-handlebar-carbon-proteam-mat-glossy-380-mm-c-to-c-afm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775351,
+      "name": "Silca CUSCINO 3.75 BLACK",
+      "url": "https://bikecloset.com/product/cuscino-3-75-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775349,
+      "name": "Silca CUSCINO 2.5 BLACK",
+      "url": "https://bikecloset.com/product/cuscino-2-5-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775347,
+      "name": "Silca Unicorn – Fully Anodized",
+      "url": "https://bikecloset.com/product/unicorn-fully-anodized/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775331,
+      "name": "Silca MATTONE PACK",
+      "url": "https://bikecloset.com/product/mattone-pack/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775327,
+      "name": "Silca Italian Army Knife Nove",
+      "url": "https://bikecloset.com/product/italian-army-knife/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773103,
+      "name": "Look KEO BLADE CARBON – 8Nm",
+      "url": "https://bikecloset.com/product/look-keo-blade-carbon-8nm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773102,
+      "name": "Look KEO 2 MAX CARBON",
+      "url": "https://bikecloset.com/product/look-keo-2-max-carbon/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773101,
+      "name": "Look KEO 2 MAX",
+      "url": "https://bikecloset.com/product/look-keo-2-max/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773100,
+      "name": "Look KEO CLASSIC 3",
+      "url": "https://bikecloset.com/product/look-keo-classic-3/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1771536,
+      "name": "Pirelli PZero Race Gold Label 700x28C Folding Clincher",
+      "url": "https://bikecloset.com/product/pirelli-pzero-race-gold-label-700x28c-folding-clincher/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1771532,
+      "name": "Pirelli Scorpion XC RC Colour Edition 29 x 2.4 PrW Gold",
+      "url": "https://bikecloset.com/product/pirelli-scorpion-xc-rc-colour-edition-29-x-2-4-prw-gold/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1770909,
+      "name": "KMC X11 EPT Chain 11sp 116 links",
+      "url": "https://bikecloset.com/product/kmc-x11-ept-chain-11sp-116-links-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1770908,
+      "name": "KMC X10SL 10sp CP Silver 116L",
+      "url": "https://bikecloset.com/product/kmc-x10sl-10sp-cp-silver-116l/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1770907,
+      "name": "KMC X10SL DLC Chain 10sp 116 links, Green",
+      "url": "https://bikecloset.com/product/kmc-x10sl-dlc-chain-10sp-116-links-green/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1770906,
+      "name": "KMC X10SL DLC 10sp Black/Blk 116L",
+      "url": "https://bikecloset.com/product/kmc-x10sl-dlc-10sp-black-blk-116l/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1770821,
+      "name": "CeramicSpeed EVO386 Bottom Bracket for Shimano",
+      "url": "https://bikecloset.com/product/ceramicspeed-evo386-bottom-bracket-for-shimano/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1770817,
+      "name": "CeramicSpeed EVO386 Bottom Bracket for SRAM DUB Road",
+      "url": "https://bikecloset.com/product/ceramicspeed-evo386-bottom-bracket-for-sram-dub-road/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712556,
+      "name": "Enve Accessories Valve Extender 95mm",
+      "url": "https://bikecloset.com/product/accessories-valve-extender-95mm-qty-1/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769558,
+      "name": "POC Ultra Saddle Bag 7L",
+      "url": "https://bikecloset.com/product/ultra-saddle-bag-7l-ultra-saddle-bag-7l/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769552,
+      "name": "POC Aspire Uranium Black/Clarity Trail/Partly Sunny Silver",
+      "url": "https://bikecloset.com/product/poc-aspire-clarity-road-sunny-silver-cat-3-copy/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768082,
+      "name": "Fizik AERIS SD R1 135mm Carbon Rail",
+      "url": "https://bikecloset.com/product/saddle-aeris-sd-r1-135-mm-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768080,
+      "name": "Fizik AERIS LD R1 135mm Carbon Rail",
+      "url": "https://bikecloset.com/product/saddle-aeris-ld-r1-135-mm-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768079,
+      "name": "Fizik TEMPO ALIANTE R1 Carbon Rail 155 MM",
+      "url": "https://bikecloset.com/product/fizik-tempo-aliante-r1-carbon-rail-155-mm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768076,
+      "name": "Fizik TEMPO ALIANTE R1 Carbon Rail 145 MM",
+      "url": "https://bikecloset.com/product/saddle-tempo-aliante-r1-145-mm-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768074,
+      "name": "Fizik VENTO ANTARES R1 Carbon Rail 150 MM",
+      "url": "https://bikecloset.com/product/saddle-vento-antares-r1-150-mm-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1767947,
+      "name": "Fizik AERIS SD R1 ADAPTIVE Carbon Rail – 135MM",
+      "url": "https://bikecloset.com/product/fizik-aeris-sd-r1-adaptive-carbon-rail-135mm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1767946,
+      "name": "Fizik Tempo Argo R1 Carbon Rail – 160mm",
+      "url": "https://bikecloset.com/product/fizik-tempo-argo-r1-carbon-rail-160mm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1767945,
+      "name": "Fizik VENTO ARGO R1 Carbon Rail 150mm",
+      "url": "https://bikecloset.com/product/saddle-vento-argo-r1-150-mm-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1626586,
+      "name": "Fizik Tempo Argo R1 Carbon Rail – 150mm",
+      "url": "https://bikecloset.com/product/fizik-road-saddles-argo-r1-150mm-tempo/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1762417,
+      "name": "SRAM, Red FlatTop E1, Chain, Speed: 12, Links: 114, Multicolor",
+      "url": "https://bikecloset.com/product/sram-red-flattop-e1-chain-speed-12-links-114-multicolor/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1762403,
+      "name": "SRAM, XG-1290 E1, Cassette, Silver, Speed: 12, 10-28T, XD-R",
+      "url": "https://bikecloset.com/product/sram-xg-1290-e1-cassette-silver-speed-12-10-28t-xd-r/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1759769,
+      "name": "Pirelli PZero Race TLR 700 x 28mm Made In Italy Special Edition Nero",
+      "url": "https://bikecloset.com/product/pirelli-pzero-race-tlr-700-x-28mm-made-in-italy-special-edition-nero/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1758908,
+      "name": "CeramicSpeed BBright Shimano Special Edition Blue (OEM)",
+      "url": "https://bikecloset.com/product/ceramicspeed-bbright-shimano-special-edition-blue-oem/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1758905,
+      "name": "CeramicSpeed BSA DUB Black Lab71 Edition (OEM)",
+      "url": "https://bikecloset.com/product/ceramicspeed-bsa-shimano/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1756477,
+      "name": "i9 Torch 24H Front Disc 15×100 CL Black/Chrome End Caps",
+      "url": "https://bikecloset.com/product/i9-torch-24h-front-disc-15x100-cl-black-chrome-end-caps/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1756469,
+      "name": "Beto Double – HxS Pump 100psi Dual Valve Head Silver",
+      "url": "https://bikecloset.com/product/beto-double-hxs-pump-100psi-dual-valve-head-silver/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1756467,
+      "name": "RockShox Digital HP fork/shock pump With digital",
+      "url": "https://bikecloset.com/product/rockshox-digital-hp-fork-shock-pump-with-digital/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1753779,
+      "name": "Assos DIMENSION DATA Cap",
+      "url": "https://bikecloset.com/product/assos-dimension-data-cap/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1752545,
+      "name": "Fizik TEMPO ALIANTE R1 ADAPTIVE – 155MM",
+      "url": "https://bikecloset.com/product/fizik-tempo-aliante-r1-adaptive-155mm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1539602,
+      "name": "Fizik VENTO ARGO R1 ADAPTIVE – 150MM",
+      "url": "https://bikecloset.com/product/fizik-vento-argo-r1-adaptive-150mm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1564395,
+      "name": "Fizik VENTO ARGO R1 ADAPTIVE – 140MM",
+      "url": "https://bikecloset.com/product/fizik-vento-argo-r1-adaptive-140mm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1559167,
+      "name": "Fizik VENTO ARGO R3 ADAPTIVE – 140MM",
+      "url": "https://bikecloset.com/product/fizik-vento-argo-r3-adaptive-140mm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1535830,
+      "name": "Fizik VENTO ARGO R3 ADAPTIVE – 150MM",
+      "url": "https://bikecloset.com/product/fizik-vento-argo-r3-adaptive-150mm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1600199,
+      "name": "Fizik Vento Argo 00 Adaptive – 150mm",
+      "url": "https://bikecloset.com/product/fizik-vento-argo-00-adaptive-150mm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1751537,
+      "name": "Pirelli PZero Race TLR 700×30 Tubeless SmartEVO Black Made in Italy (OEM)",
+      "url": "https://bikecloset.com/product/pirelli-pzero-race-tlr-700x30-tubeless-smartevo-127tpi-black-made-in-italy-oem/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1558781,
+      "name": "CeramicSpeed BSA SRAM DUB Coated",
+      "url": "https://bikecloset.com/product/ceramicspeed-bsa-sram-dub-alternative-blk-coated-road/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1558783,
+      "name": "CeramicSpeed BSA SRAM DUB Black",
+      "url": "https://bikecloset.com/product/ceramicspeed-bsa-sram-dub-alternative-blk-road/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1749421,
+      "name": "Campagnolo ProTech Bottom Bracket Italian Outboard (OEM)",
+      "url": "https://bikecloset.com/product/campagnolo-protech-bottom-bracket-italian-outboard-oem/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1558786,
+      "name": "CeramicSpeed BB86 Shimano Black Coated",
+      "url": "https://bikecloset.com/product/ceramicspeed-bb86-shimano-blk-coated-road/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1558785,
+      "name": "CeramicSpeed BB86 SRAM DUB Black Coated",
+      "url": "https://bikecloset.com/product/ceramicspeed-bb86-sram-dub-alternative-coated-road/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1520287,
+      "name": "CeramicSpeed BSA Shimano Blk Coated",
+      "url": "https://bikecloset.com/product/ceramicspeed-bsa-shimano-blk-coated-5711050000999-denmark-87149650-92-00-g/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1699489,
+      "name": "Campagnolo Bora WTO 33 Disc Brake 700c 2 Way Fit Dark Label Campy Freehub",
+      "url": "https://bikecloset.com/product/campagnolo-bora-wto-33-disc-brake-700c-2-way-fit-dark-label-n3w-freehub/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1746636,
+      "name": "POC Cerebel Medium 54-60cm",
+      "url": "https://bikecloset.com/product/1cerebel-cpsc/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794805,
+      "name": "Rapha Letras Glasses",
+      "url": "https://bikecloset.com/product/letras-glasses/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793351,
+      "name": "POC Cytal Hydrogen White Matt Medium (Open Box)",
+      "url": "https://bikecloset.com/product/poc-cytal-hydrogen-white-matt-medium-open-box/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1792852,
+      "name": "Selle SMP EVO 30C Liquid Stone White/ Black Steel Rail",
+      "url": "https://bikecloset.com/product/selle-smp-evo-30c-liquid-stone-white-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1792850,
+      "name": "Selle SMP EVO 20C Liquid Stone White/ Black Steel Rail",
+      "url": "https://bikecloset.com/product/selle-smp-evo-20c-liquid-stone-white-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1722447,
+      "name": "Pirelli PZERO SmarTUBE EVO Tube Presta Length 60mm 700C 25-28C",
+      "url": "https://bikecloset.com/product/pirelli-sportube-tube-presta-length-48mm-700c-23-30mm-2/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1741686,
+      "name": "SRAM Force AXS D1 12 Speed Chain 120 Link (Bulk Packaging)",
+      "url": "https://bikecloset.com/product/sram-force-axs-d1-12-speed-chain-120-link-bulk-packaging/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1735730,
+      "name": "POC Aspire CLARITY ROAD/SUNNY SILVER CAT. 3",
+      "url": "https://bikecloset.com/product/aspire/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1785762,
+      "name": "Poc Cytal Lițe Uranium Black Matt Medium (Open Box)",
+      "url": "https://bikecloset.com/product/poc-cytal-lite-uranium-black-matt-medium-open-box/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1741645,
+      "name": "CeramicSpeed BBright Shimano Black",
+      "url": "https://bikecloset.com/product/ceramicspeed-bbright-shimano-blk/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1732426,
+      "name": "i9 1/1 28h Rear 12×148 Boost XD CL",
+      "url": "https://bikecloset.com/product/hub-i9-28h-rear-12x148-bst-101-xd-cl/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1732428,
+      "name": "i9 1/1 28h Rear 12×157 SBst HG 6B",
+      "url": "https://bikecloset.com/product/hub-i9-28h-rear-12x157-sbst-101-hg-6b/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1732422,
+      "name": "i9 1/1 28h Rear 12×148 Bst HG CL",
+      "url": "https://bikecloset.com/product/hub-i9-28h-rear-12x148-bst-101-hg-cl/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1732414,
+      "name": "i9 1/1 24h Frt 15×110 Bst CL",
+      "url": "https://bikecloset.com/product/hub-i9-24h-frt-15x110-bst-101-cl/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780867,
+      "name": "POC Tempor M/L One Size White (Open Box)",
+      "url": "https://bikecloset.com/product/poc-tempor-m-l-one-size-white-open-box/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1725201,
+      "name": "Pirelli RoadTUBE Presta 60mm RVC-23/30 700c",
+      "url": "https://bikecloset.com/product/pirelli-roadtube-presta-60mm-rvc-23-30-700c/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1725068,
+      "name": "Gibraltar Vest WMNS Black SM",
+      "url": "https://bikecloset.com/product/gibraltar-vest-wmns-black-sm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769820,
+      "name": "POC Cytal Lite Hydrogen White Matt Medium (Open Box)",
+      "url": "https://bikecloset.com/product/poc-cytal-lite-hydrogen-white-matt-medium-open-box/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1764392,
+      "name": "Fizik TEMPO ALIANTE R1 ADAPTIVE – 145MM",
+      "url": "https://bikecloset.com/product/fizik-tempo-aliante-r1-adaptive-145mm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712557,
+      "name": "Enve Carbon Brake Pad Shimano Black Pair 10mm For Textured Brake Track",
+      "url": "https://bikecloset.com/product/accessories-brake-pad-shimano-black-pair/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712555,
+      "name": "Enve Accessories Valve Extender 95mm Set",
+      "url": "https://bikecloset.com/product/accessories-valve-extender-95mm-set/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712553,
+      "name": "ENVE ALLOY DISC REAR 24H 12×142 Campy N3W CENTERLOCK",
+      "url": "https://bikecloset.com/product/hub-disc-enve-alloy-24h-12x142-n3w-cl/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712552,
+      "name": "Enve Alloy Disc Rear 24H 12×142 XDR Centerlock",
+      "url": "https://bikecloset.com/product/hub-disc-envea-24h-12x142-xdr-assembly/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711030,
+      "name": "Knog Plugger Lights Twin Pack Black/Black 350 / 10 Lumens",
+      "url": "https://bikecloset.com/product/plugger-lights-plugger-twin-pack-black-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711023,
+      "name": "Knog Plug Lights Twinpack Black 250 / 10 Lumens",
+      "url": "https://bikecloset.com/product/plug-lights-plug-twinpack-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1703970,
+      "name": "Campagnolo BOTTOM BRACKET CUPS RECORD ULTRA-TORQUE – ITA Thread",
+      "url": "https://bikecloset.com/product/bottom-bracket-cups-record-ultra-torque-ita/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1700374,
+      "name": "Fizik TEMPO ALIANTE R3 ADAPTIVE – 145MM",
+      "url": "https://bikecloset.com/product/fizik-tempo-aliante-r3-adaptive-145mm/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1688812,
+      "name": "Fizik TEMPO ALIANTE R3 ADAPTIVE – 155MM",
+      "url": "https://bikecloset.com/product/fizik-tempo-aliante-r3-adaptive-155mm/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1707211,
+      "name": "Enve Bar M7 800mm +25mm Rise 35.0 8/4 deg",
+      "url": "https://bikecloset.com/product/enve-bar-m7-800mm-25mm-rise-35-0-8-4-deg/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1707210,
+      "name": "Enve Bar SES AR IN-Route 44/49cm",
+      "url": "https://bikecloset.com/product/enve-bar-ses-ar-in-route-44-49cm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1706080,
+      "name": "i9 1/1 28h Rear 12×148 Boost Microspline CL",
+      "url": "https://bikecloset.com/product/hub-i9-28h-rear-12x148-bst-101-microspline-cl/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1706082,
+      "name": "i9 Hydra 28H Rear 12×148 Bst Microspline CL",
+      "url": "https://bikecloset.com/product/hub-i9-28h-rear-12x148-bst-hydra-microspline-cl/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1706092,
+      "name": "i9 Hydra 28h Frt 15×110 Bst CL",
+      "url": "https://bikecloset.com/product/hub-i9-28h-frt-15x110-bst-hydra-cl-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1706083,
+      "name": "i9 Hydra 24H Rear 12×148 Bst Microspline CL",
+      "url": "https://bikecloset.com/product/hub-i9-24h-rear-12x148-bst-hydra-microspline-cl/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1706095,
+      "name": "i9 Hydra 24h Rear 12×148 Bst HG CL",
+      "url": "https://bikecloset.com/product/hub-i9-24h-rear-12x148-bst-hydra-hg-cl/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705957,
+      "name": "Enve G Series Dropper 40mm 27.2mm W/ Shims",
+      "url": "https://bikecloset.com/product/dropper-only/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705955,
+      "name": "Enve G Series Dropper 40mm 27.2mm W/Shims + G Series Drop Bar Dropper Post Lever",
+      "url": "https://bikecloset.com/product/seatpost-g-series-dropper-40mm-27-2mm-g-series-drop-bar-dropper-post-lever/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705953,
+      "name": "Enve Bar Gravel IN-Route 44/56cm",
+      "url": "https://bikecloset.com/product/bar-gravel-in-route-44-56cm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705951,
+      "name": "Enve Bar SES AR IN-Route 46/51cm",
+      "url": "https://bikecloset.com/product/bar-ses-ar-in-route-46-51cm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705949,
+      "name": "ENVE Alloy Hubset 20H Frt/ 24H Rr QR HG Rim Brake",
+      "url": "https://bikecloset.com/product/hub-envea-20h-frt-assembly-hub-envea-24h-rr-hg-assembly/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1637115,
+      "name": "Sram Paceline Rotor 160mm Center Lock (OEM)",
+      "url": "https://bikecloset.com/product/sram-paceline-rotor-160mm-center-lock-oem/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1703982,
+      "name": "Campagnolo CASSETTE SUPER RECORD 12 Speed 11-32",
+      "url": "https://bikecloset.com/product/cassette-sup-record-12v-11-32-mech/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1704005,
+      "name": "Campagnolo Rear Adapter and Bolts 140mm to 160mm",
+      "url": "https://bikecloset.com/product/rear-adapter-and-bolts/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1699213,
+      "name": "Topeak SURVIVAL TOOL WEDGE PACK II 2",
+      "url": "https://bikecloset.com/product/topeak-survival-tool-wedge-pack-ii-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1696952,
+      "name": "SRAM Force AXS D1 12 Speed Chain 114 Link",
+      "url": "https://bikecloset.com/product/sram-force-axs-d1-12-speed-chain-114-link/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1685137,
+      "name": "Fizik VENTO ANTARES R3 ADAPTIVE – 140MM",
+      "url": "https://bikecloset.com/product/fizik-vento-antares-r3-adaptive-140mm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1679835,
+      "name": "Fizik VENTO ANTARES R3 ADAPTIVE – 150MM",
+      "url": "https://bikecloset.com/product/fizik-vento-antares-r3-adaptive-150mm/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1636571,
+      "name": "Shimano XT ROTOR 180mm Centerlock External Spline W/ LOCKRING (OEM)",
+      "url": "https://bikecloset.com/product/shimano-xt-rotor-180mm-centerlock-external-spline-w-lockring/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1632843,
+      "name": "CeramicSpeed BB86 SRAM DUB Black",
+      "url": "https://bikecloset.com/product/ceramicspeed-bb86-sram-dub-alternative-blk/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797309,
+      "name": "Endura Windchill Jacket II",
+      "url": "https://bikecloset.com/product/windchill-jacket-ii/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797288,
+      "name": "Endura Pro SL PrimaLoft® Gilet II",
+      "url": "https://bikecloset.com/product/pro-sl-primaloft-gilet-ii/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797275,
+      "name": "Endura FS260-Pro Adrenaline Race Cape II",
+      "url": "https://bikecloset.com/product/fs260-pro-adrenaline-race-cape-ii/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797268,
+      "name": "Endura FS260-Pro Thermo Bibknicker",
+      "url": "https://bikecloset.com/product/fs260-pro-thermo-bibknicker/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797247,
+      "name": "Endura Women’s Pro SL S/S Print Jersey",
+      "url": "https://bikecloset.com/product/womens-pro-sl-s-s-print-jersey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797242,
+      "name": "Endura Women’s GV500 Reiver Bibshort",
+      "url": "https://bikecloset.com/product/womens-gv500-reiver-bibshort/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797227,
+      "name": "Endura MT500 Thermal Liner Bibtight",
+      "url": "https://bikecloset.com/product/mt500-thermal-liner-bibtight/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797220,
+      "name": "Endura GV500 Thermal Bibtight",
+      "url": "https://bikecloset.com/product/gv500-thermal-bibtight/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797207,
+      "name": "Endura PRO SL POWER BIBSHORT BKR",
+      "url": "https://bikecloset.com/product/pro-sl-power-bibshort-bkr/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797198,
+      "name": "Endura Loop Bibshort",
+      "url": "https://bikecloset.com/product/loop-bibshort/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797173,
+      "name": "Endura Pro SL S/S Print Jersey",
+      "url": "https://bikecloset.com/product/pro-sl-s-s-print-jersey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797162,
+      "name": "Endura Transloft L/S Baselayer",
+      "url": "https://bikecloset.com/product/transloft-l-s-baselayer/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1797149,
+      "name": "Endura Pro SL Bibtights II",
+      "url": "https://bikecloset.com/product/pro-sl-bibtights-ii/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1690115,
+      "name": "Assos MILLE GT 3/3 Jacket EVO",
+      "url": "https://bikecloset.com/product/assos-mille-gt-3-3-jacket-evo/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794796,
+      "name": "Rapha Reis Glasses",
+      "url": "https://bikecloset.com/product/reis-glasses/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794615,
+      "name": "Rapha Men’s Core Jersey",
+      "url": "https://bikecloset.com/product/mens-core-jersey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794599,
+      "name": "Rapha Men’s Pro Team Training Jersey – Astral",
+      "url": "https://bikecloset.com/product/mens-pro-team-training-jersey-astral/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794262,
+      "name": "Rapha Men’s Pro Team Training Jersey",
+      "url": "https://bikecloset.com/product/mens-pro-team-training-jersey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794219,
+      "name": "Rapha Men’s Core Winter Jacket",
+      "url": "https://bikecloset.com/product/mens-core-winter-jacket/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794183,
+      "name": "Rapha Women’s Core Cargo Shorts",
+      "url": "https://bikecloset.com/product/womens-core-cargo-shorts/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794122,
+      "name": "Rapha Women’s Core Bib Shorts",
+      "url": "https://bikecloset.com/product/womens-core-bib-shorts/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1794079,
+      "name": "Rapha Women’s Core Shorts",
+      "url": "https://bikecloset.com/product/womens-core-shorts/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793898,
+      "name": "Rapha Men’s Core Bib Shorts",
+      "url": "https://bikecloset.com/product/mens-core-bib-shorts/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793971,
+      "name": "Rapha Men’s Core Shorts",
+      "url": "https://bikecloset.com/product/mens-core-shorts/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793872,
+      "name": "Rapha Women’s Pro Team Training Bib Shorts",
+      "url": "https://bikecloset.com/product/womens-pro-team-training-bib-shorts/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793798,
+      "name": "Rapha Men’s Pro Team Powerweave Bib Shorts",
+      "url": "https://bikecloset.com/product/mens-pro-team-powerweave-bib-shorts/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793755,
+      "name": "Rapha Men’s Pro Team Bib Shorts – Regular – Astral",
+      "url": "https://bikecloset.com/product/mens-pro-team-bib-shorts-regular-astral/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793677,
+      "name": "Rapha Men’s Pro Team Bib Shorts III – Long",
+      "url": "https://bikecloset.com/product/mens-pro-team-bib-shorts-iii-long/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793599,
+      "name": "Rapha Men’s Pro Team Bib Shorts III – Regular",
+      "url": "https://bikecloset.com/product/mens-pro-team-bib-shorts-iii-regular/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1793342,
+      "name": "Boyd 55 Road Disc SL Wheelset Tubeless Ready Hooked",
+      "url": "https://bikecloset.com/product/boyd-55-road-disc-sl-wheelset-tubeless-ready-hooked/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775295,
+      "name": "Look 765 GRAVEL RS Disc Frameset",
+      "url": "https://bikecloset.com/product/765-gravel/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1792687,
+      "name": "Poc Ventral Air MIPS",
+      "url": "https://bikecloset.com/product/ventral-air-mips-cpsc-ventral-air-mips-cpsc/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1792680,
+      "name": "Poc Procen Air",
+      "url": "https://bikecloset.com/product/procen-air-cpsc-procen-air-cpsc/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1792674,
+      "name": "Poc Essential Enduro Shorts",
+      "url": "https://bikecloset.com/product/essential-enduro-shorts-essential-enduro-shorts/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791546,
+      "name": "Time ADH Rim Brake Frameset",
+      "url": "https://bikecloset.com/product/time-adh-rim-brake-frameset/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791498,
+      "name": "Q36.5 Ultralong Socks Green",
+      "url": "https://bikecloset.com/product/ultralong-socks-green/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791494,
+      "name": "Q36.5 Dottore PRO Bib Shorts Black",
+      "url": "https://bikecloset.com/product/dottore-pro-bib-shorts-black/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791490,
+      "name": "Q36.5 Dottore Clima Signature Bib Shorts Gravel Grey",
+      "url": "https://bikecloset.com/product/dottore-clima-signature-bib-shorts-gravel-grey/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791487,
+      "name": "Q36.5 Gregarius Pro Nibali Ocean Jersey Black",
+      "url": "https://bikecloset.com/product/gregarius-pro-nibali-ocean-jersey-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791480,
+      "name": "Q36.5 Gregarius Pro Big Logo Jersey White",
+      "url": "https://bikecloset.com/product/gregarius-pro-big-logo-jersey-white/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791475,
+      "name": "Q36.5 Dottore PRO Jersey Brownie Brown",
+      "url": "https://bikecloset.com/product/dottore-pro-jersey-brownie-brown/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791465,
+      "name": "Q36.5 Gregarius Clima Weathermap Jersey White",
+      "url": "https://bikecloset.com/product/gregarius-clima-weathermap-jersey-white/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791462,
+      "name": "Q36.5 Gregarius Clima Dolomites Extreme Jersey Tangerine Red",
+      "url": "https://bikecloset.com/product/gregarius-clima-dolomites-extreme-jersey-tangerine-red/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791454,
+      "name": "Q36.5 Gregarius Clima Weathermap Jersey Black",
+      "url": "https://bikecloset.com/product/gregarius-clima-weathermap-jersey-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791447,
+      "name": "Q36.5 Gregarius Pro Made in Italy Jersey Blue Made In Italy",
+      "url": "https://bikecloset.com/product/gregarius-pro-made-in-italy-jersey-blue-made-in-italy/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791443,
+      "name": "Q36.5 Gregarius Pro Nibali Shark Bib Shorts Black",
+      "url": "https://bikecloset.com/product/gregarius-pro-nibali-shark-bib-shorts-black/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791438,
+      "name": "Q36.5 Gregarius Clima Dolomites Extreme Jersey Black",
+      "url": "https://bikecloset.com/product/gregarius-clima-dolomites-extreme-jersey-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791325,
+      "name": "Time ADHX 45 UDH Carbon Disc Frameset V31 Gloss Carbon",
+      "url": "https://bikecloset.com/product/time-adhx-45-udh-carbon-disc-frameset-v31-gloss-carbon/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1791315,
+      "name": "Kask Valegro Olive Green",
+      "url": "https://bikecloset.com/product/kask-valegro-olive-green/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1726402,
+      "name": "Fizik X4 Gravel Terra Powerstrap",
+      "url": "https://bikecloset.com/product/fizik-terra-powerstrap-x4/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1694014,
+      "name": "Fizik Tempo Overcurve R4",
+      "url": "https://bikecloset.com/product/fizik-tempo-overcurve-r4-2/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1790143,
+      "name": "Assos MILLE GT HASHOOGI Winter Jacket S11",
+      "url": "https://bikecloset.com/product/mille-gt-hashoogi-winter-jacket-s11/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1790110,
+      "name": "Assos MILLE GT Spring Fall Jersey C2",
+      "url": "https://bikecloset.com/product/mille-gt-spring-fall-jersey-c2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1789927,
+      "name": "Princeton Peak 4550 Evo 2 Disc TR02 Wheelset",
+      "url": "https://bikecloset.com/product/princeton-peak-4550-evo-2-disc-tr02-wheelset/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1789508,
+      "name": "Assos MILLE GT Spring Fall Bib Tights S11 Primal Blue",
+      "url": "https://bikecloset.com/product/assos-mille-gt-spring-fall-bib-tights-s11-primal-blue/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1788721,
+      "name": "Shimano XTR 9220 BRAKES PM Trail (OEM)",
+      "url": "https://bikecloset.com/product/shimano-xtr-9200-brakes-pm-trail-oem/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1788712,
+      "name": "Shimano XTR 9200 BRAKES PM RACE (OEM)",
+      "url": "https://bikecloset.com/product/shimano-xtr-9200-brakes-pm-race/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1544862,
+      "name": "Kask Protone Icon",
+      "url": "https://bikecloset.com/product/kask-protone-icon/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": null
+    },
+    {
+      "productId": 1787524,
+      "name": "Fizik Kudo ARCHE-TYPE + Light",
+      "url": "https://bikecloset.com/product/fizik-kudo-arche-type/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1787513,
+      "name": "Fizik KUNÈE ARCHE-TYPE",
+      "url": "https://bikecloset.com/product/fizik-kunee-arche-type/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1787209,
+      "name": "Goodyear Eagle F1 R Tubeless",
+      "url": "https://bikecloset.com/product/goodyear-eagle-f1-r-tubeless-complete/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1787202,
+      "name": "Goodyear Eagle F1 SuperSport R Tubeless",
+      "url": "https://bikecloset.com/product/goodyear-eagle-f1-supersport-r-tubeless-complete/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1787195,
+      "name": "Goodyear Eagle F1 R Tube Type",
+      "url": "https://bikecloset.com/product/goodyear-eagle-f1-r-tube-type/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1787190,
+      "name": "Goodyear Eagle F1 SuperSport R Tube Type",
+      "url": "https://bikecloset.com/product/goodyear-eagle-f1-supersport-r-tube-type/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1785366,
+      "name": "Princeton Peak 4550 Evo 2 Disc TR01 Wheelset",
+      "url": "https://bikecloset.com/product/princeton-peak-4550-evo-2-disc-tr01-wheelset/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1785116,
+      "name": "Giro Seasonal Merino",
+      "url": "https://bikecloset.com/product/seasonal-merino/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1785065,
+      "name": "Giro HRC +Grip",
+      "url": "https://bikecloset.com/product/hrc-grip/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1785007,
+      "name": "Giro HRc Team",
+      "url": "https://bikecloset.com/product/hrc-team/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1784974,
+      "name": "Giro HRc +MERINO",
+      "url": "https://bikecloset.com/product/hrc-merino/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1784927,
+      "name": "Giro Comp Racer",
+      "url": "https://bikecloset.com/product/comp-racer/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1784907,
+      "name": "Giro Comp High Rise Grinduro Edition",
+      "url": "https://bikecloset.com/product/comp-high-rise-custom/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1784860,
+      "name": "Giro Comp High Rise",
+      "url": "https://bikecloset.com/product/comp-high-rise/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783965,
+      "name": "Giro Chrono Sport Bib Short",
+      "url": "https://bikecloset.com/product/m-chrono-sp-bib-short/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783954,
+      "name": "Giro Chrono Expert Bib Short",
+      "url": "https://bikecloset.com/product/m-chrono-ex-bib-short/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783941,
+      "name": "Giro Chrono Elite Bib Short",
+      "url": "https://bikecloset.com/product/m-chrono-el-bib-short/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783370,
+      "name": "Endura Pro SL 3-Season Jacket",
+      "url": "https://bikecloset.com/product/pro-sl-3-season-jacket/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783345,
+      "name": "Endura SingleTrack Short II",
+      "url": "https://bikecloset.com/product/singletrack-short-ii/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783334,
+      "name": "Endura Xtract Bibshort II",
+      "url": "https://bikecloset.com/product/xtract-bibshort-ii/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783313,
+      "name": "Endura Pro SL L/S Jersey II",
+      "url": "https://bikecloset.com/product/pro-sl-l-s-jersey-ii/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1783290,
+      "name": "Endura Strike Glove",
+      "url": "https://bikecloset.com/product/strike-glove/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1782487,
+      "name": "LOOK COMBO AERO STEM CARBON -7 Degree",
+      "url": "https://bikecloset.com/product/look-combo-aero-stem-carbon-7-degree/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1782476,
+      "name": "LOOK COMBO AERO HANDLEBAR CARBON",
+      "url": "https://bikecloset.com/product/look-combo-aero-handlebar-carbon/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780928,
+      "name": "POC Ventral MIPS Small",
+      "url": "https://bikecloset.com/product/ventral-mips-cpsc-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780925,
+      "name": "POC Ventral Lite Small",
+      "url": "https://bikecloset.com/product/ventral-lite-cpsc/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780922,
+      "name": "POC Ventral Air Wide Fit MIPS Small",
+      "url": "https://bikecloset.com/product/ventral-air-wf-mips-cpsc/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1780917,
+      "name": "POC Ventral Air MIPS Small",
+      "url": "https://bikecloset.com/product/ventral-air-mips-cpsc/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1519352,
+      "name": "Assos MILLE GT Half Shorts C2",
+      "url": "https://bikecloset.com/product/assos-mille-gt-half-shorts-c2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1778931,
+      "name": "Koo HYPE",
+      "url": "https://bikecloset.com/product/hype/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724469,
+      "name": "Sidi GRAVEL MTB BLACK",
+      "url": "https://bikecloset.com/product/1sidi-gravel-mtb-black/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1778606,
+      "name": "Capo G.S. Padrone Aero Bib Shorts – Long",
+      "url": "https://bikecloset.com/product/g-s-padrone-aero-bib-shorts-long/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1778586,
+      "name": "Capo G.S. Padrone Aero Bib Shorts – Regular",
+      "url": "https://bikecloset.com/product/g-s-padrone-aero-bib-shorts-regular/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775820,
+      "name": "Assos MILLE GTO Bib Shorts S11",
+      "url": "https://bikecloset.com/product/mille-gto-bib-shorts-s11/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1777866,
+      "name": "Kask MOJITO CUBED",
+      "url": "https://bikecloset.com/product/mojito-cubed/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1519212,
+      "name": "Assos Mille GTO Bib Shorts C2 Flamme d’Or",
+      "url": "https://bikecloset.com/product/assos-mille-gto-bib-shorts-c2-flamme-dor/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1776212,
+      "name": "Time ADHX 45 UDH Carbon Disc Frameset",
+      "url": "https://bikecloset.com/product/time-adhx-45-udh-carbon-disc-frameset-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775815,
+      "name": "Assos MILLE GT Bib Shorts S11",
+      "url": "https://bikecloset.com/product/mille-gt-bib-shorts-s11/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775847,
+      "name": "Assos EQUIPE RS Jersey S11 Something to say",
+      "url": "https://bikecloset.com/product/equipe-rs-jersey-s11-something-to-say/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775840,
+      "name": "Assos EQUIPE R Jersey S11 We are the A",
+      "url": "https://bikecloset.com/product/equipe-r-jersey-s11-we-are-the-a/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775833,
+      "name": "Assos MILLE GTO Jersey S11",
+      "url": "https://bikecloset.com/product/mille-gto-jersey-s11/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775829,
+      "name": "Assos EQUIPE RS RAPIDFIRE Chronosuit S11",
+      "url": "https://bikecloset.com/product/equipe-rs-rapidfire-chronosuit-s11/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775353,
+      "name": "Silca EVERYDAY AERO TALL SOCK",
+      "url": "https://bikecloset.com/product/everyday-aero-tall-sock/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1775300,
+      "name": "Look 795 BLADE 2 RS Disc Frameset",
+      "url": "https://bikecloset.com/product/795-blade-2-rs/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773230,
+      "name": "Q36.5 Adventure Cargo Bib Shorts Gravel Grey",
+      "url": "https://bikecloset.com/product/adventure-cargo-bib-shorts-gravel-grey/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773218,
+      "name": "Q36.5 Dottore Clima Bib Shorts Black",
+      "url": "https://bikecloset.com/product/dottore-clima-bib-shorts-black/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773224,
+      "name": "Q36.5 Dottore PRO Bib Shorts Nautica Blue",
+      "url": "https://bikecloset.com/product/dottore-pro-bib-shorts-nautica-blue/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773212,
+      "name": "Q36.5 UNIQUE PRO Bib Shorts Black",
+      "url": "https://bikecloset.com/product/unique-pro-bib-shorts-black/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773200,
+      "name": "Q36.5 Dottore PRO Jersey Black",
+      "url": "https://bikecloset.com/product/dottore-pro-jersey-black/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773206,
+      "name": "Q36.5 Dottore PRO Jersey Grisaille Blue",
+      "url": "https://bikecloset.com/product/dottore-pro-jersey-grisaille-blue/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773187,
+      "name": "Q36.5 Unique Pro 4.0 Road Shoes White",
+      "url": "https://bikecloset.com/product/unique-pro-4-0-road-shoes-white/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1773010,
+      "name": "Assos UMA GT Jersey S11",
+      "url": "https://bikecloset.com/product/assos-uma-gt-jersey-s11/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1770763,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset Gold Edition",
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-gold-edition/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1671631,
+      "name": "POC Cytal Carbon",
+      "url": "https://bikecloset.com/product/cytal-carbon-cpsc/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769588,
+      "name": "POC M’s Cadence Bib Shorts",
+      "url": "https://bikecloset.com/product/ms-cadence-bib-shorts-ms-cadence-bib-shorts/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769584,
+      "name": "POC M’s Cadence Cargo Bib Shorts",
+      "url": "https://bikecloset.com/product/ms-cadence-cargo-bib-shorts-ms-cadence-cargo-bib-shorts/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769575,
+      "name": "POC M’s Raceday S/S Jersey",
+      "url": "https://bikecloset.com/product/ms-raceday-s-s-jersey-ms-raceday-s-s-jersey/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769566,
+      "name": "POC M’s Cadence Jersey",
+      "url": "https://bikecloset.com/product/ms-cadence-jersey-ms-cadence-jersey/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769337,
+      "name": "Time ADHX Carbon Disc Frameset V16 Gloss Cobalt",
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v16-gloss-cobalt/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1748595,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset",
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769273,
+      "name": "Assos EQUIPE RSR BOLIDE SPEEDSUIT S11",
+      "url": "https://bikecloset.com/product/assos-equipe-rsr-bolide-speedsuit-s11/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769268,
+      "name": "Assos EQUIPE RSR BOLIDE BIB SHORTS S11",
+      "url": "https://bikecloset.com/product/assos-equipe-rsr-bolide-bib-shorts-s11/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1769091,
+      "name": "Vittoria Corsa Pro TLR G2.0 700c",
+      "url": "https://bikecloset.com/product/vittoria-corsa-pro-tlr-g2-0-700c/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1567833,
+      "name": "Assos EQUIPE R 3/3 Habu BIBTIGHTS S9",
+      "url": "https://bikecloset.com/product/equipe-r-3-3-bibtights-s9/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1643074,
+      "name": "Kask ELEMENTO",
+      "url": "https://bikecloset.com/product/kask-elemento/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768335,
+      "name": "Assos EQUIPE R JERSEY S11",
+      "url": "https://bikecloset.com/product/assos-equipe-r-jersey-s11/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768327,
+      "name": "Assos MILLE GTS JERSEY S11",
+      "url": "https://bikecloset.com/product/assos-mille-gts-jersey-s11-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768350,
+      "name": "Assos EQUIPE RSR JERSEY S11",
+      "url": "https://bikecloset.com/product/assos-equipe-rsr-jersey-s11/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768302,
+      "name": "Assos EQUIPE RS JERSEY S11",
+      "url": "https://bikecloset.com/product/assos-equipe-rs-jersey-s11-2/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768412,
+      "name": "Assos EQUIPE RS LS JERSEY S11",
+      "url": "https://bikecloset.com/product/assos-equipe-rs-ls-jersey-s11/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768369,
+      "name": "Assos MILLE GT JERSEY S11 EVO",
+      "url": "https://bikecloset.com/product/assos-mille-gt-jersey-s11-evo/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1768280,
+      "name": "Assos MILLE GT BIB SHORTS S11 Colors",
+      "url": "https://bikecloset.com/product/assos-mille-gt-bib-shorts-s11/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1745207,
+      "name": "Assos EQUIPE R Bib Shorts S11 Colors",
+      "url": "https://bikecloset.com/product/equipe-r-bib-shorts-s11-1/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1735724,
+      "name": "POC Octal MIPS",
+      "url": "https://bikecloset.com/product/octal-mips-cpsc/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1735719,
+      "name": "POC Cytal Mips",
+      "url": "https://bikecloset.com/product/cytal-cpsc/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1767360,
+      "name": "Castelli Competizione Classico 2 Bibshort LTD W/ Progetto X2 AIR Seamless Chamois",
+      "url": "https://bikecloset.com/product/classico-bibshort/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1767119,
+      "name": "Assos SCA R MEN’S EF BIB SHORTS S11 – 2026",
+      "url": "https://bikecloset.com/product/sca-r-mens-efe-bib-shorts-s11-2026/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1767112,
+      "name": "Assos CG RS SUMMER SS ROADSUIT S12 EF 2026",
+      "url": "https://bikecloset.com/product/cg-rs-summer-ss-roadsuit-s12-ef-2026/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1767105,
+      "name": "Assos SCA RS MEN’S EF JERSEY S11 – WE RIDE IN PEACE",
+      "url": "https://bikecloset.com/product/sca-rs-mens-efe-jersey-s11-we-ride-in-peace/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1767089,
+      "name": "Assos MILLE GT JERSEY S11 EVO EF 2026",
+      "url": "https://bikecloset.com/product/mille-gt-jersey-s11-evo-ef-2026/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1696077,
+      "name": "Assos Equipe SS ClubGearAero Speed Club",
+      "url": "https://bikecloset.com/product/assos-ss-clubgearaero-speed-club/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1763959,
+      "name": "Time ADHX Carbon Disc Frameset Paint Shift Edition",
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-paint-shift-edition/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1763925,
+      "name": "Time ADHX 45 UDH Carbon Disc Frameset",
+      "url": "https://bikecloset.com/product/time-adhx-45-udh-carbon-disc-frameset/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1762408,
+      "name": "SRAM, Red DUB 2x E1, Crankset, Speed: 12, Spindle: 28.99mm, BCD: Direct Mount SRAM 8 Bolt",
+      "url": "https://bikecloset.com/product/sram-red-dub-2x-e1-crankset-speed-12-spindle-28-99mm-bcd-direct-mount-sram-8-bolt/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1762405,
+      "name": "SRAM, XG-1270 E1, Cassette, Silver, Speed: 12",
+      "url": "https://bikecloset.com/product/sram-xg-1270-e1-cassette-silver-speed-12/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1754742,
+      "name": "Assos MILLE GTO Jersey C2",
+      "url": "https://bikecloset.com/product/assos-mille-gto-jersey-c2-4/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1760072,
+      "name": "ENVE RedRock Green T-Shirt Women",
+      "url": "https://bikecloset.com/product/enve-redrock-green-t-shirt-women/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1759978,
+      "name": "Assos MILLE GT Jersey S11",
+      "url": "https://bikecloset.com/product/assos-mille-gt-jersey-s11/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1759958,
+      "name": "Assos MILLE GT LS Jersey S11",
+      "url": "https://bikecloset.com/product/assos-mille-gt-ls-jersey-s11/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1759945,
+      "name": "Assos MILLE GTO LS Jersey C2",
+      "url": "https://bikecloset.com/product/assos-mille-gto-ls-jersey-c2-3/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1759936,
+      "name": "Assos UMA GT Summer Half Tights C2",
+      "url": "https://bikecloset.com/product/assos-uma-gt-summer-half-tights-c2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1759917,
+      "name": "Assos UMA GT Half Shorts C2",
+      "url": "https://bikecloset.com/product/assos-uma-gt-half-shorts-c2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1757992,
+      "name": "Assos TRIATOR NS SPEEDSUIT",
+      "url": "https://bikecloset.com/product/assos-triator-ns-speedsuit/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1757985,
+      "name": "Assos TRIATOR SS SPEEDSUIT",
+      "url": "https://bikecloset.com/product/assos-triator-ss-speedsuit/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1757817,
+      "name": "Assos MILLE GTO LS JERSEY C2",
+      "url": "https://bikecloset.com/product/assos-mille-gto-ls-jersey-c2-2/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1757809,
+      "name": "Assos R WINTER LEG WARMERS P1",
+      "url": "https://bikecloset.com/product/assos-r-winter-leg-warmers-p1/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1757801,
+      "name": "Assos R WINTER KNEE WARMERS P1",
+      "url": "https://bikecloset.com/product/assos-r-winter-knee-warmers-p1/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1757690,
+      "name": "Assos EQUIPE RS JOHDAH ULTRAZ WINTER JACKET S11",
+      "url": "https://bikecloset.com/product/assos-equipe-rs-johdah-ultraz-winter-jacket-s11/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1756101,
+      "name": "Enve Composite Tank Trail Jersey Womens",
+      "url": "https://bikecloset.com/product/enve-composite-tank-womens/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1755956,
+      "name": "Time ADHX Carbon Disc Frameset V18 Gloss Amber",
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v18-gloss-amber/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1755947,
+      "name": "Time ADHX Carbon Disc Frameset V17 Gloss Forest",
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v17-forest/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1754769,
+      "name": "Assos UMA GT Spring Fall Jersey C2",
+      "url": "https://bikecloset.com/product/assos-uma-gt-spring-fall-jersey-c2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1680459,
+      "name": "KOO SPECTRO",
+      "url": "https://bikecloset.com/product/koo-spectro/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1753775,
+      "name": "Assos summerSock BMC Black",
+      "url": "https://bikecloset.com/product/assos-summersock-bmc-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1753768,
+      "name": "Assos TRAIL Women’s Spring Fall Jacket Black Series",
+      "url": "https://bikecloset.com/product/assos-trail-womens-spring-fall-jacket-black-series/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1753762,
+      "name": "Assos TRAIL Cargo Half Shorts torpedoGrey",
+      "url": "https://bikecloset.com/product/assos-trail-cargo-half-shorts-torpedogrey/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1753753,
+      "name": "Assos UMA GTV Jersey C2 Rock Purple",
+      "url": "https://bikecloset.com/product/assos-uma-gtv-jersey-c2-rock-purple/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1753746,
+      "name": "Assos UMA GT Short Sleeve Jersey galaxyPink",
+      "url": "https://bikecloset.com/product/assos-uma-gt-short-sleeve-jersey-galaxypink/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1753740,
+      "name": "Assos SUISSE FED Jersey S9 TARGA National Red",
+      "url": "https://bikecloset.com/product/assos-suisse-fed-jersey-s9-targa-national-red/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1751751,
+      "name": "Time ADHX Carbon Disc Frameset Gloss Carbon",
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-gloss-carbon/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750915,
+      "name": "Assos UMA GT Bib Shorts C2 blackSeries Womens",
+      "url": "https://bikecloset.com/product/assos-assos-uma-gt-bib-shorts-c2-blackseries/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750313,
+      "name": "Endura MT500 Freezing Point Jacket II",
+      "url": "https://bikecloset.com/product/endura-mt500-freezing-point-jacket-ii/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750302,
+      "name": "Endura Women’s Pro SL Bibshorts",
+      "url": "https://bikecloset.com/product/endura-womens-pro-sl-bibshorts/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750289,
+      "name": "Endura 6-Panel Short II",
+      "url": "https://bikecloset.com/product/endura-6-panel-short-ii/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750276,
+      "name": "Endura Floral Block FS260 Print S/S Jersey",
+      "url": "https://bikecloset.com/product/endura-floral-block-fs260-print-s-s-jersey/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750262,
+      "name": "Endura Bitmap Block FS260 Print S/S Jersey",
+      "url": "https://bikecloset.com/product/endura-bitmap-block-fs260-print-s-s-jersey/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750220,
+      "name": "Endura FS260 S/S Jersey",
+      "url": "https://bikecloset.com/product/endura-fs260-s-s-jersey-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750181,
+      "name": "Endura Pro SL Race Jersey",
+      "url": "https://bikecloset.com/product/endura-pro-sl-race-jersey-2/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750156,
+      "name": "Endura Deluge Glove",
+      "url": "https://bikecloset.com/product/endura-deluge-glove-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750112,
+      "name": "Endura Peak Sock",
+      "url": "https://bikecloset.com/product/endura-peak-sock/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750147,
+      "name": "Endura Grid Floral LTD Print Sock",
+      "url": "https://bikecloset.com/product/endura-grid-floral-ltd-print-sock/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750130,
+      "name": "Endura Pro SL Sock II",
+      "url": "https://bikecloset.com/product/endura-pro-sl-sock-ii/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1750117,
+      "name": "Endura Block Sock",
+      "url": "https://bikecloset.com/product/endura-block-sock/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1735716,
+      "name": "POC Cytal Lite",
+      "url": "https://bikecloset.com/product/cytal-lite-cpsc/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1749513,
+      "name": "Time ADHX Carbon Disc Frameset Siva Grey",
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1749191,
+      "name": "Time ADHX Carbon Disc Frameset Silver",
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1748102,
+      "name": "Assos MILLE GTS Bib Shorts S11 Black Series",
+      "url": "https://bikecloset.com/product/assos-mille-gts-bib-shorts-s11-black-series/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1747190,
+      "name": "Pirelli P ZERO Race TLR SL 700c",
+      "url": "https://bikecloset.com/product/pirelli-p-zero-race-tlr-sl-700c/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1659651,
+      "name": "Abus Viantor Mips",
+      "url": "https://bikecloset.com/product/abus-viantor-mips/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1746717,
+      "name": "Abus Viantor Helmet",
+      "url": "https://bikecloset.com/product/abus-viantor-helmet/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1746665,
+      "name": "POC Essential Print Sock Long",
+      "url": "https://bikecloset.com/product/1essential-print-sock-long/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1746657,
+      "name": "POC Essential Enduro Shorts",
+      "url": "https://bikecloset.com/product/1essential-enduro-shorts/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1746646,
+      "name": "POC Resistance Enduro Glove",
+      "url": "https://bikecloset.com/product/1resistance-enduro-glove/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1746638,
+      "name": "POC Ventral Lite",
+      "url": "https://bikecloset.com/product/1ventral-lite-cpsc/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1745676,
+      "name": "POC Ventral Air MIPS NFC",
+      "url": "https://bikecloset.com/product/ventral-air-mips-nfc-cpsc/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1745170,
+      "name": "Louis Garneau women’s neo power art motion 7 shorts",
+      "url": "https://bikecloset.com/product/1womens-neo-power-art-motion-7-shorts/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1519345,
+      "name": "Assos MILLE GT Bib Shorts C2",
+      "url": "https://bikecloset.com/product/assos-mille-gt-bib-shorts-c2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1743430,
+      "name": "Sidi Zero Gore Tex 39 (Final Sale)",
+      "url": "https://bikecloset.com/product/sidi-zero-gore-tex/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1743130,
+      "name": "Pirelli Cinturato Velo TLR 700c Folding Tubeless Ready Reflective",
+      "url": "https://bikecloset.com/product/pirelli-cinturato-velo-tlr-700-folding-tubeless-ready-smartnet-silica-armourtech-reflective/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1498125,
+      "name": "Assos MILLE GT Ultraz Winter Bib Tights blackSeries",
+      "url": "https://bikecloset.com/product/assos-mille-gt-ultraz-winter-bib-tights-blackseries/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1658352,
+      "name": "Assos EQUIPE RS SCHTRADIVARI Bib Shorts S11",
+      "url": "https://bikecloset.com/product/assos-equipe-rs-schtradivari-bib-shorts-s11/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1680437,
+      "name": "KOO DEMOS",
+      "url": "https://bikecloset.com/product/koo-demos/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1738446,
+      "name": "Assos EQUIPE R HABU Winter Jacket S11",
+      "url": "https://bikecloset.com/product/assos1-equipe-r-habu-winter-jacket-s11/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1738432,
+      "name": "Assos MILLE GTO Winter BibTights C2",
+      "url": "https://bikecloset.com/product/assos1-mille-gto-winter-bib-tights-c2/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1737028,
+      "name": "Endura PRO SL BIBSHORT II Regular Length Black",
+      "url": "https://bikecloset.com/product/pro-sl-bibshort-rl-ii-bk/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1736970,
+      "name": "Louis Garneau Women’s Neo Power Art Motion Shorts",
+      "url": "https://bikecloset.com/product/louis-garneau-womens-neo-power-art-motion-shorts1/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1736912,
+      "name": "Louis Garneau women’s fit sensor texture bib",
+      "url": "https://bikecloset.com/product/louis-garneau-womens-fit-sensor-texture-bib1/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1736170,
+      "name": "Assos Mille GT SS Jersey C2 EVO Supporter",
+      "url": "https://bikecloset.com/product/cg-gt-ss-jersey-c2-evo-supporter/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1736151,
+      "name": "Assos Equipe RS SS Jersey EVO Replica",
+      "url": "https://bikecloset.com/product/cg-rs-ss-jersey-evo-replica/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1736115,
+      "name": "Assos EQUIPE RS Winter Bib Tights S9",
+      "url": "https://bikecloset.com/product/equipe-rs-winter-bib-tights-s9/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1736094,
+      "name": "Assos EQUIPE RS Bib Shorts S11 Legion",
+      "url": "https://bikecloset.com/product/equipe-rs-bib-shorts-s11-legion/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1735754,
+      "name": "POC AVIP Glove Short",
+      "url": "https://bikecloset.com/product/avip-glove-short-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1735748,
+      "name": "POC AVIP Glove Long",
+      "url": "https://bikecloset.com/product/avip-glove-long/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1735742,
+      "name": "POC Cadence Bib Shorts",
+      "url": "https://bikecloset.com/product/ms-cadence-bib-shorts/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1735710,
+      "name": "POC Ventral MIPS Lead Blue Matt",
+      "url": "https://bikecloset.com/product/poc-ventral-mips-lead-blue-matt/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1735707,
+      "name": "POC Octal X MIPS Hydrogen White",
+      "url": "https://bikecloset.com/product/poc-octal-x-mips-hydrogen-white/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1731241,
+      "name": "100% BRISKER Glove Black 2XL",
+      "url": "https://bikecloset.com/product/100-brisker-glove-2/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1726461,
+      "name": "Fizik Vento Infinito Knit Carbon 2 Wide",
+      "url": "https://bikecloset.com/product/fizik-vento-infinito-knit-carbon-2-wide/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1726448,
+      "name": "Fizik Vento Infinito Knit Carbon 2",
+      "url": "https://bikecloset.com/product/fizik-vento-infinito-knit-carbon-2-3/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1726388,
+      "name": "Fizik Vento Infinito Carbon 2",
+      "url": "https://bikecloset.com/product/fizik-vento-infinito-carbon-2-3/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1725749,
+      "name": "Assos EQUIPE RS LE HOUDINI Roadsuit S11 Fanatic Silver",
+      "url": "https://bikecloset.com/product/assos-equipe-rs-le-houdini-roadsuit-s11-fanatic-silver/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1725744,
+      "name": "Assos EQUIPE RSR Bib Shorts S11 Black Series",
+      "url": "https://bikecloset.com/product/assos-equipe-rsr-bib-shorts-s11-black-series/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724550,
+      "name": "Sidi TURBO BLACK",
+      "url": "https://bikecloset.com/product/1sidi-turbo-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724511,
+      "name": "Sidi SD15 BLACK",
+      "url": "https://bikecloset.com/product/1sidi-sd15-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724441,
+      "name": "Sidi DUST RUST Gravel",
+      "url": "https://bikecloset.com/product/1sidi-dust-rust/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724421,
+      "name": "Sidi DUST BLACK Gravel",
+      "url": "https://bikecloset.com/product/1sidi-dust-black-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724395,
+      "name": "Sidi T-5 AIR BLACK",
+      "url": "https://bikecloset.com/product/1sidi-t-5-air-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724408,
+      "name": "Sidi DRAGON 5 MEGA MATTE BLACK",
+      "url": "https://bikecloset.com/product/1sidi-dragon-5-mega-matte-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724353,
+      "name": "Sidi WIRE 2 CARBON MATTE GREY/BLACK",
+      "url": "https://bikecloset.com/product/1sidi-wire-2-carbon-matte-grey-black/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724316,
+      "name": "Sidi FAST BLACK/BLACK",
+      "url": "https://bikecloset.com/product/1sidi-fast-black-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1724299,
+      "name": "Sidi ERGO 5 MEGA MATTE BLACK",
+      "url": "https://bikecloset.com/product/1sidi-ergo-5-mega-matte-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1723458,
+      "name": "POC Ventral MIPS",
+      "url": "https://bikecloset.com/product/ventral-mips-cpsc/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1723455,
+      "name": "POC Octal X MIPS",
+      "url": "https://bikecloset.com/product/octal-x-mips-cpsc/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1722453,
+      "name": "Pirelli Cinturato Velo TLR 700c Folding Tubeless Ready Tanwall",
+      "url": "https://bikecloset.com/product/pirelli-cinturato-velo-tlr-700-folding-tubeless-ready-smartnet-silica-armourtech-tanwall/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1720863,
+      "name": "Louis Garneau women’s cb neo power cycling shorts Black",
+      "url": "https://bikecloset.com/product/louis-garneau-womens-cb-neo-power-cycling-shorts/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1720857,
+      "name": "Louis Garneau women’s cb carbon 2 cycling shorts Black",
+      "url": "https://bikecloset.com/product/louis-garneau-womens-cb-carbon-2-cycling-shorts/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1718674,
+      "name": "Assos EQUIPE R Bib Shorts S11 Black Series",
+      "url": "https://bikecloset.com/product/assos-equipe-r-bib-shorts-s11-black-series/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": null
+    },
+    {
+      "productId": 1717033,
+      "name": "Castelli Rosso Corsa Pro 13 Sock",
+      "url": "https://bikecloset.com/product/castelli-rosso-corsa-pro-13-sock/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1698336,
+      "name": "DMT KR0 ROAD SHOES",
+      "url": "https://bikecloset.com/product/dmt-kr0-road-shoes-2/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1715970,
+      "name": "Assos RS JerseyS11 Speed Club24",
+      "url": "https://bikecloset.com/product/assos-rs-jerseys11-speed-club24/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1713822,
+      "name": "Assos Mille GT SS USA Olympic Jersey",
+      "url": "https://bikecloset.com/product/assos-mille-gt-ss-usa-olympic-jersey/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1713320,
+      "name": "Endura Xtract Mitt",
+      "url": "https://bikecloset.com/product/endura-xtract-mitt/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1713300,
+      "name": "Endura Windchill Glove",
+      "url": "https://bikecloset.com/product/endura-windchill-glove/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1713294,
+      "name": "Endura Pro SL Windproof Glove II",
+      "url": "https://bikecloset.com/product/endura-pro-sl-windproof-glove-ii/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1713260,
+      "name": "Endura Pro SL Race Jersey",
+      "url": "https://bikecloset.com/product/endura-pro-sl-race-jersey/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1713245,
+      "name": "Endura Xtract S/S Jersey II",
+      "url": "https://bikecloset.com/product/endura-xtract-s-s-jersey-ii/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1713232,
+      "name": "Endura Pro SL L/S Jersey II",
+      "url": "https://bikecloset.com/product/endura-pro-sl-l-s-jersey-ii/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1713081,
+      "name": "Castelli Rosso Corsa Classico Glove",
+      "url": "https://bikecloset.com/product/castelli-rosso-corsa-classico-glove/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712782,
+      "name": "Castelli Free Aero RC Classico Bibshort",
+      "url": "https://bikecloset.com/product/castelli-free-aero-rc-classico-bibshort/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712561,
+      "name": "i9 1/1 Road 24H 12×142 Disc Centerlock",
+      "url": "https://bikecloset.com/product/i9-1-1-hubset-road-12x142-disc-centerlock/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712036,
+      "name": "POC Octal MIPS Garnet Red Matt",
+      "url": "https://bikecloset.com/product/poc-octal-mips-garnet-red-matt/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712033,
+      "name": "POC Ventral Tempus MIPS Fluorescent Orange AVIP",
+      "url": "https://bikecloset.com/product/poc-ventral-tempus-mips-fluorescent-orange-avip/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1712007,
+      "name": "POC Tectal Race MIPS",
+      "url": "https://bikecloset.com/product/poc-tectal-race-mips-4/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711221,
+      "name": "100% R-CORE",
+      "url": "https://bikecloset.com/product/100-r-core/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711437,
+      "name": "100% HYDROMATIC",
+      "url": "https://bikecloset.com/product/100-hydromatic/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711261,
+      "name": "100% SLING Full Finger",
+      "url": "https://bikecloset.com/product/100-sling/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711279,
+      "name": "100% RIDECAMP Women’s",
+      "url": "https://bikecloset.com/product/100-ridecamp-womens/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711233,
+      "name": "100% RIDECAMP Youth",
+      "url": "https://bikecloset.com/product/100-ridecamp-youth/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711244,
+      "name": "100% RIDECAMP",
+      "url": "https://bikecloset.com/product/100-ridecamp/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711324,
+      "name": "100% CELIUM",
+      "url": "https://bikecloset.com/product/100-celium/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711340,
+      "name": "100% EXCEEDA Gel Short Finger Gloves",
+      "url": "https://bikecloset.com/product/100-exceeda-gel-short-finger-gloves/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711301,
+      "name": "100% GEOMATIC Mountain Bike Gloves",
+      "url": "https://bikecloset.com/product/100-geometic/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711294,
+      "name": "100% EXCEEDA Gel Womens Short Finger Gloves",
+      "url": "https://bikecloset.com/product/100-exceeda-gel-womens-short-finger/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711210,
+      "name": "100% COGNITO D30",
+      "url": "https://bikecloset.com/product/100-cognito-d30/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711205,
+      "name": "100% HYDROMATIC",
+      "url": "https://bikecloset.com/product/100-hydromatic-waterproof/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711173,
+      "name": "100% COGNITO SMART SHOCK",
+      "url": "https://bikecloset.com/product/100-cognito-smart-shock/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705969,
+      "name": "100% Road Gloves EXCEEDA Gel Short Finger Gloves Black",
+      "url": "https://bikecloset.com/product/100-road-gloves-exceeda-gel-short-finger-glove-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711026,
+      "name": "Knog Plugger Lights Front 350 Lumens",
+      "url": "https://bikecloset.com/product/plugger-lights-plugger-front/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1711016,
+      "name": "Knog Plug Lights Front 250 Lumens",
+      "url": "https://bikecloset.com/product/plug-lights-plug-front/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705976,
+      "name": "Knog  Plug Lights Plug Rear",
+      "url": "https://bikecloset.com/product/knog-plug-lights-plug-rear/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1709078,
+      "name": "Assos GT Socks C2",
+      "url": "https://bikecloset.com/product/assos-gt-socks-c2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1709047,
+      "name": "Assos MILLE GTO Jersey C2 Rock Grey",
+      "url": "https://bikecloset.com/product/assos-mille-gto-jersey-c2-3/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705130,
+      "name": "ENVE Fortune Storm T-Shirt Womens",
+      "url": "https://bikecloset.com/product/enve-fortune-storm-t-shirt-wmns/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705116,
+      "name": "ENVE CMYK Charcoal T-Shirt Womens",
+      "url": "https://bikecloset.com/product/enve-cmyk-charcoal-t-shirt-wmns/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1705103,
+      "name": "ENVE 10yr Anniversary T-shirt Womens",
+      "url": "https://bikecloset.com/product/enve-10yr-anniversary-t-shirt-wmns/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1701610,
+      "name": "POC Seize Sock Short",
+      "url": "https://bikecloset.com/product/poc-seize-sock-short/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1701606,
+      "name": "POC Soleus Lite Sock Mid",
+      "url": "https://bikecloset.com/product/poc-soleus-lite-sock-mid-2/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1701580,
+      "name": "POC Radiant Jersey",
+      "url": "https://bikecloset.com/product/poc-radiant-jersey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1701562,
+      "name": "POC Pro Thermal Jacket",
+      "url": "https://bikecloset.com/product/poc-pro-thermal-jacket/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1701539,
+      "name": "POC Savant MTB Glove",
+      "url": "https://bikecloset.com/product/poc-savant-mtb-glove/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1701530,
+      "name": "POC Resistance Enduro Adj Glove",
+      "url": "https://bikecloset.com/product/poc-resistance-enduro-adj-glove/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1196899,
+      "name": "POC Ventral MIPS Orange AVIP",
+      "url": "https://bikecloset.com/product/poc-ventral-mips-helmet-orange-avip-size-5/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1570215,
+      "name": "POC Tectal Race Mips NFC",
+      "url": "https://bikecloset.com/product/tectal-race-mips-nfc-medium/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1698421,
+      "name": "DMT KR SL Road Shoes (Final Sale)",
+      "url": "https://bikecloset.com/product/dmt-kr-sl-road-shoes/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1698066,
+      "name": "Assos EQUIPE RS Spring Fall Jersey TARGA Black",
+      "url": "https://bikecloset.com/product/assos-equipe-rs-spring-fall-jersey-targa-black/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1698059,
+      "name": "Assos EQUIPE RS Winter SS Mid Layer blackSeries",
+      "url": "https://bikecloset.com/product/assos-equipe-rs-winter-ss-mid-layer-blackseries/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1697098,
+      "name": "Enve OTD Merino SS T-Shirt Womens",
+      "url": "https://bikecloset.com/product/enve-otd-merino-ss-t-shirt-womens/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691591,
+      "name": "POC Lure MTB Sock Long",
+      "url": "https://bikecloset.com/product/poc-lure-mtb-sock-long/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691584,
+      "name": "POC Vivify Long Sock",
+      "url": "https://bikecloset.com/product/poc-essential-long-sock/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691576,
+      "name": "POC Flair Sock Mid",
+      "url": "https://bikecloset.com/product/poc-flair-sock-mid/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691560,
+      "name": "POC Lithe MTB Sock Mid",
+      "url": "https://bikecloset.com/product/poc-lithe-mtb-sock-mid/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691556,
+      "name": "POC Ultra Sock Mid",
+      "url": "https://bikecloset.com/product/poc-poc-ultra-sock-mid/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691548,
+      "name": "POC Soleus Lite Sock Mid",
+      "url": "https://bikecloset.com/product/poc-soleus-lite-sock-mid/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691544,
+      "name": "POC Essential MTB Strong Sock Mid",
+      "url": "https://bikecloset.com/product/poc-essential-mtb-strong-sock-mid/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691533,
+      "name": "POC Essential Road Sock Short",
+      "url": "https://bikecloset.com/product/poc-essential-road-sock-short/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691526,
+      "name": "POC Transcend Pant Men’s",
+      "url": "https://bikecloset.com/product/poc-ms-transcend-pant/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691507,
+      "name": "POC Pristine Print Jersey Men’s",
+      "url": "https://bikecloset.com/product/poc-ms-pristine-print-jersey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691485,
+      "name": "POC Essential Road Logo Jersey Men",
+      "url": "https://bikecloset.com/product/poc-ms-essential-road-logo-jersey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691468,
+      "name": "POC Reform Enduro Jersey Men’s",
+      "url": "https://bikecloset.com/product/poc-ms-reform-enduro-jersey-2/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691458,
+      "name": "POC Reform Enduro Tee Men’s",
+      "url": "https://bikecloset.com/product/poc-ms-reform-enduro-tee/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691441,
+      "name": "POC MTB Pure LS Jersey Men’s",
+      "url": "https://bikecloset.com/product/poc-mtb-pure-ls-jersey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1691436,
+      "name": "POC MTB Pure 3/4 Jersey XS",
+      "url": "https://bikecloset.com/product/poc-mtb-pure-3-4-jersey/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1690665,
+      "name": "POC Savant MTB Glove",
+      "url": "https://bikecloset.com/product/savant-mtb-glove/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1690641,
+      "name": "POC Infinite All-mountain Shorts Mens",
+      "url": "https://bikecloset.com/product/ms-infinite-all-mountain-shorts-3/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1690150,
+      "name": "Assos EQUIPE R Habu 3/3 Jacket S9",
+      "url": "https://bikecloset.com/product/assos-equipe-r-3-3-jacket-s9/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1690144,
+      "name": "Assos MILLE GTS 2/3 Jacket C2",
+      "url": "https://bikecloset.com/product/assos-mille-gts-2-3-jacket-c2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1690135,
+      "name": "Assos MILLE GT ULTRAZ Jacket EVO",
+      "url": "https://bikecloset.com/product/assos-mille-gt-uz3-3-jacket-evo/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1690096,
+      "name": "Assos EQUIPE RS Winter LS Mid Layer",
+      "url": "https://bikecloset.com/product/assos-equipe-rs-winter-ls-mid-layer/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1659667,
+      "name": "Abus Aventor",
+      "url": "https://bikecloset.com/product/abus-aventor-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1468333,
+      "name": "Fizik Vento Stabilita Carbon Black Fluo/Yellow",
+      "url": "https://bikecloset.com/product/fizik-vento-stabilita-carbon-black-fluo-yellow/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1676335,
+      "name": "Assos MILLE GTO Jersey C2",
+      "url": "https://bikecloset.com/product/assos-mille-gto-jersey-c2-2/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1668390,
+      "name": "Assos MILLE GTO Jersey C2 Black",
+      "url": "https://bikecloset.com/product/assos-mille-gto-jersey-c2-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1661997,
+      "name": "Sidi TRACE 2 MTB",
+      "url": "https://bikecloset.com/product/sidi-trace-2-mtb/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1661943,
+      "name": "Sidi ALBA 2",
+      "url": "https://bikecloset.com/product/sidi-alba-2-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1662052,
+      "name": "Sidi TRACE 2 MTB MEGA",
+      "url": "https://bikecloset.com/product/sidi-trace-2-mtb-mega/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1662034,
+      "name": "Sidi ALBA 2 MEGA",
+      "url": "https://bikecloset.com/product/sidi-alba-2-mega/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1661974,
+      "name": "Sidi ALBA 2 WOMEN",
+      "url": "https://bikecloset.com/product/sidi-alba-2-women/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1661360,
+      "name": "Louis Garneau Neo Power Shorts Mens",
+      "url": "https://bikecloset.com/product/neo-power-shorts/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1661331,
+      "name": "Louis Garneau Carbon 2 Shorts",
+      "url": "https://bikecloset.com/product/carbon-2-shorts/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1661355,
+      "name": "Louis Garneau Neo Power Bib Mens",
+      "url": "https://bikecloset.com/product/neo-power-bib/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1661345,
+      "name": "Louis Garneau Course Bib",
+      "url": "https://bikecloset.com/product/course-bib/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1661309,
+      "name": "Louis Garneau Neo Power Motion Shorts Mens",
+      "url": "https://bikecloset.com/product/neo-power-motion-shorts/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1661315,
+      "name": "Louis Garneau Neo Power Motion Bib Mens",
+      "url": "https://bikecloset.com/product/neo-power-motion-bib/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1659205,
+      "name": "Enve Alloy Mountain Stem 65mm",
+      "url": "https://bikecloset.com/product/enve-alloy-mountain-stem-65mm/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1655641,
+      "name": "SRAM Code Silver Stealth Hydraulic Disc Brake Post Mount Black (OEM)",
+      "url": "https://bikecloset.com/product/sram-code-silver-stealth-hydraulic-disc-brake-post-mount-black/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1468438,
+      "name": "Poc Kortal Race Mips Helmet",
+      "url": "https://bikecloset.com/product/kortal-race-mips/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1648912,
+      "name": "Castelli Competizione Classico Bibshort LTD W/ Progetto X2 Air Seamless Chamois",
+      "url": "https://bikecloset.com/product/castelli-classico-bibshort-ltd-w-progetto-x2-air-seamless-chamois/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1641528,
+      "name": "Louis Garneau Leg Warmers 2",
+      "url": "https://bikecloset.com/product/louis-garneau-leg-warmers-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1641518,
+      "name": "Louis Garneau Knee Warmers 2",
+      "url": "https://bikecloset.com/product/louis-garneau-knee-warmers-2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1641502,
+      "name": "Louis Garneau Arm Warmers 2",
+      "url": "https://bikecloset.com/product/louis-garneau-arm-warmers-2/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1636421,
+      "name": "Enve SES Tubeless Road Tire 700c",
+      "url": "https://bikecloset.com/product/enve-ses-tubeless-road-tires-700c/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1620238,
+      "name": "Castelli Entrata VI Jersey",
+      "url": "https://bikecloset.com/product/entrata-vi-jersey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1520026,
+      "name": "Castelli Entrata Short Black",
+      "url": "https://bikecloset.com/product/castelli-entrata-short/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1554100,
+      "name": "Poc Otocon Helmet",
+      "url": "https://bikecloset.com/product/otocon/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1541720,
+      "name": "Vittoria Corsa N.EXT Folding Clincher 700c",
+      "url": "https://bikecloset.com/product/vittoria-corsa-n-ext-folding-clincher-700c/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1528702,
+      "name": "Fizik Tempo Decos Carbon",
+      "url": "https://bikecloset.com/product/fizik-tempo-decos-carbon/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1528096,
+      "name": "Sidi SHOT 2 GALAXY (Final Sale)",
+      "url": "https://bikecloset.com/product/sidi-shot-2-galaxy/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1528083,
+      "name": "Sidi GENIUS 10 IRIDESCENT BLUE",
+      "url": "https://bikecloset.com/product/sidi-genius-10-iridescent-blue/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1527656,
+      "name": "Sidi DOMINATOR 10 MEGA BLACK/GREY",
+      "url": "https://bikecloset.com/product/dominator-10-mega-black-grey/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1527633,
+      "name": "Sidi DOMINATOR 10 IRIDESCENT BLUE",
+      "url": "https://bikecloset.com/product/dominator-10-iridescent-blue/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1523497,
+      "name": "Sidi Genius 10 Mega",
+      "url": "https://bikecloset.com/product/sidi-genius-10-mega/",
+      "status": "research-complete",
+      "outcome": "Specification notes; no verified independent verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1519385,
+      "name": "Assos MILLE GTO Jersey C2",
+      "url": "https://bikecloset.com/product/assos-mille-gto-jersey-c2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1494240,
+      "name": "Assos EQUIPE RSR Superleger Bib Shorts S9 Black Series",
+      "url": "https://bikecloset.com/product/equipe-rsr-superleger-bib-shorts-s9-black-series/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1469545,
+      "name": "Poc Ventral Lite Helmet",
+      "url": "https://bikecloset.com/product/poc-ventral-air-lite/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1459017,
+      "name": "Sidi Shot 2 (Final Sale)",
+      "url": "https://bikecloset.com/product/sidi-shot-2-other2/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1445279,
+      "name": "Castelli Entrata Bibshort Black",
+      "url": "https://bikecloset.com/product/entrata-bibshort/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 1442035,
+      "name": "Sidi Dominator 10 Black",
+      "url": "https://bikecloset.com/product/sidi-dominator-10-black/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 902981,
+      "name": "Fizik Tempo R4 Overcurve Shoe Copper/Black",
+      "url": "https://bikecloset.com/product/tempo-r4-overcurve-copper-black/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 842821,
+      "name": "Sidi Genius 10",
+      "url": "https://bikecloset.com/product/sidi-genius-10/",
+      "status": "research-complete",
+      "outcome": "Sourced model-level review summary",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 842860,
+      "name": "Sidi Dominator 10 Grey",
+      "url": "https://bikecloset.com/product/sidi-dominator-10/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
+    },
+    {
+      "productId": 476700,
+      "name": "CrankBrothers Stamp 1 Pedals",
+      "url": "https://bikecloset.com/product/stamp-1/",
+      "status": "research-complete",
+      "outcome": "Bounded search complete; limited evidence, no performance verdict",
+      "checkedAt": "2026-09-10T00:22:47Z"
     }
   ]
 }
