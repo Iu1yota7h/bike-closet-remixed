@@ -42,3 +42,10 @@ next-env.d.ts
 *-audit.txt
 public/catalog.csv
 *.tmp
+
+# Rebuilt from public facts for every preview/build
+/public/browse-catalog.json
+/public/catalog.html
+/public/about.html
+/public/robots.txt
+/public/sitemap.xml

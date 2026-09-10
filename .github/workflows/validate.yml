@@ -23,4 +23,5 @@ jobs:
       - run: npm ci
       - run: npx tsc --noEmit
       - run: npm run check:catalog
+      - run: node scripts/test-discovery.mjs
       - run: npm run build

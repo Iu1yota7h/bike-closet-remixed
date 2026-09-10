@@ -1,0 +1,8 @@
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+/browse-catalog.json
+  Cache-Control: public, max-age=0, must-revalidate
+/research.json
+  Cache-Control: public, max-age=0, must-revalidate
+/market.json
+  Cache-Control: public, max-age=0, must-revalidate

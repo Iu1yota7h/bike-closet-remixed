@@ -45,6 +45,14 @@ Use build watch exclusions for `data/*`, `public/status.json` and Markdown-only 
 
 This repository does not create a Cloudflare account, install credentials, or deploy automatically until that hosting connection is configured.
 
+### Speed and discovery process
+
+Every preview/build runs `scripts/prepare-public.mjs`. It generates a smaller browsing payload containing only valid in-stock rows, a JavaScript-free `/catalog` page with every available product and sourced notes, and `/about` with the data methodology. These generated files are ignored by Git. The original catalog remains available for auditing. Re-run the preparation script after changing local data while a preview is already running.
+
+Set `SITE_URL` to the final HTTPS origin (for example `https://bikes.example.com`, without paths) in the hosting build environment. This enables the homepage canonical and a sitemap containing only the homepage, catalog and methodology pages. Without it, no placeholder domain or sitemap is published. Filter URLs share the homepage canonical; filter combinations are excluded from the sitemap. Cloudflare Pages redirects `.html` links to its extensionless URLs. After launch, submit `/sitemap.xml` to Search Console. Readable HTML and linked JSON/CSV help discovery; they do not guarantee search rankings or AI citations.
+
+Only hashed `/assets/*` files receive immutable browser caching. Changing catalog and research payloads revalidate. Search text is normalized once per catalog load, instead of per row on each keystroke. Keep stock, cleanup, evidence and date rules identical across the interactive and readable views; do not add invented review ratings or unverified product structured data.
+
 ## Contributing
 
 Follow [CATALOG-CLEANUP.md](CATALOG-CLEANUP.md) for the shared cleanup rules and update process. Daily refreshes and code validation run `npm run check:catalog`; new listings automatically receive the same text, grouping and sizing rules as existing listings.
