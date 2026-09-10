@@ -1,8 +1,16 @@
-/assets/*
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Content-Security-Policy: base-uri 'self'; object-src 'none'; frame-ancestors 'none'
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+/_next/static/*
   Cache-Control: public, max-age=31536000, immutable
 /browse-catalog.json
   Cache-Control: public, max-age=0, must-revalidate
-/research.json
+/browse-reviews.json
   Cache-Control: public, max-age=0, must-revalidate
-/market.json
+/status.json
+  Cache-Control: public, max-age=0, must-revalidate
+/research.json
   Cache-Control: public, max-age=0, must-revalidate

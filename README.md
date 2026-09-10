@@ -42,7 +42,7 @@ npm run build
 
 Publish **dist/client** to Cloudflare Pages, with no Functions or Worker. It contains index.html and browser assets; never publish dist/server or environment files. Connect the GitHub repository using your own Cloudflare account. Set the build command to `npm run build`, output to `dist/client`, and use Node 22.
 
-All repository changes currently trigger Cloudflare builds. Build caching is enabled; build watch exclusions have not been applied. The deployed site fetches the small status file from this repository; catalog/CSV/reviews remain static assets served by Cloudflare. Content-changing pushes rebuild the catalog. A free pages.dev address works without buying a domain.
+All repository changes currently trigger Cloudflare builds. Build caching is enabled; build watch exclusions have not been applied. The deployed site serves status, catalog, CSV and compact review data together from Cloudflare, keeping the displayed check date tied to the deployed snapshot. Content-changing pushes rebuild the catalog. A free pages.dev address works without buying a domain.
 
 Production is hosted at https://bcremixed.ispithotfire.com on Cloudflare Pages, project `bike-closet-remixed`, connected to this repository’s `main` branch. Build settings: `npm run build`, `dist/client`, Node 22, `SITE_URL=https://bcremixed.ispithotfire.com`. Cloudflare Web Analytics is enabled. WordPress manages DNS; the `bcremixed` CNAME points to `bike-closet-remixed.pages.dev`. The apex website and mail records remain managed separately.
 
@@ -52,7 +52,7 @@ Every preview/build runs `scripts/prepare-public.mjs`. It generates a smaller br
 
 Set `SITE_URL` to the final HTTPS origin (for example `https://bikes.example.com`, without paths) in the hosting build environment. This enables the homepage canonical and a sitemap containing only the homepage, catalog and methodology pages. Without it, no placeholder domain or sitemap is published. Filter URLs share the homepage canonical; filter combinations are excluded from the sitemap. Cloudflare Pages redirects `.html` links to its extensionless URLs. After launch, submit `/sitemap.xml` to Search Console. Readable HTML and linked JSON/CSV help discovery; they do not guarantee search rankings or AI citations.
 
-Only hashed `/assets/*` files receive immutable browser caching. Changing catalog and research payloads revalidate. Search text is normalized once per catalog load, instead of per row on each keystroke. Keep stock, cleanup, evidence and date rules identical across the interactive and readable views; do not add invented review ratings or unverified product structured data.
+Only hashed `/_next/static/*` files receive immutable browser caching. Changing catalog and research payloads revalidate. Search text is normalized once per catalog load, instead of per row on each keystroke. Keep stock, cleanup, evidence and date rules identical across the interactive and readable views; do not add invented review ratings or unverified product structured data.
 
 ## Contributing
 
@@ -62,7 +62,7 @@ Submit focused pull requests with sources and observation dates. Keep sizes/colo
 
 ```
 node scripts/test-collector.mjs
-node audit-deals.mjs
+node scripts/test-discovery.mjs
 npx tsc --noEmit
 npm run build
 ```
@@ -73,6 +73,10 @@ On September 9, 2026, the feed directly reported 585 products and 3,734 variants
 
 Clothing filters distinguish explicit men's, women's and unisex labels; missing labels stay Unspecified. Riding styles can overlap. Only explicit road/gravel/mountain/trail cues are used, and color names such as Gravel Grey are excluded. Clothing fit and riding style are also exported in the CSV.
 
-The Clothing fit picker offers All fits, Men's and Women's. Both gender selections include Unisex and Unspecified clothing without changing the original classification in rows or CSV. This is a browsing rule, not a claim about fit compatibility.
+The Made for picker offers Anyone, Men's, Women's and Youth. Both gender selections include Unisex and Unspecified clothing without changing the original classification in rows or CSV. This is a browsing rule, not a claim about fit compatibility.
 
 Combined alphabetic sizes (for example S/M, M/L and XL/2XL) appear under both individual size filters. Exact retailer sizes remain unchanged in rows and CSV. Numeric ranges and brand-specific sizing are not split. Older combined-size filter links normalize to the first individual size.
+
+## Quality checks
+
+After building, run `node scripts/test-quality.mjs`. CI enforces gzip budgets for catalog, review, CSS and JavaScript files and verifies review parity, static-only output, basic metadata, keyboard/no-JavaScript fallback and the cache path. See [QUALITY-AUDIT.md](QUALITY-AUDIT.md) for measured results and remaining checks. CSS scans only app code and the four UI components used by this page; register any new component source in app/globals.css.

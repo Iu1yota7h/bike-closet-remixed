@@ -49,3 +49,6 @@ public/catalog.csv
 /public/about.html
 /public/robots.txt
 /public/sitemap.xml
+
+/public/browse-reviews.json
+/public/llms.txt
