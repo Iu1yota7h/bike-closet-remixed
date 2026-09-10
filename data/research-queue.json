@@ -1,6 +1,8 @@
 {
   "generatedAt": "2026-09-10T02:37:53.460Z",
+  "trigger": "new-parent-products",
   "maxNewModels": 5,
+  "pending": [],
   "shortlist": [],
   "completedAt": "2026-09-10T00:22:47Z",
   "completed": [

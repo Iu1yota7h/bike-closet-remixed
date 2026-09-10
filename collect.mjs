@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import {pathToFileURL} from 'node:url';
 import ts from 'typescript';
+import {updateResearchQueue} from './scripts/research-queue.mjs';
 const textCode=ts.transpileModule(fs.readFileSync(new URL('./lib/catalog-text.ts',import.meta.url),'utf8'),{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText;
 const {cleanCatalogText}=await import('data:text/javascript;base64,'+Buffer.from(textCode).toString('base64'));
 const root='https://bikecloset.com/wp-json/wc/store/v1/products';
@@ -42,12 +43,14 @@ export function normalize(products,variants,previous,now,allowShrink=false){
 export async function collect(){
  const previous=read('public/catalog.json',null);const products=await all('');const variants=await all('&type=variation');const now=new Date().toISOString();const {rows,events}=normalize(products,variants,previous,now,process.argv.includes('--accept-reviewed-shrink'));
  const output={checkedAt:now,products:products.length,variants:variants.length,representedProducts:new Set(rows.map(r=>r.productId)).size,rows};
+ const currentQueue=read('data/research-queue.json',{completed:[]});const research=read('public/research.json',{});const {queue,added}=updateResearchQueue(currentQueue,previous?.rows,rows,research,now,5);
  // No writes occur until every page and normalized row passes validation.
- const comparable=rs=>JSON.stringify(rs.map(({observedAt,...r})=>r));
+ const comparable=rs=>JSON.stringify(rs.map(({observedAt:_observedAt,...r})=>r));
  const changed=!previous||comparable(previous.rows)!==comparable(rows);
  if(changed){fs.writeFileSync('public/catalog.json.tmp',JSON.stringify(output));fs.renameSync('public/catalog.json.tmp','public/catalog.json');}
+ fs.writeFileSync('data/research-queue.json.tmp',JSON.stringify(queue,null,2)+'\n');fs.renameSync('data/research-queue.json.tmp','data/research-queue.json');
  fs.appendFileSync('data/history.jsonl',events.map(e=>JSON.stringify(e)).join('\n')+(events.length?'\n':''));
  const status=read('public/status.json',{});status.inventory={checkedAt:now,status:'success',schedule:'Daily · 12 AM Pacific'};fs.writeFileSync('public/status.json',JSON.stringify(status,null,2)+'\n');
- console.log(`Collected ${products.length} products, ${variants.length} variants; ${events.length} price/stock events.`);
+ console.log(`Collected ${products.length} products, ${variants.length} variants; ${events.length} price/stock events; ${added.length} new parent products queued for one-time review research.`);
 }
 if(process.argv[1]&&import.meta.url===pathToFileURL(process.argv[1]).href)await collect();
