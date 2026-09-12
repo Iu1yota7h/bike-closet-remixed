@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-09-11T12:08:04.173Z",
+  "generatedAt": "2026-09-12T11:33:55.497Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
-  "pending": [],
-  "shortlist": [],
+  "pending": [
+    {
+      "id": 1736213,
+      "productId": 1736211,
+      "name": "Assos Mille GT SS Jersey C2 EVO Legion Supporter Women (Final Sale)",
+      "price": 19.99,
+      "reference": 160,
+      "url": "https://bikecloset.com/product/cg-gt-wom-ss-jersey-c2-evo-legion-supporter/?attribute_pa_color=legion-supporter&attribute_pa_size=m",
+      "detectedAt": "2026-09-12T11:33:55.497Z",
+      "status": "awaiting-research"
+    }
+  ],
+  "shortlist": [
+    {
+      "id": 1736213,
+      "productId": 1736211,
+      "name": "Assos Mille GT SS Jersey C2 EVO Legion Supporter Women (Final Sale)",
+      "price": 19.99,
+      "reference": 160,
+      "url": "https://bikecloset.com/product/cg-gt-wom-ss-jersey-c2-evo-legion-supporter/?attribute_pa_color=legion-supporter&attribute_pa_size=m",
+      "detectedAt": "2026-09-12T11:33:55.497Z",
+      "status": "awaiting-research"
+    }
+  ],
   "completedAt": "2026-09-10T00:22:47Z",
   "completed": [
     {
