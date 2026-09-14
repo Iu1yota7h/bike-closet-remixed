@@ -122,3 +122,15 @@
 {"at":"2026-09-13T12:39:26.687Z","id":1698068,"previousPrice":99.99,"price":99.99,"previousStock":true,"stock":false,"event":"baseline"}
 {"at":"2026-09-13T12:39:26.687Z","id":1541723,"previousPrice":44.99,"price":44.99,"previousStock":true,"stock":false,"event":"baseline"}
 {"at":"2026-09-13T12:39:26.687Z","id":1528099,"previousPrice":199,"price":199,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1773097,"previousPrice":59.99,"price":59.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1793920,"previousPrice":99,"price":99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1793913,"previousPrice":99,"price":99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1793857,"previousPrice":229,"price":229,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1775374,"previousPrice":30,"price":30,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1750200,"previousPrice":39.99,"price":39.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1736189,"previousPrice":39.99,"price":39.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1736184,"previousPrice":39.99,"price":39.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1736175,"previousPrice":39.99,"price":39.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1724325,"previousPrice":99.99,"price":99.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-14T13:48:36.730Z","id":1711027,"previousPrice":15.99,"price":9.99,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-14T13:48:36.730Z","id":1705977,"previousPrice":9.99,"price":5.99,"previousStock":true,"stock":true,"event":"price-drop"}
