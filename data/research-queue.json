@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-09-10T02:37:53.460Z",
+  "generatedAt": "2026-09-19T11:52:44.313Z",
+  "trigger": "new-parent-products",
   "maxNewModels": 5,
-  "shortlist": [],
+  "pending": [
+    {
+      "id": 1736213,
+      "productId": 1736211,
+      "name": "Assos Mille GT SS Jersey C2 EVO Legion Supporter Women (Final Sale)",
+      "price": 19.99,
+      "reference": 160,
+      "url": "https://bikecloset.com/product/cg-gt-wom-ss-jersey-c2-evo-legion-supporter/?attribute_pa_color=legion-supporter&attribute_pa_size=m",
+      "detectedAt": "2026-09-12T11:33:55.497Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1731559,
+      "productId": 1731557,
+      "name": "100% BRISKER Glove",
+      "price": 9.99,
+      "reference": 34.5,
+      "url": "https://bikecloset.com/product/100-brisker-glove-3/?attribute_pa_color-size=neon-pink-xl",
+      "detectedAt": "2026-09-18T12:10:13.901Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1711200,
+      "productId": 1711200,
+      "name": "100% BRISKER Heather Grey – XXL",
+      "price": 9.99,
+      "reference": 34.5,
+      "url": "https://bikecloset.com/product/100-brisker/",
+      "detectedAt": "2026-09-18T12:10:13.901Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1711372,
+      "productId": 1711357,
+      "name": "100% BRISKER Youth Glove",
+      "price": 9.99,
+      "reference": 34.5,
+      "url": "https://bikecloset.com/product/100-brisker-glove/?attribute_pa_color-size=black-xl",
+      "detectedAt": "2026-09-18T12:10:13.901Z",
+      "status": "awaiting-research"
+    }
+  ],
+  "shortlist": [
+    {
+      "id": 1736213,
+      "productId": 1736211,
+      "name": "Assos Mille GT SS Jersey C2 EVO Legion Supporter Women (Final Sale)",
+      "price": 19.99,
+      "reference": 160,
+      "url": "https://bikecloset.com/product/cg-gt-wom-ss-jersey-c2-evo-legion-supporter/?attribute_pa_color=legion-supporter&attribute_pa_size=m",
+      "detectedAt": "2026-09-12T11:33:55.497Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1731559,
+      "productId": 1731557,
+      "name": "100% BRISKER Glove",
+      "price": 9.99,
+      "reference": 34.5,
+      "url": "https://bikecloset.com/product/100-brisker-glove-3/?attribute_pa_color-size=neon-pink-xl",
+      "detectedAt": "2026-09-18T12:10:13.901Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1711200,
+      "productId": 1711200,
+      "name": "100% BRISKER Heather Grey – XXL",
+      "price": 9.99,
+      "reference": 34.5,
+      "url": "https://bikecloset.com/product/100-brisker/",
+      "detectedAt": "2026-09-18T12:10:13.901Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1711372,
+      "productId": 1711357,
+      "name": "100% BRISKER Youth Glove",
+      "price": 9.99,
+      "reference": 34.5,
+      "url": "https://bikecloset.com/product/100-brisker-glove/?attribute_pa_color-size=black-xl",
+      "detectedAt": "2026-09-18T12:10:13.901Z",
+      "status": "awaiting-research"
+    }
+  ],
   "completedAt": "2026-09-10T00:22:47Z",
   "completed": [
     {
