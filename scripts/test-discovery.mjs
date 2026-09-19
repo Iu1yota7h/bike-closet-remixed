@@ -8,22 +8,15 @@ try {
   const browse=JSON.parse(fs.readFileSync('public/browse-catalog.json'));
   const eligible=source.rows.filter(r=>r.stock===true&&r.url&&r.name!=='Unnamed variant');
   assert.deepEqual(browse.rows,eligible);
-  const html=fs.readFileSync('public/catalog.html','utf8');
-  const ids=[...html.matchAll(/<article id="product-(\d+)"/g)].map(m=>Number(m[1])).sort((a,b)=>a-b);
-  assert.deepEqual(ids,[...new Set(eligible.map(r=>r.productId))].sort((a,b)=>a-b));
-  assert(!html.includes('<script'));
-  const priceLinks=[...html.matchAll(/href="([^"]+)"/g)].filter(m=>m[1].startsWith('https://www.google.com/search'));
-  assert.equal(priceLinks.length,eligible.length);
-  assert(priceLinks.every(m=>new URL(m[1].replaceAll('&amp;','&')).searchParams.get('q')?.length>0));
-  assert(html.includes('rel="canonical" href="https://example.test/catalog"'));
+  assert(!fs.existsSync('public/catalog.html'));
   const sitemap=fs.readFileSync('public/sitemap.xml','utf8');
-  assert.equal((sitemap.match(/<loc>/g)||[]).length,3);
+  assert.equal((sitemap.match(/<loc>/g)||[]).length,1);
+  assert(!sitemap.includes('/catalog')&&!sitemap.includes('/about')&&!fs.existsSync('public/about.html'));
   assert([...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].every(m=>!new URL(m[1]).search));
   run({SITE_URL:''});
   assert(!fs.existsSync('public/sitemap.xml'));
-  assert(!fs.readFileSync('public/catalog.html','utf8').includes('rel="canonical"'));
   assert.throws(()=>run({SITE_URL:'https://example.test/private/path'}));
-  console.log('Discovery checks passed: exact stock parity, full product coverage, canonical URLs and no placeholder sitemap.');
+  console.log('Discovery checks passed: exact stock parity, removed standalone pages and no placeholder sitemap.');
 } finally {
   run({SITE_URL:process.env.SITE_URL||''});
 }
