@@ -29,6 +29,6 @@ assert(headers.includes('/_next/static/*\n  Cache-Control: public, max-age=31536
 assert(headers.includes("default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com"),'CSP must restrict scripts while allowing the static app and Cloudflare Web Analytics');
 assert(headers.includes("object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"),'CSP hardening directives missing');
 assert(headers.includes('https://bcremixed.ispithotfire.com/*\n  Strict-Transport-Security: max-age=31536000'),'HSTS must apply only to the catalog hostname');
-assert(bytes('llms.txt').toString().includes('/catalog'),'Discovery guide must link readable catalog');
+assert(bytes('llms.txt').toString().includes('/browse-catalog.json'),'Discovery guide must link stock data');
 console.log('Quality checks passed: review parity, size budgets, static-only output, H1, fallback, metadata and cache path.');
 console.log(JSON.stringify(measurements));
