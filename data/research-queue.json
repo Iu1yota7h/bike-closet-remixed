@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T11:52:44.313Z",
+  "generatedAt": "2026-09-20T12:10:13.441Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -42,6 +42,16 @@
       "url": "https://bikecloset.com/product/100-brisker-glove/?attribute_pa_color-size=black-xl",
       "detectedAt": "2026-09-18T12:10:13.901Z",
       "status": "awaiting-research"
+    },
+    {
+      "id": 1683738,
+      "productId": 1683738,
+      "name": "Garmin Edge 1050 (NOH)",
+      "price": 529.99,
+      "reference": 699.99,
+      "url": "https://bikecloset.com/product/garmin-edge-1050/",
+      "detectedAt": "2026-09-20T12:10:13.441Z",
+      "status": "awaiting-research"
     }
   ],
   "shortlist": [
@@ -83,6 +93,16 @@
       "reference": 34.5,
       "url": "https://bikecloset.com/product/100-brisker-glove/?attribute_pa_color-size=black-xl",
       "detectedAt": "2026-09-18T12:10:13.901Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1683738,
+      "productId": 1683738,
+      "name": "Garmin Edge 1050 (NOH)",
+      "price": 529.99,
+      "reference": 699.99,
+      "url": "https://bikecloset.com/product/garmin-edge-1050/",
+      "detectedAt": "2026-09-20T12:10:13.441Z",
       "status": "awaiting-research"
     }
   ],
