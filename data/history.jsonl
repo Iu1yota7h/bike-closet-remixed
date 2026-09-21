@@ -399,3 +399,16 @@
 {"at":"2026-09-20T12:10:13.441Z","id":1745172,"previousPrice":29.99,"price":29.99,"previousStock":true,"stock":false,"event":"baseline"}
 {"at":"2026-09-20T12:10:13.441Z","id":1724300,"previousPrice":129.99,"price":129.99,"previousStock":true,"stock":false,"event":"baseline"}
 {"at":"2026-09-20T12:10:13.441Z","id":1715973,"previousPrice":129,"price":129,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1794094,"previousPrice":79,"price":79,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1787514,"previousPrice":249,"price":249,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1773030,"previousPrice":59.99,"price":59.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1773026,"previousPrice":59.99,"price":59.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1773022,"previousPrice":59.99,"price":59.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1769587,"previousPrice":200,"price":200,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1753653,"previousPrice":1499,"price":1419,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-21T13:48:33.259Z","id":1750919,"previousPrice":69.99,"price":69.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1750305,"previousPrice":99.99,"price":99.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1724403,"previousPrice":99.99,"price":99.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1711190,"previousPrice":9.99,"price":9.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1691512,"previousPrice":49.99,"price":49.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-21T13:48:33.259Z","id":1662038,"previousPrice":99,"price":99,"previousStock":true,"stock":false,"event":"baseline"}
