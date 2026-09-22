@@ -15,8 +15,8 @@ Open the localhost URL printed by the server. The included catalog is a dated sn
 
 ## Update schedules
 
-- Inventory: daily at **12 AM America/Los_Angeles**.
-- This follows PST/PDT. GitHub may delay scheduled jobs; last successful checks are shown separately.
+- Inventory: daily at **12:17 AM America/Los_Angeles**.
+- This follows PST/PDT and avoids the top-of-hour GitHub Actions queue surge; last successful checks are shown separately.
 - `Refresh catalog` can also be run manually, without a market-price job.
 - GitHub may disable schedules after 60 days of repository inactivity. Successful checks normally create a status commit; monitor failed runs.
 
