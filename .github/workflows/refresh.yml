@@ -1,7 +1,8 @@
 name: Refresh catalog
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # Avoid the top-of-hour queue surge while retaining a reliable pre-02:00 report window.
+    - cron: '17 0 * * *'
       timezone: America/Los_Angeles
   workflow_dispatch:
 permissions:
