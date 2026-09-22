@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
-import {normalize,validatePages} from '../collect.mjs';
+import {INVENTORY_SCHEDULE,normalize,validatePages} from '../collect.mjs';
+assert.equal(INVENTORY_SCHEDULE,'Daily · 12:17 AM Pacific');
 const v={id:10,parent:0,name:'Test',type:'simple',is_in_stock:true,permalink:'https://bikecloset.com/product/test/',prices:{currency_code:'USD',price:'1000',regular_price:'2000',currency_minor_unit:2}};
 const old={checkedAt:'2026-09-07T00:00:00Z',rows:[{id:10,price:12,stock:false}]};
 const {rows,events}=normalize([v],[],old,'2026-09-09T00:00:00Z');
