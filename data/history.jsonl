@@ -543,3 +543,16 @@
 {"at":"2026-09-25T12:47:23.627Z","id":1791450,"previousPrice":133,"price":133,"previousStock":true,"stock":false,"event":"baseline"}
 {"at":"2026-09-25T12:47:23.627Z","id":1691515,"previousPrice":49.99,"price":49.99,"previousStock":true,"stock":false,"event":"baseline"}
 {"at":"2026-09-25T12:47:23.627Z","id":1468342,"previousPrice":149,"price":149,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-26T12:15:12.984Z","id":1773096,"previousPrice":39.99,"price":39.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-26T12:15:12.984Z","id":1794810,"previousPrice":79.99,"price":79.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-09-26T12:15:12.984Z","id":1763980,"previousPrice":1999,"price":1599,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1763970,"previousPrice":1999,"price":1599,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1763928,"previousPrice":4000,"price":1999,"previousStock":false,"stock":false,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1755943,"previousPrice":1499,"price":1399,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1753660,"previousPrice":1499,"price":1399,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1748601,"previousPrice":1499,"price":1399,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1748600,"previousPrice":1499,"price":1399,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1748596,"previousPrice":1499,"price":1399,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1746718,"previousPrice":29.99,"price":19.99,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1746719,"previousPrice":34.99,"price":19.99,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-09-26T12:15:12.984Z","id":1713147,"previousPrice":39.99,"price":39.99,"previousStock":true,"stock":false,"event":"baseline"}
