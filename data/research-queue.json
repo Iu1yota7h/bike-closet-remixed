@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:05:58.213Z",
+  "generatedAt": "2026-09-30T13:44:39.852Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -61,6 +61,36 @@
       "reference": 4000,
       "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v32-vertical-red-medium/?attribute_pa_color=v32-vertical-red&attribute_pa_size=xs",
       "detectedAt": "2026-09-29T14:05:58.213Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1800723,
+      "productId": 1800722,
+      "name": "Time ADHX 45 Carbon Disc Frameset V32 Vertical Red XS",
+      "price": 1399,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-45-carbon-disc-frameset-v32-vertical-red-xs/?attribute_pa_color=v32-vertical-red&attribute_pa_size=xs",
+      "detectedAt": "2026-09-30T13:44:39.852Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1800720,
+      "productId": 1800719,
+      "name": "Time ADHX Carbon Disc Frameset V34 Vertical Blue XS",
+      "price": 1399,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v34-vertical-blue-xs/?attribute_pa_color=v34-vertical-blue&attribute_pa_size=xs",
+      "detectedAt": "2026-09-30T13:44:39.852Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1800715,
+      "productId": 1800714,
+      "name": "Time ADH Carbon Disc Frameset V37 Brilliant Green XS",
+      "price": 1399,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v37-brilliant-green-xs/?attribute_pa_color=v37-brilliant-green&attribute_pa_size=xs",
+      "detectedAt": "2026-09-30T13:44:39.852Z",
       "status": "awaiting-research"
     }
   ],
