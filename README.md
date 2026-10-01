@@ -46,6 +46,8 @@ All repository changes currently trigger Cloudflare builds. Build caching is ena
 
 Production is hosted at https://bcremixed.ispithotfire.com on Cloudflare Pages, project `bike-closet-remixed`, connected to this repository’s `main` branch. Build settings: `npm run build`, `dist/client`, Node 22, `SITE_URL=https://bcremixed.ispithotfire.com`. Cloudflare Web Analytics is enabled. WordPress manages DNS; the `bcremixed` CNAME points to `bike-closet-remixed.pages.dev`. The apex website and mail records remain managed separately.
 
+The existing Pages Web Analytics tag is registered for `bike-closet-remixed.pages.dev`, so it does not establish production traffic counts for the custom domain. A production-host migration is prepared in `app/production-analytics.tsx`: register a separate manual Web Analytics site for `bcremixed.ispithotfire.com`, set its public site token as the production build variable `NEXT_PUBLIC_CF_WEB_ANALYTICS_TOKEN`, and retire the Pages-managed tag as part of the same release. The component only installs on the exact production origin and skips installation if a beacon is already present. Do not treat the migration as complete until the live custom-domain page has exactly one matching beacon and the new dashboard receives visits. The token is public site configuration, but should remain in the Cloudflare build setting rather than source Git.
+
 ### Speed and discovery process
 
 Every preview/build runs `scripts/prepare-public.mjs`. It generates a smaller browsing payload containing only valid in-stock rows. Generated browsing files are ignored by Git, while the original catalog remains available for auditing. Re-run the preparation script after changing local data while a preview is already running.
