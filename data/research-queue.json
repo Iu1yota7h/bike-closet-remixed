@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T12:34:56.023Z",
+  "generatedAt": "2026-10-04T13:12:37.252Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -91,6 +91,26 @@
       "reference": 4000,
       "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v37-brilliant-green-xs/?attribute_pa_color=v37-brilliant-green&attribute_pa_size=xs",
       "detectedAt": "2026-09-30T13:44:39.852Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801271,
+      "productId": 1801270,
+      "name": "Q36.5 Gregarius Winter Jacket",
+      "price": 199.99,
+      "reference": 430,
+      "url": "https://bikecloset.com/product/gregarius-winter-jacket/?attribute_pa_color=drab-green&attribute_pa_size=xxs",
+      "detectedAt": "2026-10-04T13:12:37.252Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801175,
+      "productId": 1801174,
+      "name": "KOO ALIBI",
+      "price": 119.99,
+      "reference": 190,
+      "url": "https://bikecloset.com/product/koo-alibi/?attribute_pa_color=dark-blue-matt&attribute_pa_size=large",
+      "detectedAt": "2026-10-04T13:12:37.252Z",
       "status": "awaiting-research"
     }
   ],
