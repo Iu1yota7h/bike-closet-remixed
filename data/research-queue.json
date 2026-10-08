@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T14:31:32.203Z",
+  "generatedAt": "2026-10-08T14:36:36.674Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -111,6 +111,86 @@
       "reference": 190,
       "url": "https://bikecloset.com/product/koo-alibi/?attribute_pa_color=dark-blue-matt&attribute_pa_size=large",
       "detectedAt": "2026-10-04T13:12:37.252Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801834,
+      "productId": 1801834,
+      "name": "Fizik COMFORTFEEL 3.5mm CLASSIC BLACK",
+      "price": 23.99,
+      "reference": 39.99,
+      "url": "https://bikecloset.com/product/fizik-comfortfeel-3-5mm-tacky-black-copy/",
+      "detectedAt": "2026-10-08T14:36:36.674Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801832,
+      "productId": 1801832,
+      "name": "Fizik COMFORTFEEL 3.5mm TACKY BLACK",
+      "price": 27.99,
+      "reference": 49.99,
+      "url": "https://bikecloset.com/product/fizik-comfortfeel-3-5mm-tacky-black/",
+      "detectedAt": "2026-10-08T14:36:36.674Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801817,
+      "productId": 1801817,
+      "name": "Fizik TRANSIRO AERIS SD R1 LIGHT 135MM SADDLE",
+      "price": 159.99,
+      "reference": 229,
+      "url": "https://bikecloset.com/product/fizik-transiro-aeris-sd-r1-light-135mm-saddle/",
+      "detectedAt": "2026-10-08T14:36:36.674Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801815,
+      "productId": 1801815,
+      "name": "Crankbrothers TOOL S.O.S. TS2 TUBE STASH +",
+      "price": 19.99,
+      "reference": 32.99,
+      "url": "https://bikecloset.com/product/crankbrothers-tool-s-o-s-ts2-tube-stash/",
+      "detectedAt": "2026-10-08T14:36:36.674Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801813,
+      "productId": 1801813,
+      "name": "Crankbrothers TOOL S.O.S. BC18 BOTTLE CAGE",
+      "price": 69.99,
+      "reference": 109.99,
+      "url": "https://bikecloset.com/product/crankbrothers-tool-s-o-s-bc18-bottle-cage/",
+      "detectedAt": "2026-10-08T14:36:36.674Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801808,
+      "productId": 1801808,
+      "name": "Crankbrothers TOOL S.O.S. BC2 BOTTLE CAGE +",
+      "price": 29.99,
+      "reference": 42.99,
+      "url": "https://bikecloset.com/product/crankbrothers-tool-f11-series-copy/",
+      "detectedAt": "2026-10-08T14:36:36.674Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801803,
+      "productId": 1801803,
+      "name": "Crankbrothers TOOL F11 SERIES",
+      "price": 34.99,
+      "reference": 54.99,
+      "url": "https://bikecloset.com/product/crankbrothers-tool-f11-series/",
+      "detectedAt": "2026-10-08T14:36:36.674Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801800,
+      "productId": 1801800,
+      "name": "Crankbrothers SPEEDIER LEVER",
+      "price": 4.99,
+      "reference": 10.99,
+      "url": "https://bikecloset.com/product/crankbrothers-speedier-lever/",
+      "detectedAt": "2026-10-08T14:36:36.674Z",
       "status": "awaiting-research"
     }
   ],
