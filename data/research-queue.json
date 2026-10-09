@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T14:36:36.674Z",
+  "generatedAt": "2026-10-09T14:23:22.480Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -191,6 +191,56 @@
       "reference": 10.99,
       "url": "https://bikecloset.com/product/crankbrothers-speedier-lever/",
       "detectedAt": "2026-10-08T14:36:36.674Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801928,
+      "productId": 1801927,
+      "name": "Q36.5 Gregarius Road Shoes White",
+      "price": 360,
+      "reference": 360,
+      "url": "https://bikecloset.com/product/q36-5-gregarius-road-shoes-white/?attribute_pa_size=40",
+      "detectedAt": "2026-10-09T14:23:22.480Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801912,
+      "productId": 1801911,
+      "name": "Q36.5 Dottore Clima Road Shoes Ice Grey",
+      "price": 560,
+      "reference": 560,
+      "url": "https://bikecloset.com/product/q36-5-dottore-clima-road-shoes-ice-grey/?attribute_pa_size=40",
+      "detectedAt": "2026-10-09T14:23:22.480Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801821,
+      "productId": 1801821,
+      "name": "Fizik SADDLE ARIONE R1 R BLACK M",
+      "price": 159.99,
+      "reference": 229,
+      "url": "https://bikecloset.com/product/fizik-saddle-arione-r1-r-black-m/",
+      "detectedAt": "2026-10-09T14:23:22.480Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1737019,
+      "productId": 1737015,
+      "name": "Louis Garneau Women’s Neo Power Bib",
+      "price": 29.99,
+      "reference": 174.99,
+      "url": "https://bikecloset.com/product/louis-garneau-womens-neo-power-bib1/?attribute_pa_color=blackwhite&attribute_pa_size=2xl",
+      "detectedAt": "2026-10-09T14:23:22.480Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1736931,
+      "productId": 1736929,
+      "name": "Louis Garneau Women’s Corridge Bib",
+      "price": 59.99,
+      "reference": 269.99,
+      "url": "https://bikecloset.com/product/louis-garneau-womens-corridge-bib1/?attribute_pa_color=trio-dust&attribute_pa_size=s",
+      "detectedAt": "2026-10-09T14:23:22.480Z",
       "status": "awaiting-research"
     }
   ],
