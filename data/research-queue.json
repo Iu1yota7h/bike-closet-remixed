@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:23:22.480Z",
+  "generatedAt": "2026-10-10T13:42:16.769Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -241,6 +241,56 @@
       "reference": 269.99,
       "url": "https://bikecloset.com/product/louis-garneau-womens-corridge-bib1/?attribute_pa_color=trio-dust&attribute_pa_size=s",
       "detectedAt": "2026-10-09T14:23:22.480Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802134,
+      "productId": 1802133,
+      "name": "Time ALPE D’HUEZ 01 AKTIV Rim Brake Red Gloss SIZE M",
+      "price": 1299,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-alpe-dhuez-01-aktiv-rim-brake-red-gloss-size-m/?attribute_pa_color=red&attribute_pa_size=m",
+      "detectedAt": "2026-10-10T13:42:16.769Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802129,
+      "productId": 1802128,
+      "name": "Time SCYLON (GEN 1) DISC GLOSS CARBON / MATTE GREY XS",
+      "price": 1299,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-scylon-disc-gloss-carbon-matte-grey-xs/?attribute_pa_color=v11-gloss-carbon&attribute_pa_size=xs",
+      "detectedAt": "2026-10-10T13:42:16.769Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802126,
+      "productId": 1802125,
+      "name": "Time SCYLON RIM BRAKE GLOSS WHITE / CARBON XL",
+      "price": 1299,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-scylon-rim-brake-gloss-white-carbon-xl/?attribute_pa_color=v15-gloss-white&attribute_pa_size=xl",
+      "detectedAt": "2026-10-10T13:42:16.769Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802096,
+      "productId": 1802095,
+      "name": "Time SCYLON RIM BRAKE GLOSS CARBON / MATTE GREY XL",
+      "price": 1299,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-scylon-rim-brake-gloss-carbon-matte-grey-xl/?attribute_pa_color=v11-gloss-carbon&attribute_pa_size=xl",
+      "detectedAt": "2026-10-10T13:42:16.769Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802093,
+      "productId": 1802092,
+      "name": "Time SCYLON TL RIM BRAKE GLOSS CARBON / MATTE GREY XL",
+      "price": 1299,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-frameset-scylon-tl-rim-brake-gloss-carbon-matte-grey-xl/?attribute_pa_color=v11-gloss-carbon&attribute_pa_size=xl",
+      "detectedAt": "2026-10-10T13:42:16.769Z",
       "status": "awaiting-research"
     }
   ],
