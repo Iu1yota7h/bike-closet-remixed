@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T14:04:27.282Z",
+  "generatedAt": "2026-10-12T16:45:26.503Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -291,6 +291,26 @@
       "reference": 4000,
       "url": "https://bikecloset.com/product/time-frameset-scylon-tl-rim-brake-gloss-carbon-matte-grey-xl/?attribute_pa_color=v11-gloss-carbon&attribute_pa_size=xl",
       "detectedAt": "2026-10-10T13:42:16.769Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802308,
+      "productId": 1802308,
+      "name": "DMT KR0 Grey 38 (Open Box-Scratch)",
+      "price": 99.99,
+      "reference": 540,
+      "url": "https://bikecloset.com/product/dmt-kr0-grey-38-open-box-scratch-2/",
+      "detectedAt": "2026-10-12T16:45:26.503Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802305,
+      "productId": 1802305,
+      "name": "Sidi Alba 2 Grey 46 (Open Box-Scratch)",
+      "price": 79,
+      "reference": 199,
+      "url": "https://bikecloset.com/product/sidi-alba-2-grey-46-open-box-scratch/",
+      "detectedAt": "2026-10-12T16:45:26.503Z",
       "status": "awaiting-research"
     }
   ],
