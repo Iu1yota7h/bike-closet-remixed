@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T16:45:26.503Z",
+  "generatedAt": "2026-10-13T15:04:40.928Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -311,6 +311,156 @@
       "reference": 199,
       "url": "https://bikecloset.com/product/sidi-alba-2-grey-46-open-box-scratch/",
       "detectedAt": "2026-10-12T16:45:26.503Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801211,
+      "productId": 1801210,
+      "name": "Q36.5 Gregarius Pro Bib Shorts Women",
+      "price": 290,
+      "reference": 290,
+      "url": "https://bikecloset.com/product/gregarius-pro-bib-shorts-women/?attribute_pa_color=poppy-orange&attribute_pa_size=xs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801232,
+      "productId": 1801231,
+      "name": "Q36.5 Adventure Baggy Shorts",
+      "price": 270,
+      "reference": 270,
+      "url": "https://bikecloset.com/product/adventure-baggy-shorts/?attribute_pa_color=kaki&attribute_pa_size=xxs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801227,
+      "productId": 1801226,
+      "name": "Q36.5 Gregarius Damask Jersey Women",
+      "price": 190,
+      "reference": 190,
+      "url": "https://bikecloset.com/product/gregarius-damask-jersey-women/?attribute_pa_color=purple&attribute_pa_size=xs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801221,
+      "productId": 1801220,
+      "name": "Q36.5 Dottore Pro Jersey Women",
+      "price": 240,
+      "reference": 240,
+      "url": "https://bikecloset.com/product/dottore-pro-jersey-women/?attribute_pa_color=forest-green&attribute_pa_size=xs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801254,
+      "productId": 1801253,
+      "name": "Q36.5 Gregarius Hybrid Light Collar Fade Long Sleeve Jersey",
+      "price": 200,
+      "reference": 200,
+      "url": "https://bikecloset.com/product/gregarius-hybrid-light-collar-fade-long-sleeve-jersey/?attribute_pa_color=black&attribute_pa_size=xs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801217,
+      "productId": 1801216,
+      "name": "Q36.5 Gregarius Grid Skin Bib Shorts Women",
+      "price": 320,
+      "reference": 320,
+      "url": "https://bikecloset.com/product/gregarius-grid-skin-bib-shorts-women/?attribute_pa_color=black&attribute_pa_size=s",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801245,
+      "productId": 1801244,
+      "name": "Q36.5 Gregarius Clima Weathermap Jersey",
+      "price": 190,
+      "reference": 190,
+      "url": "https://bikecloset.com/product/gregarius-clima-weathermap-jersey/?attribute_pa_color=lime&attribute_pa_size=xxs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801241,
+      "productId": 1801240,
+      "name": "Q36.5 Adventure Tech T-shirt",
+      "price": 140,
+      "reference": 140,
+      "url": "https://bikecloset.com/product/adventure-tech-t-shirt/?attribute_pa_color=forest-green&attribute_pa_size=xs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801268,
+      "productId": 1801267,
+      "name": "Q36.5 Base Layer 2 Short Sleeve",
+      "price": 110,
+      "reference": 110,
+      "url": "https://bikecloset.com/product/base-layer-2-short-sleeve/?attribute_pa_color=drab-green&attribute_pa_size=xxs-xs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801262,
+      "productId": 1801261,
+      "name": "Q36.5 Q36.5 Gregarius Pro Team Off-Road Jersey",
+      "price": 180,
+      "reference": 180,
+      "url": "https://bikecloset.com/product/gregarius-q36-5-pro-team-off-road-jersey/?attribute_pa_color=gold-white&attribute_pa_size=m",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801297,
+      "productId": 1801296,
+      "name": "Q36.5 Dottore Pro Summer Gloves",
+      "price": 75,
+      "reference": 75,
+      "url": "https://bikecloset.com/product/dottore-pro-summer-gloves/?attribute_pa_color=forest-green&attribute_pa_size=xxs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801290,
+      "productId": 1801289,
+      "name": "Q36.5 Dottore Clima Summer Gloves",
+      "price": 90,
+      "reference": 90,
+      "url": "https://bikecloset.com/product/dottore-clima-summer-gloves/?attribute_pa_color=lime&attribute_pa_size=xs",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801312,
+      "productId": 1801311,
+      "name": "Q36.5 Dottore Pro Summer Cap",
+      "price": 68,
+      "reference": 68,
+      "url": "https://bikecloset.com/product/dottore-pro-summer-cap/?attribute_pa_color=forest-green&attribute_pa_size=onesize",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1801309,
+      "productId": 1801308,
+      "name": "Q36.5 Winter Rain Gloves",
+      "price": 85,
+      "reference": 85,
+      "url": "https://bikecloset.com/product/winter-rain-gloves/?attribute_pa_color=australian-green&attribute_pa_size=l",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802400,
+      "productId": 1802400,
+      "name": "Time ADH Rim Brake V21 Small",
+      "price": 100,
+      "reference": 100,
+      "url": "https://bikecloset.com/product/time-adh-rim-brake-v21-small/",
+      "detectedAt": "2026-10-13T15:04:40.928Z",
       "status": "awaiting-research"
     }
   ],
