@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T15:04:40.928Z",
+  "generatedAt": "2026-10-14T12:54:29.580Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -461,6 +461,136 @@
       "reference": 100,
       "url": "https://bikecloset.com/product/time-adh-rim-brake-v21-small/",
       "detectedAt": "2026-10-13T15:04:40.928Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802588,
+      "productId": 1802587,
+      "name": "Assos MILLE GT Spring Fall Bib Tights S11",
+      "price": 230,
+      "reference": 230,
+      "url": "https://bikecloset.com/product/mille-gt-spring-fall-bib-tights-s11/?attribute_pa_color=black-series&attribute_pa_size=l",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802584,
+      "productId": 1802583,
+      "name": "Assos MILLE GT Men’s Spring Fall Jersey S11",
+      "price": 230,
+      "reference": 230,
+      "url": "https://bikecloset.com/product/mille-gt-mens-spring-fall-jersey-s11/?attribute_pa_color=almond-milk&attribute_pa_size=l",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802579,
+      "productId": 1802578,
+      "name": "Assos MILLE GT HASHOOGI Winter Bib Tights S11",
+      "price": 280,
+      "reference": 280,
+      "url": "https://bikecloset.com/product/mille-gt-hashoogi-winter-bib-tights-s11/?attribute_pa_color=black-series&attribute_pa_size=l",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802575,
+      "productId": 1802574,
+      "name": "Assos EQUIPE RS Men’s Spring Fall Bib Tights S11 EVO",
+      "price": 410,
+      "reference": 410,
+      "url": "https://bikecloset.com/product/equipe-rs-mens-spring-fall-bib-tights-s11-evo/?attribute_pa_color=black-series&attribute_pa_size=l",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802571,
+      "productId": 1802570,
+      "name": "Assos EQUIPE R Spring Fall Gilet S11",
+      "price": 200,
+      "reference": 200,
+      "url": "https://bikecloset.com/product/equipe-r-spring-fall-gilet-s11/?attribute_pa_color=black-series&attribute_pa_size=l",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802567,
+      "productId": 1802566,
+      "name": "Assos EQUIPE R Spring Fall Bib Shorts S11",
+      "price": 290,
+      "reference": 290,
+      "url": "https://bikecloset.com/product/equipe-r-spring-fall-bib-shorts-s11/?attribute_pa_color=black-series&attribute_pa_size=l",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802610,
+      "productId": 1802609,
+      "name": "Assos Spring Fall Knee Warmers P1",
+      "price": 65,
+      "reference": 65,
+      "url": "https://bikecloset.com/product/spring-fall-knee-warmers-p1/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802605,
+      "productId": 1802604,
+      "name": "Assos Spring Fall Gloves P1",
+      "price": 100,
+      "reference": 100,
+      "url": "https://bikecloset.com/product/spring-fall-gloves-p1/?attribute_pa_color=black-series&attribute_pa_size=l",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802602,
+      "productId": 1802601,
+      "name": "Assos Spring Fall Arm Warmers P1",
+      "price": 55,
+      "reference": 55,
+      "url": "https://bikecloset.com/product/spring-fall-arm-warmers-p1/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802598,
+      "productId": 1802597,
+      "name": "Assos MILLE GTS Spring Fall Jacket S11",
+      "price": 300,
+      "reference": 300,
+      "url": "https://bikecloset.com/product/mille-gts-spring-fall-jacket-s11/?attribute_pa_color=black-series&attribute_pa_size=l",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802593,
+      "productId": 1802592,
+      "name": "Assos MILLE GT Wind Vest S11",
+      "price": 140,
+      "reference": 140,
+      "url": "https://bikecloset.com/product/mille-gt-wind-vest-s11/?attribute_pa_color=black-series&attribute_pa_size=l",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802616,
+      "productId": 1802615,
+      "name": "Assos Winter Socks P1",
+      "price": 40,
+      "reference": 40,
+      "url": "https://bikecloset.com/product/winter-socks-p1/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802613,
+      "productId": 1802612,
+      "name": "Assos Spring Fall Leg Warmers P1",
+      "price": 75,
+      "reference": 75,
+      "url": "https://bikecloset.com/product/spring-fall-leg-warmers-p1/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-10-14T12:54:29.580Z",
       "status": "awaiting-research"
     }
   ],
