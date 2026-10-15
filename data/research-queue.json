@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T12:54:29.580Z",
+  "generatedAt": "2026-10-15T12:40:34.464Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -591,6 +591,16 @@
       "reference": 75,
       "url": "https://bikecloset.com/product/spring-fall-leg-warmers-p1/?attribute_pa_color=black-series&attribute_pa_size=i",
       "detectedAt": "2026-10-14T12:54:29.580Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802729,
+      "productId": 1802729,
+      "name": "Silca Nastro CUSCINO NEON YELLOW with BLACK",
+      "price": 29.99,
+      "reference": 50,
+      "url": "https://bikecloset.com/product/silca-nastro-cuscino-neon-yellow-with-black/",
+      "detectedAt": "2026-10-15T12:40:34.464Z",
       "status": "awaiting-research"
     }
   ],
