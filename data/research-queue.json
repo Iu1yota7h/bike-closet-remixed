@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T11:38:49.956Z",
+  "generatedAt": "2026-10-18T12:04:34.849Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -601,6 +601,246 @@
       "reference": 50,
       "url": "https://bikecloset.com/product/silca-nastro-cuscino-neon-yellow-with-black/",
       "detectedAt": "2026-10-15T12:40:34.464Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803406,
+      "productId": 1803398,
+      "name": "Fizik VENTO ARGO X1",
+      "price": 160.99,
+      "reference": 229.99,
+      "url": "https://bikecloset.com/product/fizik-vento-argo-x1/?attribute_pa_size=140mm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803404,
+      "productId": 1803397,
+      "name": "Fizik VENTO ARGO X3",
+      "price": 122.49,
+      "reference": 174.99,
+      "url": "https://bikecloset.com/product/fizik-vento-argo-x3/?attribute_pa_size=140mm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803402,
+      "productId": 1803396,
+      "name": "Fizik VENTO ARGO X5",
+      "price": 83.99,
+      "reference": 119.99,
+      "url": "https://bikecloset.com/product/fizik-vento-argo-x5/?attribute_pa_size=140mm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803400,
+      "productId": 1803395,
+      "name": "Fizik TERRA AIDON X3",
+      "price": 122.49,
+      "reference": 174.99,
+      "url": "https://bikecloset.com/product/fizik-terra-aidon-x3/?attribute_pa_size=145mm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803399,
+      "productId": 1803394,
+      "name": "Fizik TERRA AIDON X5",
+      "price": 83.99,
+      "reference": 119.99,
+      "url": "https://bikecloset.com/product/fizik-terra-aidon-x5/?attribute_pa_size=145mm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803325,
+      "productId": 1803324,
+      "name": "Silca Gravel Wool Sock",
+      "price": 30,
+      "reference": 30,
+      "url": "https://bikecloset.com/product/silca-gravel-wool-sock/?attribute_pa_color=black&attribute_pa_size=small-35-38",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803319,
+      "productId": 1803319,
+      "name": "Crankbrothers TOOL F10+ Multi-Tool",
+      "price": 24.99,
+      "reference": 42.99,
+      "url": "https://bikecloset.com/product/crankbrothers-tool-f10-multi-tool/",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803315,
+      "productId": 1803315,
+      "name": "Silca Super Secret 2.0 Chain Lube 100ml",
+      "price": 25,
+      "reference": 25,
+      "url": "https://bikecloset.com/product/silca-super-secret-2-0-chain-lube-100ml/",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803305,
+      "productId": 1803305,
+      "name": "Rapha Classic Bar Tape",
+      "price": 19.99,
+      "reference": 30,
+      "url": "https://bikecloset.com/product/rapha-classic-bar-tape/",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803302,
+      "productId": 1803301,
+      "name": "Rapha Men’s Thermal Base Layer",
+      "price": 49.99,
+      "reference": 110,
+      "url": "https://bikecloset.com/product/rapha-mens-thermal-base-layer/?attribute_pa_color=navy-purple&attribute_pa_size=xsm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803296,
+      "productId": 1803295,
+      "name": "Rapha Amani Men’s Pro Team Powerweave Bibs",
+      "price": 199.99,
+      "reference": 380,
+      "url": "https://bikecloset.com/product/rapha-amani-mens-pro-team-powerweave-bibs/?attribute_pa_color=multicolour&attribute_pa_size=sml",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803288,
+      "productId": 1803287,
+      "name": "Rapha AMANI Men’s Pro Team Aero Jersey – African TT",
+      "price": 179.99,
+      "reference": 285,
+      "url": "https://bikecloset.com/product/rapha-amani-mens-pro-team-aero-jersey-african-tt/?attribute_pa_color=multicolour&attribute_pa_size=sml",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803281,
+      "productId": 1803280,
+      "name": "Rapha AMANI Men’s Pro Team Aero Jersey – Kenya",
+      "price": 179.99,
+      "reference": 285,
+      "url": "https://bikecloset.com/product/rapha-amani-mens-pro-team-aero-jersey-kenya/?attribute_pa_color=multicolour&attribute_pa_size=sml",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803272,
+      "productId": 1803271,
+      "name": "Rapha Amani Pro Team Aero Jersey",
+      "price": 179.99,
+      "reference": 285,
+      "url": "https://bikecloset.com/product/rapha-amani-pro-team-aero-jersey/?attribute_pa_color=multicolour&attribute_pa_size=xsm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803264,
+      "productId": 1803263,
+      "name": "Rapha Amani Pro Team Training Jersey",
+      "price": 99.99,
+      "reference": 170,
+      "url": "https://bikecloset.com/product/rapha-amani-pro-team-training-jersey/?attribute_pa_color=multicolour&attribute_pa_size=med",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803255,
+      "productId": 1803254,
+      "name": "Rapha Men’s Core Long Sleeve Thermal Jersey",
+      "price": 79.99,
+      "reference": 115,
+      "url": "https://bikecloset.com/product/rapha-mens-core-long-sleeve-thermal-jersey/?attribute_pa_color=ultraviolet-white&attribute_pa_size=xsm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803239,
+      "productId": 1803238,
+      "name": "Rapha Men’s Brevet Element Jersey",
+      "price": 89.99,
+      "reference": 135,
+      "url": "https://bikecloset.com/product/rapha-mens-brevet-element-jersey/?attribute_pa_color=khaki-dark-green&attribute_pa_size=xsm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803229,
+      "productId": 1803228,
+      "name": "Rapha Men’s Pro Team Training Bib Shorts",
+      "price": 149.99,
+      "reference": 240,
+      "url": "https://bikecloset.com/product/rapha-mens-pro-team-training-bib-shorts/?attribute_pa_color=blackwhite&attribute_pa_size=xxl",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803216,
+      "productId": 1803215,
+      "name": "Rapha Men’s Pro Team LS Lightweight Jersey – Cosmic",
+      "price": 129.99,
+      "reference": 215,
+      "url": "https://bikecloset.com/product/rapha-mens-pro-team-ls-lightweight-jersey-cosmic/?attribute_pa_color=multicolour&attribute_pa_size=xsm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803197,
+      "productId": 1803196,
+      "name": "Rapha Men’s Pro Team Crit Jersey",
+      "price": 79.99,
+      "reference": 168,
+      "url": "https://bikecloset.com/product/rapha-mens-pro-team-crit-jersey/?attribute_pa_color=dark-navy-navy&attribute_pa_size=xsm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803187,
+      "productId": 1803186,
+      "name": "Rapha Men’s Pro Team Aero Jersey – Cosmic",
+      "price": 179.99,
+      "reference": 285,
+      "url": "https://bikecloset.com/product/rapha-mens-pro-team-aero-jersey-cosmic/?attribute_pa_color=multicolour&attribute_pa_size=xsm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803175,
+      "productId": 1803174,
+      "name": "Rapha Men’s Pro Team Long Sleeve Midweight Jersey",
+      "price": 149.99,
+      "reference": 260,
+      "url": "https://bikecloset.com/product/rapha-mens-pro-team-long-sleeve-midweight-jersey/?attribute_pa_color=aqua-white&attribute_pa_size=xsm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803163,
+      "productId": 1803162,
+      "name": "Rapha Men’s Pro Team Gilet – Cosmic",
+      "price": 79.99,
+      "reference": 185,
+      "url": "https://bikecloset.com/product/rapha-mens-pro-team-gilet-cosmic/?attribute_pa_color=multicolour&attribute_pa_size=xsm",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803142,
+      "productId": 1803141,
+      "name": "Rapha Men’s Pro Team Flaero Jersey",
+      "price": 199.99,
+      "reference": 320,
+      "url": "https://bikecloset.com/product/rapha-mens-pro-team-flaero-jersey/?attribute_pa_color=black-dark-grey&attribute_pa_size=xlg",
+      "detectedAt": "2026-10-18T12:04:34.849Z",
       "status": "awaiting-research"
     }
   ],
