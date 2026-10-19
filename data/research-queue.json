@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:04:34.849Z",
+  "generatedAt": "2026-10-19T14:41:54.831Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -841,6 +841,26 @@
       "reference": 320,
       "url": "https://bikecloset.com/product/rapha-mens-pro-team-flaero-jersey/?attribute_pa_color=black-dark-grey&attribute_pa_size=xlg",
       "detectedAt": "2026-10-18T12:04:34.849Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803473,
+      "productId": 1803472,
+      "name": "Look 785 HUEZ Disc Frameset",
+      "price": 1199,
+      "reference": 3000,
+      "url": "https://bikecloset.com/product/look-785-huez-disc-frameset/?attribute_pa_color=black-metallic-red-mat-glossy&attribute_pa_size=m",
+      "detectedAt": "2026-10-19T14:41:54.831Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803470,
+      "productId": 1803469,
+      "name": "Look 765 OPTIMUM+ Disc Frameset",
+      "price": 999,
+      "reference": 2000,
+      "url": "https://bikecloset.com/product/look-765-optimum-disc-frameset/?attribute_pa_color=black-glossy-mat&attribute_pa_size=xs",
+      "detectedAt": "2026-10-19T14:41:54.831Z",
       "status": "awaiting-research"
     }
   ],
