@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:45:06.274Z",
+  "generatedAt": "2026-10-21T12:57:31.403Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -861,6 +861,16 @@
       "reference": 2000,
       "url": "https://bikecloset.com/product/look-765-optimum-disc-frameset/?attribute_pa_color=black-glossy-mat&attribute_pa_size=xs",
       "detectedAt": "2026-10-19T14:41:54.831Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803707,
+      "productId": 1803707,
+      "name": "Garmin Edge 1060",
+      "price": 799.99,
+      "reference": 799.99,
+      "url": "https://bikecloset.com/product/garmin-edge-1060/",
+      "detectedAt": "2026-10-21T12:57:31.403Z",
       "status": "awaiting-research"
     }
   ],
