@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T13:13:46.948Z",
+  "generatedAt": "2026-10-28T14:02:38.213Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -871,6 +871,36 @@
       "reference": 799.99,
       "url": "https://bikecloset.com/product/garmin-edge-1060/",
       "detectedAt": "2026-10-21T12:57:31.403Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803918,
+      "productId": 1803917,
+      "name": "Assos EQUIPE RS Summer SS Jersey S12 Collective 13",
+      "price": 220,
+      "reference": 220,
+      "url": "https://bikecloset.com/product/assos-equipe-rs-summer-ss-jersey-s12-collective-13/?attribute_pa_color=grey&attribute_pa_size=xs",
+      "detectedAt": "2026-10-28T14:02:38.213Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803906,
+      "productId": 1803905,
+      "name": "Assos DYORA RS Women’s Summer SS Jersey S12 Collective 13",
+      "price": 220,
+      "reference": 220,
+      "url": "https://bikecloset.com/product/assos-dyora-rs-womens-summer-ss-jersey-s12-collective-13/?attribute_pa_color=grey&attribute_pa_size=xs",
+      "detectedAt": "2026-10-28T14:02:38.213Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1803889,
+      "productId": 1803888,
+      "name": "Assos TACTICA Summer LS Jersey T5 Collective 13",
+      "price": 160,
+      "reference": 160,
+      "url": "https://bikecloset.com/product/assos-tactica-summer-ls-jersey-t5-collective-13/?attribute_pa_color=impossible-green&attribute_pa_size=xs",
+      "detectedAt": "2026-10-28T14:02:38.213Z",
       "status": "awaiting-research"
     }
   ],
