@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T14:02:38.213Z",
+  "generatedAt": "2026-10-29T14:20:00.145Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -901,6 +901,16 @@
       "reference": 160,
       "url": "https://bikecloset.com/product/assos-tactica-summer-ls-jersey-t5-collective-13/?attribute_pa_color=impossible-green&attribute_pa_size=xs",
       "detectedAt": "2026-10-28T14:02:38.213Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1804679,
+      "productId": 1804678,
+      "name": "Look 785 HUEZ 2 Disc Ultegra Di2 R50D Complete Bike",
+      "price": 4499,
+      "reference": 7499,
+      "url": "https://bikecloset.com/product/look-785-huez-2-disc-ultegra-di2-r50d-complete-bike/?attribute_pa_color=proteam-black-satin-black-glossy&attribute_pa_size=xs",
+      "detectedAt": "2026-10-29T14:20:00.145Z",
       "status": "awaiting-research"
     }
   ],
