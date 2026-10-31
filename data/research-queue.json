@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T14:09:01.956Z",
+  "generatedAt": "2026-10-31T13:40:16.043Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -961,6 +961,16 @@
       "reference": 220,
       "url": "https://bikecloset.com/product/the-myth-within-rs-jersey/?attribute_pa_size=xl",
       "detectedAt": "2026-10-30T14:09:01.956Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1802091,
+      "productId": 1802090,
+      "name": "Time FRAME FLUIDITY TRANSLINK DISC V15 WHITE SIZE L (Max 25mm)",
+      "price": 999,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-frame-fluidity-translink-disc-v15-white-size-l-max-25mm/?attribute_pa_color=v15-gloss-white&attribute_pa_size=xs",
+      "detectedAt": "2026-10-31T13:40:16.043Z",
       "status": "awaiting-research"
     }
   ],
