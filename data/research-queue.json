@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T13:40:16.043Z",
+  "generatedAt": "2026-11-01T14:17:10.054Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -971,6 +971,16 @@
       "reference": 4000,
       "url": "https://bikecloset.com/product/time-frame-fluidity-translink-disc-v15-white-size-l-max-25mm/?attribute_pa_color=v15-gloss-white&attribute_pa_size=xs",
       "detectedAt": "2026-10-31T13:40:16.043Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1805023,
+      "productId": 1805022,
+      "name": "Rapha Men’s Pro Team Shadow Winter Jacket",
+      "price": 199,
+      "reference": 435,
+      "url": "https://bikecloset.com/product/rapha-mens-pro-team-shadow-winter-jacket/?attribute_pa_color=blue-silver-reflective&attribute_pa_size=xsm",
+      "detectedAt": "2026-11-01T14:17:10.054Z",
       "status": "awaiting-research"
     }
   ],
