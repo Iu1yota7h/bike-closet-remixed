@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T16:15:58.078Z",
+  "generatedAt": "2026-11-04T16:20:29.611Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -991,6 +991,86 @@
       "reference": 300,
       "url": "https://bikecloset.com/product/time-adhx-45-udh-v31-xs-upgrade-charge/",
       "detectedAt": "2026-11-02T18:23:13.185Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1805515,
+      "productId": 1805515,
+      "name": "Shimano XTR RT-MT900 Center Lock Rotor 160mm W/ Lockring (OEM)",
+      "price": 110,
+      "reference": 110,
+      "url": "https://bikecloset.com/product/shimano-xtr-rt-mt900-center-lock-rotor-160mm-w-lockring-oem/",
+      "detectedAt": "2026-11-04T16:20:29.611Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1805513,
+      "productId": 1805513,
+      "name": "WTB Volt Medium Steel Saddle (OEM)",
+      "price": 64.95,
+      "reference": 64.95,
+      "url": "https://bikecloset.com/product/wtb-volt-medium-steel-saddle-oem/",
+      "detectedAt": "2026-11-04T16:20:29.611Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1805509,
+      "productId": 1805509,
+      "name": "Shimano XTR RT-CL900 Center Lock Rotor 180mm W/ Lockring (OEM)",
+      "price": 100,
+      "reference": 100,
+      "url": "https://bikecloset.com/product/shimano-xtr-rt-cl900-center-lock-rotor-180mm-w-lockring-oem/",
+      "detectedAt": "2026-11-04T16:20:29.611Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1805507,
+      "productId": 1805507,
+      "name": "Shimano XT RT-CL800 Center Lock Rotor 160mm W/ Lockring (OEM)",
+      "price": 70,
+      "reference": 70,
+      "url": "https://bikecloset.com/product/shimano-xt-rt-cl800-center-lock-rotor-160mm-w-lockring-oem/",
+      "detectedAt": "2026-11-04T16:20:29.611Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1805505,
+      "productId": 1805505,
+      "name": "Shimano XT RT-CL800 Center Lock Rotor 180mm W/ Lockring (OEM)",
+      "price": 70,
+      "reference": 70,
+      "url": "https://bikecloset.com/product/shimano-xt-rt-cl800-center-lock-rotor-180mm-w-lockring-oem/",
+      "detectedAt": "2026-11-04T16:20:29.611Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1805503,
+      "productId": 1805503,
+      "name": "Shimano XT RT-CL800 Center Lock Rotor 203mm W/ Lockring (OEM)",
+      "price": 80,
+      "reference": 80,
+      "url": "https://bikecloset.com/product/shimano-xt-rt-cl800-center-lock-rotor-203mm-w-lockring-oem/",
+      "detectedAt": "2026-11-04T16:20:29.611Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1805501,
+      "productId": 1805501,
+      "name": "EVO CPS-1 Chain Power Scrubber",
+      "price": 12.99,
+      "reference": 29.99,
+      "url": "https://bikecloset.com/product/evo-cps-1-chain-power-scrubber/",
+      "detectedAt": "2026-11-04T16:20:29.611Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1805491,
+      "productId": 1805491,
+      "name": "SRAM XG-1275 Eagle C1 Cassette Black Speed 12 10-52T XD",
+      "price": 179.99,
+      "reference": 220,
+      "url": "https://bikecloset.com/product/sram-xg-1275-eagle-c1-cassette-black-speed-12-10-52t-xd/",
+      "detectedAt": "2026-11-04T16:20:29.611Z",
       "status": "awaiting-research"
     }
   ],
