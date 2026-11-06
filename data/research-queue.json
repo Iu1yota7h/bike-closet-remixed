@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T16:29:27.584Z",
+  "generatedAt": "2026-11-06T15:56:41.277Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -1071,6 +1071,36 @@
       "reference": 220,
       "url": "https://bikecloset.com/product/sram-xg-1275-eagle-c1-cassette-black-speed-12-10-52t-xd/",
       "detectedAt": "2026-11-04T16:20:29.611Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1804893,
+      "productId": 1804891,
+      "name": "Fidlock HERMETIC Dry Bag Medi (110 x 180 mm)",
+      "price": 9.99,
+      "reference": 34.99,
+      "url": "https://bikecloset.com/product/fidlock-hermetic-dry-bag-medi/?attribute_pa_color=transparent-petrol",
+      "detectedAt": "2026-11-06T15:56:41.277Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1804910,
+      "productId": 1804909,
+      "name": "Fidlock HERMETIC Dry Bag Mega (224 x 277 mm)",
+      "price": 19.99,
+      "reference": 49.99,
+      "url": "https://bikecloset.com/product/fidlock-hermetic-dry-bag-mega/?attribute_pa_color=fabric-black",
+      "detectedAt": "2026-11-06T15:56:41.277Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1804900,
+      "productId": 1804899,
+      "name": "Fidlock HERMETIC Dry Bag Maxi (150 x 192 mm)",
+      "price": 14.99,
+      "reference": 39.99,
+      "url": "https://bikecloset.com/product/fidlock-hermetic-dry-bag-maxi/?attribute_pa_color=transparent-blue",
+      "detectedAt": "2026-11-06T15:56:41.277Z",
       "status": "awaiting-research"
     }
   ],
