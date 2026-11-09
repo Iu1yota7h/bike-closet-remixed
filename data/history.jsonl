@@ -2074,3 +2074,10 @@
 {"at":"2026-11-08T15:12:30.710Z","id":1658355,"previousPrice":315,"price":252,"previousStock":true,"stock":true,"event":"price-drop"}
 {"at":"2026-11-08T15:12:30.710Z","id":1658354,"previousPrice":315,"price":252,"previousStock":true,"stock":true,"event":"price-drop"}
 {"at":"2026-11-08T15:12:30.710Z","id":1658353,"previousPrice":315,"price":252,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-11-09T18:49:49.775Z","id":1805491,"previousPrice":179.99,"price":159.99,"previousStock":true,"stock":true,"event":"price-drop"}
+{"at":"2026-11-09T18:49:49.775Z","id":1803302,"previousPrice":49.99,"price":49.99,"previousStock":false,"stock":true,"event":"restock"}
+{"at":"2026-11-09T18:49:49.775Z","id":1803258,"previousPrice":79.99,"price":79.99,"previousStock":false,"stock":true,"event":"restock"}
+{"at":"2026-11-09T18:49:49.775Z","id":1713298,"previousPrice":29.99,"price":29.99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-11-09T18:49:49.775Z","id":1662078,"previousPrice":99,"price":99,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-11-09T18:49:49.775Z","id":1483452,"previousPrice":222,"price":222,"previousStock":true,"stock":false,"event":"baseline"}
+{"at":"2026-11-09T18:49:49.775Z","id":1442044,"previousPrice":219,"price":219,"previousStock":true,"stock":false,"event":"baseline"}
