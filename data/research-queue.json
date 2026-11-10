@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T18:49:49.775Z",
+  "generatedAt": "2026-11-10T16:26:20.374Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -1101,6 +1101,46 @@
       "reference": 39.99,
       "url": "https://bikecloset.com/product/fidlock-hermetic-dry-bag-maxi/?attribute_pa_color=transparent-blue",
       "detectedAt": "2026-11-06T15:56:41.277Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806235,
+      "productId": 1806234,
+      "name": "Assos EQUIPE RS LS Jersey S11 EF (WE RIDE IN PEACE)",
+      "price": 203,
+      "reference": 290,
+      "url": "https://bikecloset.com/product/assos-equipe-rs-ls-jersey-s11-ef-we-ride-in-peace/?attribute_pa_color=pink&attribute_pa_size=s",
+      "detectedAt": "2026-11-10T16:26:20.374Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806228,
+      "productId": 1806227,
+      "name": "Assos MILLE GT LS Jersey S11 EVO",
+      "price": 126,
+      "reference": 180,
+      "url": "https://bikecloset.com/product/assos-mille-gt-ls-jersey-s11-evo/?attribute_pa_color=golden-yellow&attribute_pa_size=s",
+      "detectedAt": "2026-11-10T16:26:20.374Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806222,
+      "productId": 1806221,
+      "name": "Assos MILLE GT Wind Jacket S11",
+      "price": 129.5,
+      "reference": 185,
+      "url": "https://bikecloset.com/product/assos-mille-gt-wind-jacket-s11/?attribute_pa_color=golden-yellow&attribute_pa_size=m",
+      "detectedAt": "2026-11-10T16:26:20.374Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806217,
+      "productId": 1806216,
+      "name": "Assos Endurance Gloves S11 Black Series",
+      "price": 45.5,
+      "reference": 65,
+      "url": "https://bikecloset.com/product/assos-endurance-gloves-s11-black-series/?attribute_pa_size=xs",
+      "detectedAt": "2026-11-10T16:26:20.374Z",
       "status": "awaiting-research"
     }
   ],
