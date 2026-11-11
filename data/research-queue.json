@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:26:20.374Z",
+  "generatedAt": "2026-11-11T16:12:03.617Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -1141,6 +1141,886 @@
       "reference": 65,
       "url": "https://bikecloset.com/product/assos-endurance-gloves-s11-black-series/?attribute_pa_size=xs",
       "detectedAt": "2026-11-10T16:26:20.374Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806490,
+      "productId": 1806489,
+      "name": "Assos TACTICA Rain Jacket T5 Foundation Green",
+      "price": 149.99,
+      "reference": 410,
+      "url": "https://bikecloset.com/product/assos-tactica-rain-jacket-t5-foundation-green/?attribute_pa_color=foundation-green&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806497,
+      "productId": 1806496,
+      "name": "Assos TRAIL Steinadler Jacket T3 Black Series",
+      "price": 99.99,
+      "reference": 260,
+      "url": "https://bikecloset.com/product/assos-trail-steinadler-jacket-t3-black-series/?attribute_pa_color=black-series&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806494,
+      "productId": 1806493,
+      "name": "Assos TRAIL Women’s STEPPENWOLF Spring Fall Jacket T3 Torpedo Grey",
+      "price": 99.99,
+      "reference": 245,
+      "url": "https://bikecloset.com/product/assos-trail-womens-steppenwolf-spring-fall-jacket-t3-torpedo-grey/?attribute_pa_color=torpedo-grey&attribute_pa_size=l",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806502,
+      "productId": 1806501,
+      "name": "Assos TACTICA LS Tech T-Shirt T5",
+      "price": 49.99,
+      "reference": 105,
+      "url": "https://bikecloset.com/product/assos-tactica-ls-tech-t-shirt-t5/?attribute_pa_color=stone-blue&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806507,
+      "productId": 1806506,
+      "name": "Assos TACTICA Women’s LS Tech T-Shirt T5",
+      "price": 49.99,
+      "reference": 105,
+      "url": "https://bikecloset.com/product/assos-tactica-womens-ls-tech-t-shirt-t5/?attribute_pa_color=foundation-green&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806528,
+      "productId": 1806527,
+      "name": "Assos TACTICA Women’s Tech T-Shirt T5",
+      "price": 39.99,
+      "reference": 80,
+      "url": "https://bikecloset.com/product/assos-tactica-womens-tech-t-shirt-t5/?attribute_pa_color=foundation-green&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806517,
+      "productId": 1806516,
+      "name": "Assos TACTICA Tech T-Shirt T5",
+      "price": 39.99,
+      "reference": 80,
+      "url": "https://bikecloset.com/product/assos-tactica-tech-t-shirt-t5/?attribute_pa_color=foundation-green&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806536,
+      "productId": 1806535,
+      "name": "Assos TRAIL Jersey Pyxel Scorch Orange",
+      "price": 49.99,
+      "reference": 100,
+      "url": "https://bikecloset.com/product/assos-trail-jersey-pyxel-scorch-orange/?attribute_pa_color=scorch-orange&attribute_pa_size=l",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806543,
+      "productId": 1806542,
+      "name": "Assos TACTICA Women’s Cargo Pants T3 Black Series",
+      "price": 99.99,
+      "reference": 270,
+      "url": "https://bikecloset.com/product/assos-tactica-womens-cargo-pants-t3-black-series/?attribute_pa_color=black-series&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806539,
+      "productId": 1806538,
+      "name": "Assos TRAIL Women’s Cargo Half Shorts Torpedo Grey",
+      "price": 59.99,
+      "reference": 140,
+      "url": "https://bikecloset.com/product/assos-trail-womens-cargo-half-shorts-torpedo-grey/?attribute_pa_color=torpedo-grey&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806551,
+      "productId": 1806550,
+      "name": "Assos XC Bib Shorts Torpedo Grey",
+      "price": 99.99,
+      "reference": 240,
+      "url": "https://bikecloset.com/product/assos-xc-bib-shorts-torpedo-grey/?attribute_pa_color=torpedo-grey&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806557,
+      "productId": 1806556,
+      "name": "Assos TRAIL TACTICA Winter Liner Bib Tights HP T3 Black Series",
+      "price": 99.99,
+      "reference": 325,
+      "url": "https://bikecloset.com/product/assos-trail-tactica-winter-liner-bib-tights-hp-t3-black-series/?attribute_pa_color=black-series&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806554,
+      "productId": 1806553,
+      "name": "Assos TRAIL Women’s Winter Cargo Pants blackSeries",
+      "price": 79.99,
+      "reference": 220,
+      "url": "https://bikecloset.com/product/assos-trail-womens-winter-cargo-pants-blackseries/?attribute_pa_color=black-series&attribute_pa_size=xl",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806562,
+      "productId": 1806561,
+      "name": "Assos Ultraz Winter Gloves Black Series",
+      "price": 59.99,
+      "reference": 135,
+      "url": "https://bikecloset.com/product/assos-ultraz-winter-gloves-black-series/?attribute_pa_color=black-series&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806567,
+      "productId": 1806566,
+      "name": "Assos Spring Fall Toe Cover EVO Black Series",
+      "price": 29.99,
+      "reference": 60,
+      "url": "https://bikecloset.com/product/assos-spring-fall-toe-cover-evo-black-series/?attribute_pa_color=black-series&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806582,
+      "productId": 1806581,
+      "name": "Assos RS Socks SUPERLEGER low",
+      "price": 9.99,
+      "reference": 20,
+      "url": "https://bikecloset.com/product/assos-rs-socks-superleger-low/?attribute_pa_color=black-series&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806572,
+      "productId": 1806571,
+      "name": "Assos Racing Socks S11",
+      "price": 14.99,
+      "reference": 22,
+      "url": "https://bikecloset.com/product/assos-racing-socks-s11/?attribute_pa_color=flame-orange&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806591,
+      "productId": 1806590,
+      "name": "Assos RS Long Fingered Gloves TARGA Black Series",
+      "price": 39.99,
+      "reference": 95,
+      "url": "https://bikecloset.com/product/assos-rs-long-fingered-gloves-targa-black-series/?attribute_pa_color=black-series&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806588,
+      "productId": 1806586,
+      "name": "Assos R Socks S9 – twin pack Black Series",
+      "price": 14.99,
+      "reference": 40,
+      "url": "https://bikecloset.com/product/assos-r-socks-s9-twin-pack-black-series/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806594,
+      "productId": 1806593,
+      "name": "Assos Neck Foil EVO Black Series",
+      "price": 19.99,
+      "reference": 35,
+      "url": "https://bikecloset.com/product/assos-neck-foil-evo-black-series/?attribute_pa_color=black-series&attribute_pa_size=os",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806600,
+      "productId": 1806599,
+      "name": "Assos Headband P1 Grey Series",
+      "price": 13.99,
+      "reference": 28,
+      "url": "https://bikecloset.com/product/assos-headband-p1-grey-series/?attribute_pa_color=grey-series&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806597,
+      "productId": 1806596,
+      "name": "Assos GTO Cap Black Series",
+      "price": 19.99,
+      "reference": 50,
+      "url": "https://bikecloset.com/product/assos-gto-cap-black-series/?attribute_pa_color=black-series&attribute_pa_size=os",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806624,
+      "productId": 1806623,
+      "name": "Assos Monogram Socks EVO Black",
+      "price": 9.99,
+      "reference": 25,
+      "url": "https://bikecloset.com/product/assos-monogram-socks-evo-black/?attribute_pa_color=black&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806610,
+      "productId": 1806609,
+      "name": "Assos TACTICA Socks T5",
+      "price": 14.99,
+      "reference": 25,
+      "url": "https://bikecloset.com/product/assos-tactica-socks-t5/?attribute_pa_color=stone-blue&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806630,
+      "productId": 1806629,
+      "name": "Assos GTO Socks",
+      "price": 29.99,
+      "reference": 55,
+      "url": "https://bikecloset.com/product/assos-gto-socks/?attribute_pa_color=black-series&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806656,
+      "productId": 1806655,
+      "name": "Assos GTO Ultraz Winter Thermo Rain Gloves Black Series",
+      "price": 69.99,
+      "reference": 220,
+      "url": "https://bikecloset.com/product/assos-gto-ultraz-winter-thermo-rain-gloves-black-series/?attribute_pa_color=black-series&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806643,
+      "productId": 1806642,
+      "name": "Assos Endurance Socks S11",
+      "price": 14.99,
+      "reference": 21,
+      "url": "https://bikecloset.com/product/assos-endurance-socks-s11/?attribute_pa_color=foundation-green&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806660,
+      "productId": 1806659,
+      "name": "Assos Spring Fall Booties Black Series",
+      "price": 29.99,
+      "reference": 80,
+      "url": "https://bikecloset.com/product/assos-spring-fall-booties-black-series/?attribute_pa_color=black-series&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806668,
+      "productId": 1806667,
+      "name": "Assos Women’s Summer NS Skin Layer P1 Grey Series",
+      "price": 39.99,
+      "reference": 85,
+      "url": "https://bikecloset.com/product/assos-womens-summer-ns-skin-layer-p1-grey-series/?attribute_pa_color=grey-series&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806664,
+      "productId": 1806663,
+      "name": "Assos Spring Fall Unisea Socks",
+      "price": 14.99,
+      "reference": 30,
+      "url": "https://bikecloset.com/product/assos-spring-fall-unisea-socks/?attribute_pa_color=alchemy-purple&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806673,
+      "productId": 1806672,
+      "name": "Assos Women’s Summer SS Skin Layer P1 Grey Series",
+      "price": 39.99,
+      "reference": 95,
+      "url": "https://bikecloset.com/product/assos-womens-summer-ss-skin-layer-p1-grey-series/?attribute_pa_color=grey-series&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806678,
+      "productId": 1806677,
+      "name": "Assos RSR Speed Socks blackSeries",
+      "price": 19.99,
+      "reference": 55,
+      "url": "https://bikecloset.com/product/assos-rsr-speed-socks-blackseries/?attribute_pa_color=black-series&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806681,
+      "productId": 1806680,
+      "name": "Assos SONNENSTRUMPF Women’s Spring Fall Socks Fluo Pink",
+      "price": 14.99,
+      "reference": 28,
+      "url": "https://bikecloset.com/product/assos-sonnenstrumpf-womens-spring-fall-socks-fluo-pink/?attribute_pa_color=fluo-pink&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806690,
+      "productId": 1806689,
+      "name": "Assos Ultraz Winter Socks Black Series",
+      "price": 14.99,
+      "reference": 27,
+      "url": "https://bikecloset.com/product/assos-ultraz-winter-socks-black-series/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806685,
+      "productId": 1806684,
+      "name": "Assos Women’s Ultraz Winter LS Skin Layer Calypso Blue",
+      "price": 59.99,
+      "reference": 145,
+      "url": "https://bikecloset.com/product/assos-womens-ultraz-winter-ls-skin-layer-calypso-blue/?attribute_pa_color=calypso-blu&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806693,
+      "productId": 1806692,
+      "name": "Assos ASSOSOIRES Knee Foil blackSeries",
+      "price": 19.99,
+      "reference": 40,
+      "url": "https://bikecloset.com/product/assos-assosoires-knee-foil-blackseries/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806696,
+      "productId": 1806695,
+      "name": "Assos ASSOSOIRES Arm Foil blackSeries",
+      "price": 19.99,
+      "reference": 35,
+      "url": "https://bikecloset.com/product/assos-assosoires-arm-foil-blackseries/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806699,
+      "productId": 1806698,
+      "name": "Assos ASSOSOIRES Leg Foil blackSeries",
+      "price": 19.99,
+      "reference": 50,
+      "url": "https://bikecloset.com/product/assos-assosoires-leg-foil-blackseries/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806702,
+      "productId": 1806701,
+      "name": "Assos SEEME Vest P1 Optic Yellow",
+      "price": 49.99,
+      "reference": 105,
+      "url": "https://bikecloset.com/product/assos-seeme-vest-p1-optic-yellow/?attribute_pa_color=optic-yellow&attribute_pa_size=0",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806708,
+      "productId": 1806707,
+      "name": "Assos UMA GT Ultraz Winter Jacket EVO",
+      "price": 129.99,
+      "reference": 369,
+      "url": "https://bikecloset.com/product/assos-uma-gt-ultraz-winter-jacket-evo/?attribute_pa_color=fluo-yellow&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806713,
+      "productId": 1806712,
+      "name": "Assos UMA GT Spring/Fall Jacket blackSeries",
+      "price": 99.99,
+      "reference": 240,
+      "url": "https://bikecloset.com/product/assos-uma-gt-spring-fall-jacket-blackseries/?attribute_pa_color=black-series&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806717,
+      "productId": 1806716,
+      "name": "Assos UMA GT Winter Jacket EVO blackSeries",
+      "price": 99.99,
+      "reference": 315,
+      "url": "https://bikecloset.com/product/assos-uma-gt-winter-jacket-evo-blackseries/?attribute_pa_color=black-series&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806722,
+      "productId": 1806721,
+      "name": "Assos UMA GT Clima Jacket EVO blackSeries",
+      "price": 79.99,
+      "reference": 210,
+      "url": "https://bikecloset.com/product/assos-uma-gt-clima-jacket-evo-blackseries/?attribute_pa_color=black-series&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806737,
+      "productId": 1806736,
+      "name": "Assos MILLE GT Jersey C2 Gruppetto Cyber Blue",
+      "price": 69.99,
+      "reference": 140,
+      "url": "https://bikecloset.com/product/assos-mille-gt-jersey-c2-gruppetto-cyber-blue/?attribute_pa_color=cyber-blue&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806727,
+      "productId": 1806726,
+      "name": "Assos MILLE GTS Jersey C2",
+      "price": 99.99,
+      "reference": 200,
+      "url": "https://bikecloset.com/product/assos-mille-gts-jersey-c2-2/?attribute_pa_color=kosimo-granit&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806743,
+      "productId": 1806742,
+      "name": "Assos MILLE GT Jersey C2 Drop Head",
+      "price": 69.99,
+      "reference": 140,
+      "url": "https://bikecloset.com/product/assos-mille-gt-jersey-c2-drop-head/?attribute_pa_color=droid-orange&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806775,
+      "productId": 1806774,
+      "name": "Assos MILLE GT Jersey C2 Adamant Blue",
+      "price": 59.99,
+      "reference": 120,
+      "url": "https://bikecloset.com/product/assos-mille-gt-jersey-c2-adamant-blue/?attribute_pa_color=adamant-blue&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806763,
+      "productId": 1806762,
+      "name": "Assos FASTLANE Rock SS Jersey",
+      "price": 69.99,
+      "reference": 169,
+      "url": "https://bikecloset.com/product/assos-fastlane-rock-ss-jersey/?attribute_pa_color=booster&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806778,
+      "productId": 1806777,
+      "name": "Assos CG GT SS Jersey C2 EVO Swiss Cycling",
+      "price": 59.99,
+      "reference": 165,
+      "url": "https://bikecloset.com/product/assos-cg-gt-ss-jersey-c2-evo-swiss-cycling/?attribute_pa_color=white-series&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806786,
+      "productId": 1806784,
+      "name": "Assos UMA GT LS Jersey S11",
+      "price": 99.99,
+      "reference": 175,
+      "url": "https://bikecloset.com/product/assos-uma-gt-ls-jersey-s11/?attribute_pa_color=foundation-green&attribute_pa_size=xl",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806813,
+      "productId": 1806812,
+      "name": "Assos UMA GTV Jersey C2",
+      "price": 99.99,
+      "reference": 220,
+      "url": "https://bikecloset.com/product/assos-uma-gtv-jersey-c2/?attribute_pa_color=dawn-rose&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806848,
+      "productId": 1806847,
+      "name": "Assos UMA GT Jersey C2 Drop Head",
+      "price": 59.99,
+      "reference": 140,
+      "url": "https://bikecloset.com/product/assos-uma-gt-jersey-c2-drop-head/?attribute_pa_color=venusviolet&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806838,
+      "productId": 1806837,
+      "name": "Assos UMA GT Jersey S11 Space Trip",
+      "price": 69.99,
+      "reference": 165,
+      "url": "https://bikecloset.com/product/assos-uma-gt-jersey-s11-space-trip/?attribute_pa_color=dune-sand&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806858,
+      "productId": 1806857,
+      "name": "Assos UMA GT Jersey C2 Shifter",
+      "price": 59.99,
+      "reference": 130,
+      "url": "https://bikecloset.com/product/assos-uma-gt-jersey-c2-shifter/?attribute_pa_color=foxyriser-pink&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806865,
+      "productId": 1806864,
+      "name": "Assos LAALALAI SS Jersey EVO",
+      "price": 59.99,
+      "reference": 198,
+      "url": "https://bikecloset.com/product/assos-laalalai-ss-jersey-evo/?attribute_pa_color=black-series&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806875,
+      "productId": 1806874,
+      "name": "Assos Wild SS Jersey",
+      "price": 59.99,
+      "reference": 120,
+      "url": "https://bikecloset.com/product/assos-wild-ss-jersey/?attribute_pa_color=candy&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806889,
+      "productId": 1806888,
+      "name": "Assos UMA GT SS Jersey EVO",
+      "price": 59.99,
+      "reference": 129,
+      "url": "https://bikecloset.com/product/assos-uma-gt-ss-jersey-evo/?attribute_pa_color=black-series&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806901,
+      "productId": 1806900,
+      "name": "Assos FASTLANE Women’s Rock SS Jersey",
+      "price": 59.99,
+      "reference": 169,
+      "url": "https://bikecloset.com/product/assos-fastlane-womens-rock-ss-jersey/?attribute_pa_color=booster&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806920,
+      "productId": 1806919,
+      "name": "Assos UMA GT Jersey C2 Voganski",
+      "price": 59.99,
+      "reference": 130,
+      "url": "https://bikecloset.com/product/assos-uma-gt-jersey-c2-voganski/?attribute_pa_color=hydro-blue&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806914,
+      "productId": 1806913,
+      "name": "Assos UMA GT Jersey C2 Venus Violet",
+      "price": 59.99,
+      "reference": 120,
+      "url": "https://bikecloset.com/product/assos-uma-gt-jersey-c2-venus-violet/?attribute_pa_color=venusviolet&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806929,
+      "productId": 1806928,
+      "name": "Assos H.LAALALAI Shorts S7 Lady Block Black",
+      "price": 69.99,
+      "reference": 169,
+      "url": "https://bikecloset.com/product/assos-h-laalalai-shorts-s7-lady-block-black/?attribute_pa_color=block-black&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806935,
+      "productId": 1806934,
+      "name": "Assos UMA GT Summer Half Knickers C2 blackSeries",
+      "price": 79.99,
+      "reference": 185,
+      "url": "https://bikecloset.com/product/assos-uma-gt-summer-half-knickers-c2-blackseries/?attribute_pa_color=black-series&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806939,
+      "productId": 1806938,
+      "name": "Assos MILLE GT Thermo Rain Shell Pants blackSeries",
+      "price": 99.99,
+      "reference": 290,
+      "url": "https://bikecloset.com/product/assos-mille-gt-thermo-rain-shell-pants-blackseries/?attribute_pa_color=black-series&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806949,
+      "productId": 1806948,
+      "name": "Assos UMA GT Ultraz Winter Bib Tights blackSeries",
+      "price": 129.99,
+      "reference": 345,
+      "url": "https://bikecloset.com/product/assos-uma-gt-ultraz-winter-bib-tights-blackseries/?attribute_pa_color=black-series&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806944,
+      "productId": 1806943,
+      "name": "Assos UMA GT Winter Bib Tights blackSeries",
+      "price": 99.99,
+      "reference": 219,
+      "url": "https://bikecloset.com/product/assos-uma-gt-winter-bib-tights-blackseries/?attribute_pa_color=black-series&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806953,
+      "productId": 1806952,
+      "name": "Assos DYORA RS Rain Vest S9 venusViolet",
+      "price": 99.99,
+      "reference": 280,
+      "url": "https://bikecloset.com/product/assos-dyora-rs-rain-vest-s9-venusviolet/?attribute_pa_color=venusviolet&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806956,
+      "productId": 1806955,
+      "name": "Assos DYORA RS Spring Fall Jacket Black Series",
+      "price": 119.99,
+      "reference": 365,
+      "url": "https://bikecloset.com/product/assos-dyora-rs-spring-fall-jacket-black-series/?attribute_pa_color=black-series&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806962,
+      "productId": 1806961,
+      "name": "Assos EQUIPE RS Rain Jacket TARGA Propeller Orange",
+      "price": 119.99,
+      "reference": 415,
+      "url": "https://bikecloset.com/product/assos-equipe-rs-rain-jacket-targa-propeller-orange/?attribute_pa_color=propeller-orange&attribute_pa_size=l",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806959,
+      "productId": 1806958,
+      "name": "Assos DYORA RS Spring Fall Gilet Black Series",
+      "price": 99.99,
+      "reference": 280,
+      "url": "https://bikecloset.com/product/assos-dyora-rs-spring-fall-gilet-black-series/?attribute_pa_color=black-series&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806967,
+      "productId": 1806966,
+      "name": "Assos DYORA R Jersey S11 Surface Violet Trip",
+      "price": 99.99,
+      "reference": 185,
+      "url": "https://bikecloset.com/product/assos-dyora-r-jersey-s11-surface-violet-trip/?attribute_pa_color=violet-trip&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806976,
+      "productId": 1806975,
+      "name": "Assos DYORA RSV Jersey S11",
+      "price": 99.99,
+      "reference": 185,
+      "url": "https://bikecloset.com/product/assos-dyora-rsv-jersey-s11/?attribute_pa_color=halo-green&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806987,
+      "productId": 1806986,
+      "name": "Assos DYORA R Jersey S11",
+      "price": 99.99,
+      "reference": 175,
+      "url": "https://bikecloset.com/product/assos-dyora-r-jersey-s11/?attribute_pa_color=flame-orange&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807005,
+      "productId": 1807004,
+      "name": "Assos DYORA RS Jersey S9 TARGA Moon Sand",
+      "price": 79.99,
+      "reference": 200,
+      "url": "https://bikecloset.com/product/assos-dyora-rs-jersey-s9-targa-moon-sand/?attribute_pa_color=moon-sand&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1806999,
+      "productId": 1806998,
+      "name": "Assos CG RS Women’s Summer SS Jersey S12 ASOR Green",
+      "price": 79.99,
+      "reference": 220,
+      "url": "https://bikecloset.com/product/assos-cg-rs-womens-summer-ss-jersey-s12-asor-green/?attribute_pa_color=green&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807009,
+      "productId": 1807008,
+      "name": "Assos CG RS Summer SS Jersey S12 ASOR Green",
+      "price": 79.99,
+      "reference": 220,
+      "url": "https://bikecloset.com/product/assos-cg-rs-summer-ss-jersey-s12-asor-green/?attribute_pa_color=green&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807027,
+      "productId": 1807026,
+      "name": "Assos EQUIPE RS Aero SS Jersey",
+      "price": 59.99,
+      "reference": 189,
+      "url": "https://bikecloset.com/product/assos-equipe-rs-aero-ss-jersey/?attribute_pa_color=profblack&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807012,
+      "productId": 1807011,
+      "name": "Assos EQUIPE R Spring Fall Jersey S11 Optic Yellow",
+      "price": 99.99,
+      "reference": 210,
+      "url": "https://bikecloset.com/product/assos-equipe-r-spring-fall-jersey-s11-optic-yellow/?attribute_pa_color=optic-yellow&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807037,
+      "productId": 1807036,
+      "name": "Assos EQUIPE RS Jersey Prof Edition",
+      "price": 79.99,
+      "reference": 199,
+      "url": "https://bikecloset.com/product/assos-equipe-rs-jersey-prof-edition/?attribute_pa_color=gerva-grey&attribute_pa_size=l",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807048,
+      "productId": 1807047,
+      "name": "Assos UMA GT Jersey S11 Monogram BOSS x ASSOS",
+      "price": 69.99,
+      "reference": 180,
+      "url": "https://bikecloset.com/product/assos-uma-gt-jersey-s11-monogram-boss-x-assos/?attribute_pa_color=camel&attribute_pa_size=xs",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807044,
+      "productId": 1807043,
+      "name": "Assos Spring Fall Cap BOSS x ASSOS Black Series",
+      "price": 24.99,
+      "reference": 55,
+      "url": "https://bikecloset.com/product/assos-spring-fall-cap-boss-x-assos-black-series/?attribute_pa_color=black-series&attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1714907,
+      "productId": 1714905,
+      "name": "Assos rS.sturmPrinz Evo Rain Jacket",
+      "price": 49.99,
+      "reference": 459,
+      "url": "https://bikecloset.com/product/assos-rs-sturmprinz-evo1/?attribute_pa_color=evo-profblack&attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1469836,
+      "productId": 1469662,
+      "name": "Assos MILLE GT Shifter SS Jersey c2",
+      "price": 59.99,
+      "reference": 130,
+      "url": "https://bikecloset.com/product/assos-mille-gt-shifter-ss-jersey-c2/?attribute_pa_color=hydro-blue&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1721049,
+      "productId": 1721047,
+      "name": "Assos CG GT Summer SS Jersey BCL Special Edition",
+      "price": 49.99,
+      "reference": 175,
+      "url": "https://bikecloset.com/product/assos-cg-gt-summer-ss-jersey-bcl-special-edition/?attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1753738,
+      "productId": 1753737,
+      "name": "Assos MILLE GT Jersey C2 Voganski Vignaccia Red",
+      "price": 49.99,
+      "reference": 130,
+      "url": "https://bikecloset.com/product/assos-mille-gt-jersey-c2-voganski-vignaccia-red/?attribute_pa_color=vignaccia-red&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1753734,
+      "productId": 1753733,
+      "name": "Assos MILLE GT Jersey C2 Voganski Gerva Grey",
+      "price": 49.99,
+      "reference": 130,
+      "url": "https://bikecloset.com/product/assos-mille-gt-jersey-c2-voganski-gerva-grey/?attribute_pa_color=gerva-grey&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1732171,
+      "productId": 1732168,
+      "name": "Assos EQUIPE R Jersey S11 Surface Violet Trip",
+      "price": 69.99,
+      "reference": 185,
+      "url": "https://bikecloset.com/product/assos-equipe-r-jersey-s11-surface-violet-trip/?attribute_pa_size=s",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1711681,
+      "productId": 1711679,
+      "name": "Assos Ultraz Winter Socks EVO blackSeries",
+      "price": 14.99,
+      "reference": 30,
+      "url": "https://bikecloset.com/product/assos-ultraz-winter-socks-evo-blackseries/?attribute_pa_size=i",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1689859,
+      "productId": 1519376,
+      "name": "Assos MILLE GTC Jersey C2",
+      "price": 49.99,
+      "reference": 160,
+      "url": "https://bikecloset.com/product/assos-mille-gtc-jersey-c2/?attribute_pa_color=schwarzwald-green&attribute_pa_size=m",
+      "detectedAt": "2026-11-11T16:12:03.617Z",
       "status": "awaiting-research"
     }
   ],
