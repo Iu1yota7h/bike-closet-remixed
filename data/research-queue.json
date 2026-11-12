@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:12:03.617Z",
+  "generatedAt": "2026-11-12T16:49:45.031Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -2021,6 +2021,256 @@
       "reference": 160,
       "url": "https://bikecloset.com/product/assos-mille-gtc-jersey-c2/?attribute_pa_color=schwarzwald-green&attribute_pa_size=m",
       "detectedAt": "2026-11-11T16:12:03.617Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807209,
+      "productId": 1807209,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset v31 Gloss Black XS",
+      "price": 1099,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-v31-gloss-black-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807210,
+      "productId": 1807210,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset V39 Brilliant Gold XS",
+      "price": 1099,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-v39-brilliant-gold-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807211,
+      "productId": 1807211,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset V35 Brilliant Red XS",
+      "price": 1099,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-v35-brilliant-red-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807212,
+      "productId": 1807212,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset V36 Brilliant Blue XS",
+      "price": 1099,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-v36-brilliant-blue-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807213,
+      "productId": 1807213,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset V38 Brilliant Pink XS",
+      "price": 1099,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-v38-brilliant-pink-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807214,
+      "productId": 1807214,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset V26 Gloss Red XS",
+      "price": 1099,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-v26-gloss-red-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807215,
+      "productId": 1807215,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset v15 Gloss White XS",
+      "price": 1099,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-v15-gloss-white-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807216,
+      "productId": 1807216,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset V21 Gloss Black/White Graphic XS",
+      "price": 1099,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-v21-gloss-black-white-graphic-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807217,
+      "productId": 1807217,
+      "name": "Time ADH ALPE D’HUEZ Carbon Disc Frameset V47 Brilliant Silver XS",
+      "price": 1099,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adh-alpe-dhuez-carbon-disc-frameset-v47-brilliant-silver-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807218,
+      "productId": 1807218,
+      "name": "Time ADHX Carbon Disc Frameset V11 Gloss Carbon XS",
+      "price": 1199,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v11-gloss-carbon-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807219,
+      "productId": 1807219,
+      "name": "Time ADHX Carbon Disc Frameset V43 Brilliant Silver XS",
+      "price": 1199,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v43-brilliant-silver-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807220,
+      "productId": 1807220,
+      "name": "Time ADHX Carbon Disc Frameset V27 Siva Gray XS",
+      "price": 1199,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-v27-siva-gray-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807221,
+      "productId": 1807221,
+      "name": "Time ADHX Carbon Disc Frameset Paint Shift Edition V42 Shift Green XS",
+      "price": 1399,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-paint-shift-edition-v42-shift-green-xs-3/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807222,
+      "productId": 1807222,
+      "name": "Time ADHX Carbon Disc Frameset Paint Shift Edition V40 Shift Cyan XS",
+      "price": 1399,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-carbon-disc-frameset-paint-shift-edition-v40-shift-cyan-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807223,
+      "productId": 1807223,
+      "name": "Time ADHX 45 UDH Carbon Disc Frameset V31 Gloss Carbon XS",
+      "price": 1599,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-45-udh-carbon-disc-frameset-v31-gloss-carbon-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807224,
+      "productId": 1807224,
+      "name": "Time ADHX 45 UDH Carbon Disc Frameset V46 Rose XS",
+      "price": 1599,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-45-udh-carbon-disc-frameset-v46-rose-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807225,
+      "productId": 1807225,
+      "name": "Time ADHX 45 UDH Carbon Disc Frameset V45 Steel Blue XS",
+      "price": 1599,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-45-udh-carbon-disc-frameset-v45-steel-blue-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807226,
+      "productId": 1807226,
+      "name": "Time ADHX 45 UDH Carbon Disc Frameset V43 Brilliant Silver XS",
+      "price": 1599,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-45-udh-carbon-disc-frameset-v43-brilliant-silver-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807227,
+      "productId": 1807227,
+      "name": "Time ADHX 45 UDH Carbon Disc Frameset V44 Chestnut XS",
+      "price": 1599,
+      "reference": 4000,
+      "url": "https://bikecloset.com/product/time-adhx-45-udh-carbon-disc-frameset-v44-chestnut-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807228,
+      "productId": 1807228,
+      "name": "Look 795 BLADE 2 RS Disc Frameset PROTEAM BLACK SATIN / BLACK GLOSSY XS",
+      "price": 1999,
+      "reference": 5800,
+      "url": "https://bikecloset.com/product/look-795-blade-2-rs-disc-frameset-proteam-black-satin-black-glossy-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807229,
+      "productId": 1807229,
+      "name": "Look 795 BLADE 2 RS Disc Frameset BLACK ROARING THUNDER SATIN XS",
+      "price": 1999,
+      "reference": 5800,
+      "url": "https://bikecloset.com/product/look-795-blade-2-rs-disc-frameset-black-roaring-thunder-satin-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807231,
+      "productId": 1807231,
+      "name": "Look 795 BLADE 2 RS Disc Frameset Firebird XS",
+      "price": 1999,
+      "reference": 5800,
+      "url": "https://bikecloset.com/product/look-795-blade-2-rs-disc-frameset-firebird-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807232,
+      "productId": 1807232,
+      "name": "Look 795 BLADE 2 RS Disc Frameset ICONIC PLATINIUM WHITE XS",
+      "price": 1999,
+      "reference": 5800,
+      "url": "https://bikecloset.com/product/look-795-blade-2-rs-disc-frameset-iconic-platinium-white-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807233,
+      "productId": 1807233,
+      "name": "Look 795 BLADE 2 RS Disc Frameset ICONIC PLATINIUM WHITE XXS",
+      "price": 1999,
+      "reference": 5800,
+      "url": "https://bikecloset.com/product/look-795-blade-2-rs-disc-frameset-iconic-platinium-white-xxs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1807234,
+      "productId": 1807234,
+      "name": "Look 795 BLADE 2 RS Disc Frameset ICONIC RADIAL XS",
+      "price": 1999,
+      "reference": 5800,
+      "url": "https://bikecloset.com/product/look-795-blade-2-rs-disc-frameset-iconic-radial-xs/",
+      "detectedAt": "2026-11-12T16:49:45.031Z",
       "status": "awaiting-research"
     }
   ],
