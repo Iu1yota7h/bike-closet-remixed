@@ -19,6 +19,8 @@ jobs:
         with:
           node-version: '22'
           cache: npm
+      - run: node scripts/check-react-peers.mjs
+      - run: node --test scripts/check-react-peers.test.mjs
       - run: npm ci
       - run: npx tsc --noEmit
       - run: npm run check:catalog
