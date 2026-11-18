@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:39:14.889Z",
+  "generatedAt": "2026-11-18T17:17:15.644Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -2281,6 +2281,56 @@
       "reference": 28,
       "url": "https://bikecloset.com/product/look-keo-grip-cleats-4-5-degree-gray/",
       "detectedAt": "2026-11-13T16:24:39.587Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808418,
+      "productId": 1808418,
+      "name": "Pirelli P ZERO Race RS Classic 700x28mm Clincher (OEM)",
+      "price": 99.9,
+      "reference": 99.9,
+      "url": "https://bikecloset.com/product/pirelli-p-zero-race-rs-classic-700x28mm-clincher-oem/",
+      "detectedAt": "2026-11-18T17:17:15.644Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808416,
+      "productId": 1808416,
+      "name": "Pirelli P ZERO Race RS 700x28mm Black Clincher (OEM)",
+      "price": 99.9,
+      "reference": 99.9,
+      "url": "https://bikecloset.com/product/pirelli-p-zero-race-rs-700x28mm-black-clincher-oem/",
+      "detectedAt": "2026-11-18T17:17:15.644Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808414,
+      "productId": 1808414,
+      "name": "Pirelli P ZERO Race Retro 700x26mm Clincher",
+      "price": 99.9,
+      "reference": 99.9,
+      "url": "https://bikecloset.com/product/pirelli-p-zero-race-retro-700x26mm-clincher/",
+      "detectedAt": "2026-11-18T17:17:15.644Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808412,
+      "productId": 1808412,
+      "name": "Pirelli P ZERO Race RS TLR Team Edition 700x32mm Tubeless Ready (OEM)",
+      "price": 117.9,
+      "reference": 117.9,
+      "url": "https://bikecloset.com/product/pirelli-p-zero-race-rs-tlr-team-edition-700x32mm-yellow-tubeless-ready-oem/",
+      "detectedAt": "2026-11-18T17:17:15.644Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 88166,
+      "productId": 88166,
+      "name": "Pirelli Cinturato Velo TLR 700x28mm Black Folding Tubeless Ready",
+      "price": 95.9,
+      "reference": 95.9,
+      "url": "https://bikecloset.com/product/pirelli-cinturato-velo-tire-700x28c-folding-tubeless-ready-smartnet-silica-60tpi-black/",
+      "detectedAt": "2026-11-18T17:17:15.644Z",
       "status": "awaiting-research"
     }
   ],
