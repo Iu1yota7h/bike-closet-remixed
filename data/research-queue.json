@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:17:15.644Z",
+  "generatedAt": "2026-11-19T17:23:50.773Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -2331,6 +2331,16 @@
       "reference": 95.9,
       "url": "https://bikecloset.com/product/pirelli-cinturato-velo-tire-700x28c-folding-tubeless-ready-smartnet-silica-60tpi-black/",
       "detectedAt": "2026-11-18T17:17:15.644Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1556945,
+      "productId": 1556942,
+      "name": "Assos EQUIPE RS SPRING FALL BIB SHORTS S9",
+      "price": 99,
+      "reference": 279,
+      "url": "https://bikecloset.com/product/assos-equipe-rs-spring-fall-bib-shorts-s9/?attribute_pa_size=xlg",
+      "detectedAt": "2026-11-19T17:23:50.773Z",
       "status": "awaiting-research"
     }
   ],
