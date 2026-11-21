@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:59:02.024Z",
+  "generatedAt": "2026-11-21T16:09:39.915Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -2341,6 +2341,66 @@
       "reference": 279,
       "url": "https://bikecloset.com/product/assos-equipe-rs-spring-fall-bib-shorts-s9/?attribute_pa_size=xlg",
       "detectedAt": "2026-11-19T17:23:50.773Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808956,
+      "productId": 1808952,
+      "name": "Mavic Cosmic SLR 45 Carbon Disc Wheel",
+      "price": 699,
+      "reference": 1530,
+      "url": "https://bikecloset.com/product/mavic-cosmic-slr-45-carbon-disc-wheel/?attribute_wheel=Rear+-+Shimano+HG",
+      "detectedAt": "2026-11-21T16:09:39.915Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808941,
+      "productId": 1808939,
+      "name": "Mavic Cosmic SLR 32 Carbon Disc Wheel",
+      "price": 599,
+      "reference": 1210,
+      "url": "https://bikecloset.com/product/mavic-cosmic-slr-32-carbon-disc-wheel/?attribute_wheel=Front",
+      "detectedAt": "2026-11-21T16:09:39.915Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808896,
+      "productId": 1808895,
+      "name": "Fizik Kassis Mud/Sand + Light",
+      "price": 129.99,
+      "reference": 219.99,
+      "url": "https://bikecloset.com/product/fizik-kassis-mud-sand-light/?attribute_pa_size=large",
+      "detectedAt": "2026-11-21T16:09:39.915Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808886,
+      "productId": 1808885,
+      "name": "Fizik Kassis Arche-Type + Light",
+      "price": 129.99,
+      "reference": 219.99,
+      "url": "https://bikecloset.com/product/fizik-kassis-arche-type-light/?attribute_pa_size=large",
+      "detectedAt": "2026-11-21T16:09:39.915Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808875,
+      "productId": 1808874,
+      "name": "Fizik KUNÈE White",
+      "price": 219.99,
+      "reference": 419.99,
+      "url": "https://bikecloset.com/product/fizik-kunee-white/?attribute_pa_size=ml",
+      "detectedAt": "2026-11-21T16:09:39.915Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1808856,
+      "productId": 1808855,
+      "name": "Fizik Terra Ergolace X2 Flat Grey/Yellow Fluo",
+      "price": 34.99,
+      "reference": 149.99,
+      "url": "https://bikecloset.com/product/fizik-terra-ergolace-x2-flat-grey-yellow-fluo/?attribute_pa_size=46",
+      "detectedAt": "2026-11-21T16:09:39.915Z",
       "status": "awaiting-research"
     }
   ],
