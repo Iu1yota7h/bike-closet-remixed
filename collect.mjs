@@ -2,24 +2,14 @@ import fs from 'node:fs';
 import {pathToFileURL} from 'node:url';
 import ts from 'typescript';
 import {updateResearchQueue} from './scripts/research-queue.mjs';
+import {createFeedClient} from './scripts/catalog-feed.mjs';
+export {validatePages} from './scripts/catalog-feed.mjs';
 const textCode=ts.transpileModule(fs.readFileSync(new URL('./lib/catalog-text.ts',import.meta.url),'utf8'),{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText;
 const {cleanCatalogText}=await import('data:text/javascript;base64,'+Buffer.from(textCode).toString('base64'));
 const root='https://bikecloset.com/wp-json/wc/store/v1/products';
 export const INVENTORY_SCHEDULE='Daily · 12:17 AM Pacific';
 const read=(p,f)=>fs.existsSync(p)?JSON.parse(fs.readFileSync(p,'utf8')):f;
-export async function getJSON(url){
- for(let attempt=0;attempt<3;attempt++){
-  try{const r=await fetch(url,{signal:AbortSignal.timeout(60000),headers:{'User-Agent':'BikeClosetIndex/1.0 (+https://github.com/Iu1yota7h/bike-closet-remixed)'}});if(!r.ok)throw Error(`HTTP ${r.status}`);return {body:await r.json(),headers:r.headers};}
-  catch(e){if(attempt===2)throw e;await new Promise(r=>setTimeout(r,1000*2**attempt));}
- }
-}
-export function validatePages(pages){
- const total=Number(pages[0].headers.get('x-wp-total'));const expected=Number(pages[0].headers.get('x-wp-totalpages'));
- const rows=pages.flatMap(p=>p.body);
- if(!Number.isSafeInteger(total)||total<1||expected!==pages.length||rows.length!==total||new Set(rows.map(r=>r.id)).size!==total||pages.some(p=>Number(p.headers.get('x-wp-total'))!==total))throw Error('Incomplete or shifting feed; previous snapshot retained');
- return rows;
-}
-async function all(type){const query=`${root}?per_page=100&orderby=date&order=desc${type}`;const first=await getJSON(query+'&page=1');const count=Number(first.headers.get('x-wp-totalpages'));if(!Number.isSafeInteger(count)||count<1||count>500)throw Error('Invalid pagination');const pages=[first];for(let p=2;p<=count;p+=3){pages.push(...await Promise.all(Array.from({length:Math.min(3,count-p+1)},(_,i)=>getJSON(query+'&page='+(p+i)))));}return validatePages(pages);}
+export async function getJSON(url){return createFeedClient().getJSON(url);}
 export function normalize(products,variants,previous,now,allowShrink=false){
  const parents=new Map(products.map((p,i)=>[p.id,{...p,newestRank:i}]));const old=new Map((previous?.rows||[]).map(r=>[r.id,r]));const events=[];
  const rows=[...products.filter(p=>p.type!=='variable'),...variants].map(v=>{
@@ -41,8 +31,8 @@ export function normalize(products,variants,previous,now,allowShrink=false){
  if(previous&&!allowShrink&&rows.length<previous.rows.length*.75)throw Error('Unexpected catalog shrink; manual review required');
  return {rows,events};
 }
-export async function collect(){
- const previous=read('public/catalog.json',null);const products=await all('');const variants=await all('&type=variation');const now=new Date().toISOString();const {rows,events}=normalize(products,variants,previous,now,process.argv.includes('--accept-reviewed-shrink'));
+export async function collect({client=createFeedClient(),observationTime=()=>new Date().toISOString()}={}){
+ const previous=read('public/catalog.json',null);const query=`${root}?per_page=100&orderby=date&order=desc`;const products=await client.readAll(query);const variants=await client.readAll(query+'&type=variation');const now=observationTime();const {rows,events}=normalize(products,variants,previous,now,process.argv.includes('--accept-reviewed-shrink'));
  const output={checkedAt:now,products:products.length,variants:variants.length,representedProducts:new Set(rows.map(r=>r.productId)).size,rows};
  const currentQueue=read('data/research-queue.json',{completed:[]});const research=read('public/research.json',{});const {queue,added}=updateResearchQueue(currentQueue,previous?.rows,rows,research,now,5);
  // No writes occur until every page and normalized row passes validation.
@@ -53,5 +43,6 @@ export async function collect(){
  fs.appendFileSync('data/history.jsonl',events.map(e=>JSON.stringify(e)).join('\n')+(events.length?'\n':''));
  const status=read('public/status.json',{});status.inventory={checkedAt:now,status:'success',schedule:INVENTORY_SCHEDULE};fs.writeFileSync('public/status.json',JSON.stringify(status,null,2)+'\n');
  console.log(`Collected ${products.length} products, ${variants.length} variants; ${events.length} price/stock events; ${added.length} new parent products queued for one-time review research.`);
+ return output;
 }
 if(process.argv[1]&&import.meta.url===pathToFileURL(process.argv[1]).href)await collect();

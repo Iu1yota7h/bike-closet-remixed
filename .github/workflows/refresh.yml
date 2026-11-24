@@ -14,7 +14,7 @@ jobs:
   refresh:
     if: github.repository == 'Iu1yota7h/bike-closet-remixed'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -23,8 +23,9 @@ jobs:
           cache: npm
       - run: npm ci --ignore-scripts
       - run: npm run check:catalog
-      - run: node collect.mjs
-      - run: node scripts/export-csv.mjs
+      - name: Collect and export with bounded recovery
+        run: node scripts/refresh-catalog.mjs
+        timeout-minutes: 80
       - name: Save validated data
         if: ${{ !cancelled() && success() }}
         run: |
@@ -35,3 +36,16 @@ jobs:
             git commit -m 'Refresh catalog'
             git push
           fi
+      - name: Keep catalog recovery evidence
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v7
+        with:
+          name: catalog-refresh-${{ github.run_id }}-${{ github.run_attempt }}
+          retention-days: 14
+          if-no-files-found: error
+          path: |
+            work/refresh-attempt.json
+            public/catalog.json
+            public/in-stock.csv
+            public/status.json
+            data/history.jsonl
