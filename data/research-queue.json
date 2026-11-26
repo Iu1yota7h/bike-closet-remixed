@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:42:05.436Z",
+  "generatedAt": "2026-11-26T18:28:44.398Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -2401,6 +2401,26 @@
       "reference": 149.99,
       "url": "https://bikecloset.com/product/fizik-terra-ergolace-x2-flat-grey-yellow-fluo/?attribute_pa_size=46",
       "detectedAt": "2026-11-21T16:09:39.915Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1809963,
+      "productId": 1809961,
+      "name": "Shimano Ultegra 8170 Di2 Disc Build Kit W/ Power Meter (OEM)",
+      "price": 2200,
+      "reference": 3800,
+      "url": "https://bikecloset.com/product/shimano-ultegra-di2-disc-build-kit-oem/?attribute_pa_crank-length=170mm",
+      "detectedAt": "2026-11-26T18:28:44.398Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1809956,
+      "productId": 1809956,
+      "name": "Shimano Ultegra WH-R8170 C36 TL Wheelset",
+      "price": 999,
+      "reference": 1570,
+      "url": "https://bikecloset.com/product/shimano-ultegra-wh-r8170-c36-tl-wheelset/",
+      "detectedAt": "2026-11-26T18:28:44.398Z",
       "status": "awaiting-research"
     }
   ],
