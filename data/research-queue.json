@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T18:28:44.398Z",
+  "generatedAt": "2026-11-27T18:14:33.973Z",
   "trigger": "new-parent-products",
   "maxNewModels": 5,
   "pending": [
@@ -2421,6 +2421,36 @@
       "reference": 1570,
       "url": "https://bikecloset.com/product/shimano-ultegra-wh-r8170-c36-tl-wheelset/",
       "detectedAt": "2026-11-26T18:28:44.398Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1809929,
+      "productId": 1809928,
+      "name": "Time NXR Carbon Disc Frameset",
+      "price": 2299,
+      "reference": 2999,
+      "url": "https://bikecloset.com/product/time-nxr-carbon-disc-frameset/?attribute_pa_color=n02-cobalt&attribute_pa_size=xs",
+      "detectedAt": "2026-11-27T18:14:33.973Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1809916,
+      "productId": 1809915,
+      "name": "Time Fluidity Carbon Disc Frameset",
+      "price": 2399,
+      "reference": 3999,
+      "url": "https://bikecloset.com/product/time-fluidity-carbon-disc-frameset/?attribute_pa_color=f03-satin-metallic-red&attribute_pa_size=xs",
+      "detectedAt": "2026-11-27T18:14:33.973Z",
+      "status": "awaiting-research"
+    },
+    {
+      "id": 1809902,
+      "productId": 1809901,
+      "name": "Time Scylon Carbon Disc Frameset",
+      "price": 2999,
+      "reference": 4999,
+      "url": "https://bikecloset.com/product/time-scylon-carbon-disc-frameset/?attribute_pa_color=s03-brilliant-red&attribute_pa_size=xxs",
+      "detectedAt": "2026-11-27T18:14:33.973Z",
       "status": "awaiting-research"
     }
   ],
